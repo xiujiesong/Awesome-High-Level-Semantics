@@ -1,5 +1,7 @@
 # Awesome-High-Level-Semantics
 
+## Story
+
 
 ## Metaphor
 
