@@ -69,7 +69,7 @@ If you find this paper and repo helpful for your research, please cite it below:
 ## <span id="head5"> *Paper With Code* </span>
 
 * <span id="head-t2f"> **Story**  </span> 
-    * (ECCV 2024) **PreciseControl: Enhancing Text-To-Image Diffusion Models with Fine-Grained Attribute Control**, Rishubh Parihar et al. [[Paper](https://www.arxiv.org/abs/2408.05083)] [[Project](https://rishubhpar.github.io/PreciseControl.home/)] 
+    * (NIPS 2024) **II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models**, Rishubh Parihar et al. [[Paper]()] [[Project](https://ii-bench.github.io/)] 
     * (arXiv preprint 2024) [💬 Dataset] **15M Multimodal Facial Image-Text Dataset**, Dawei Dai et al. [[Paper](https://arxiv.org/abs/2407.08515)] 
 
 
