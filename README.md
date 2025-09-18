@@ -69,7 +69,7 @@ If you find this paper and repo helpful for your research, please cite it below:
 ## <span id="head5"> *Paper With Code* </span>
 
 * <span id="head-t2f"> **Story**  </span> 
-    * (NIPS 2024) **II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models**, Rishubh Parihar et al. [[Paper]()] [[Project](https://ii-bench.github.io/)] 
+    * [NIPS 2024 D&B Track] **II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models**, Rishubh Parihar et al. [[Paper]()] [[Project](https://ii-bench.github.io/)] 
     * (arXiv preprint 2024) [💬 Dataset] **15M Multimodal Facial Image-Text Dataset**, Dawei Dai et al. [[Paper](https://arxiv.org/abs/2407.08515)] 
 
 
