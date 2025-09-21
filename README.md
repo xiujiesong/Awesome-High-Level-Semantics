@@ -66,43 +66,45 @@ If you find this paper and repo helpful for your research, please cite it below:
 >🐌 Markdown Format:
 > * (Conference/Journal Year) **Title**, First Author et al. [[Paper](URL)] [[Code](URL)] [[Project](URL)]
 
-## <span id="head5"> *Paper With Code* </span>
+## <span id="head5"> *High-Level Semantic Understanding* </span>
 
-* <span id="head-t2f"> **Story**  </span> 
-    * [NIPS 2024 D&B Track] **II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models**, Rishubh Parihar et al. [[Paper]()] [[Project](https://ii-bench.github.io/)] 
-    * (arXiv preprint 2024) [💬 Dataset] **15M Multimodal Facial Image-Text Dataset**, Dawei Dai et al. [[Paper](https://arxiv.org/abs/2407.08515)] 
+* <span id="head-t2f"> **Storytelling**  </span>
+    * [AAAI 2025] **Is Your Image a Good Storyteller?**, Xiujie Song et al. [[Paper](https://arxiv.org/abs/2501.01982)] 
+    * [NAACL 2025] **A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models**, Xiujie Song et al. [[Paper](https://aclanthology.org/2025.naacl-long.324/)] 
+    * [NIPS 2024 D&B Track] [💬 Dataset] **II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models**, Rishubh Parihar et al. [[Paper]()] [[Project](https://ii-bench.github.io/)] 
+    * [ACL 2024] **Can Large Multimodal Models Uncover Deep Semantics Behind Images?**, Yixin Yang et al. [[Paper](https://aclanthology.org/2024.findings-acl.113/)] 
 
 
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-si"> **Metaphor**  </span> 
-    * (arXiv preprint 2025) [💬 Differentiable Object Counting] **YOLO-Count: Differentiable Object Counting for Text-to-Image Generation**, Guanning Zeng et al.  [[Paper](https://arxiv.org/abs/2508.00728)] 
+    * [arXiv preprint 2025] [💬 Differentiable Object Counting] **YOLO-Count: Differentiable Object Counting for Text-to-Image Generation**, Guanning Zeng et al.  [[Paper](https://arxiv.org/abs/2508.00728)] 
 
 
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-2025"> **Humor**  </span> 
-     * (arXiv preprint 2025) **AI Humor Generation: Cognitive, Social and Creative Skills for Effective Humor**, SEAN KIM et al. [[Paper]()]
-     * (arXiv preprint 2025) **One Does Not Simply Meme Alone: Evaluating Co-Creativity Between LLMs and Humans in the Generation of Humor**, Zhikun Wu et al. [[Paper]()]
-     * (arXiv preprint 2024) **Humor Mechanics: Advancing Humor Generation with Multistep Reasoning**, Zhikun Wu et al. [[Paper](Alexey Tikhonov)]
+     * [arXiv preprint 2025] **AI Humor Generation: Cognitive, Social and Creative Skills for Effective Humor**, SEAN KIM et al. [[Paper]()]
+     * [arXiv preprint 2025] **One Does Not Simply Meme Alone: Evaluating Co-Creativity Between LLMs and Humans in the Generation of Humor**, Zhikun Wu et al. [[Paper]()]
+     * [arXiv preprint 2024] **Humor Mechanics: Advancing Humor Generation with Multistep Reasoning**, Zhikun Wu et al. [[Paper](Alexey Tikhonov)]
 
 
 * <span id="head-2024"> **Empathy**  </span> 
-     * (arXiv preprint 2024) **Flow Generator Matching**, Zemin Huang et al. [[Paper](https://arxiv.org/abs/2410.19310)]
-     * (EMNLP 2024) **Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**, Vladimir Arkhipkin et al. [[Paper](https://arxiv.org/abs/2410.21061)] [[Code](https://github.com/ai-forever/Kandinsky-3)] [[Project](https://ai-forever.github.io/Kandinsky-3/)] 
+     * [Korean Journal of Cognitive Science. 2024] **Chain of Empathy: Enhancing Empathetic Response of Large Language Models Based on Psychotherapy Models**, Yoon Kyung Lee et al. [[Paper](https://arxiv.org/abs/2311.04915)]
+     * () **AAA**, aaa et al. [[Paper]()] [[Code]()] [[Project]()] 
 
 
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-2023"> **Irony**  </span>
-     * (arXiv preprint 2023) **CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**, Zineng Tang et al. [[Paper](https://arxiv.org/abs/2311.18775)] [[Project](https://codi-2.github.io/)] [[Code](https://github.com/microsoft/i-Code/tree/main/CoDi-2)] 
+     * [arXiv preprint 2023] **CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**, Zineng Tang et al. [[Paper](https://arxiv.org/abs/2311.18775)] [[Project](https://codi-2.github.io/)] [[Code](https://github.com/microsoft/i-Code/tree/main/CoDi-2)] 
 
 
 [<u><🎯Back to Top></u>](#head-content)
 
 
 * <span id="head-2023"> **Sarcasm**  </span>
-     * (EMNLP 2025) **Sarcasm-R1: Enhancing Sarcasm Detection through Focused Reasoning**, Qi Yang et al. [[Paper]()] [[Project]()] [[Code]()]
+     * [EMNLP 2025] **Sarcasm-R1: Enhancing Sarcasm Detection through Focused Reasoning**, Qi Yang et al. [[Paper]()] [[Project]()] [[Code]()]
 
 ## <span id="head7"> Contact Me </span>
 
