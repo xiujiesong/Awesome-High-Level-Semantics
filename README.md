@@ -82,8 +82,9 @@ If you find this paper and repo helpful for your research, please cite it below:
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-2025"> **Humor**  </span> 
-     * (arXiv preprint 2025) **RefVNLI: Towards Scalable Evaluation of Subject-driven Text-to-image Generation**, Aviv Slobodkin et al. [[Paper](https://arxiv.org/abs/2504.17502)]
-     * (arXiv preprint 2025) **An Empirical Study of GPT-4o Image Generation Capabilities**, Sixiang Chen et al. [[Paper](https://arxiv.org/abs/2504.05979)]
+     * (arXiv preprint 2025) **AI Humor Generation: Cognitive, Social and Creative Skills for Effective Humor**, SEAN KIM et al. [[Paper]()]
+     * (arXiv preprint 2025) **One Does Not Simply Meme Alone: Evaluating Co-Creativity Between LLMs and Humans in the Generation of Humor**, Zhikun Wu et al. [[Paper]()]
+     * (arXiv preprint 2024) **Humor Mechanics: Advancing Humor Generation with Multistep Reasoning**, Zhikun Wu et al. [[Paper](Alexey Tikhonov)]
 
 
 * <span id="head-2024"> **Empathy**  </span> 
@@ -100,6 +101,8 @@ If you find this paper and repo helpful for your research, please cite it below:
 [<u><🎯Back to Top></u>](#head-content)
 
 
+* <span id="head-2023"> **Sarcasm**  </span>
+     * (arXiv preprint 2023) **CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**, Zineng Tang et al. [[Paper](https://arxiv.org/abs/2311.18775)] [[Project](https://codi-2.github.io/)] [[Code](https://github.com/microsoft/i-Code/tree/main/CoDi-2)]
 
 ## <span id="head7"> Contact Me </span>
 
