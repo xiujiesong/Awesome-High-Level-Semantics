@@ -102,7 +102,7 @@ If you find this paper and repo helpful for your research, please cite it below:
 
 
 * <span id="head-2023"> **Sarcasm**  </span>
-     * (arXiv preprint 2023) **CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**, Zineng Tang et al. [[Paper](https://arxiv.org/abs/2311.18775)] [[Project](https://codi-2.github.io/)] [[Code](https://github.com/microsoft/i-Code/tree/main/CoDi-2)]
+     * (EMNLP 2025) **Sarcasm-R1: Enhancing Sarcasm Detection through Focused Reasoning**, Qi Yang et al. [[Paper]()] [[Project]()] [[Code]()]
 
 ## <span id="head7"> Contact Me </span>
 
