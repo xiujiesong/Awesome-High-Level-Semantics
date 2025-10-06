@@ -69,6 +69,7 @@ If you find this paper and repo helpful for your research, please cite it below:
 ## <span id="head5"> *High-Level Semantic Understanding* </span>
 
 * <span id="head-t2f"> **High-Level Semantic in Images**  </span>
+    * [ACL 2025] **Can MLLMs Understand the Deep Implication Behind Chinese Images?**, Chenhao Zhang et al. [[Paper](https://aclanthology.org/2025.acl-long.700.pdf)] 
     * [AAAI 2025] **Is Your Image a Good Storyteller?**, Xiujie Song et al. [[Paper](https://arxiv.org/abs/2501.01982)] 
     * [NAACL 2025] **A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models**, Xiujie Song et al. [[Paper](https://aclanthology.org/2025.naacl-long.324/)] 
     * [NIPS 2024 D&B Track] [💬 Dataset] **II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models**, Rishubh Parihar et al. [[Paper]()] [[Project](https://ii-bench.github.io/)] 
