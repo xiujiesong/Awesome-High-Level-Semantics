@@ -95,7 +95,6 @@ If you find this paper and repo helpful for your research, please cite it below:
 
 * <span id="head-2024"> **Empathy**  </span> 
      * [Korean Journal of Cognitive Science. 2024] **Chain of Empathy: Enhancing Empathetic Response of Large Language Models Based on Psychotherapy Models**, Yoon Kyung Lee et al. [[Paper](https://arxiv.org/abs/2311.04915)]
-     * () **AAA**, aaa et al. [[Paper]()] [[Code]()] [[Project]()] 
 
 
 [<u><🎯Back to Top></u>](#head-content)
