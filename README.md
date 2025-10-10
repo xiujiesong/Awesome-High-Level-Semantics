@@ -88,7 +88,7 @@ If you find this paper and repo helpful for your research, please cite it below:
 * <span id="head-2025"> **Humor**  </span> 
      * [ACL 2023] **Do Androids Laugh at Electric Sheep? Humor “Understanding” Benchmarks from The New Yorker Caption Contest** Jack Hessel et al. [[Paper](https://aclanthology.org/2023.acl-long.41/)]
      * [IUI 2025] **One Does Not Simply Meme Alone: Evaluating Co-Creativity Between LLMs and Humans in the Generation of Humor**, Zhikun Wu et al. [[Paper](https://dl.acm.org/doi/10.1145/3708359.3712094)]
-     ** [LREC 2016] **Humor in Collective Discourse: Unsupervised Funniness Detection in the New Yorker Cartoon Caption Contest** Dragomir Radev et al. [[Paper](https://aclanthology.org/L16-1076/)]
+     * [LREC 2016] **Humor in Collective Discourse: Unsupervised Funniness Detection in the New Yorker Cartoon Caption Contest** Dragomir Radev et al. [[Paper](https://aclanthology.org/L16-1076/)]
      * [arXiv preprint 2025] **AI Humor Generation: Cognitive, Social and Creative Skills for Effective Humor**, SEAN KIM et al. [[Paper]()]
      * [arXiv preprint 2024] **Humor Mechanics: Advancing Humor Generation with Multistep Reasoning**, Zhikun Wu et al. [[Paper](Alexey Tikhonov)]
 
