@@ -102,6 +102,7 @@ If you find this paper and repo helpful for your research, please cite it below:
 
 
 * <span id="head-2023"> **Sarcasm**  </span>
+     * [LREC 2024] **SarcNet: A Multilingual Multimodal Sarcasm Detection Dataset**, Tan Yue et al. [[Paper](https://aclanthology.org/2024.lrec-main.1248/)]
      * [AAAI 2022] **Nice perfume. How long did you marinate in it? Multimodal Sarcasm Explanation**, Poorav Desai et al. [[Paper](https://arxiv.org/abs/2112.04873)]
      * [EMNLP 2025] **Sarcasm-R1: Enhancing Sarcasm Detection through Focused Reasoning**, Qi Yang et al. [[Paper]()] [[Project]()] [[Code]()]
      * [FigLang 2020] **Sarcasm Detection Using an Ensemble Approach**, Jens Lemmens et al. [[Paper](https://aclanthology.org/2020.figlang-1.36/)]
