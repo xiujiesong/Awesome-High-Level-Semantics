@@ -80,14 +80,16 @@ If you find this paper and repo helpful for your research, please cite it below:
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-si"> **Metaphor**  </span> 
-    * [arXiv preprint 2025] [💬 Differentiable Object Counting] **YOLO-Count: Differentiable Object Counting for Text-to-Image Generation**, Guanning Zeng et al.  [[Paper](https://arxiv.org/abs/2508.00728)] 
+    * [ACL 2024] **Exploring Chain-of-Thought for Multi-modal Metaphor Detection**, Guanning Zeng et al.  [[Paper](https://aclanthology.org/2024.acl-long.6/)] 
 
 
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-2025"> **Humor**  </span> 
+     * [ACL 2023] **Do Androids Laugh at Electric Sheep? Humor “Understanding” Benchmarks from The New Yorker Caption Contest** Jack Hessel et al. [[Paper](https://aclanthology.org/2023.acl-long.41/)]
+     * [IUI 2025] **One Does Not Simply Meme Alone: Evaluating Co-Creativity Between LLMs and Humans in the Generation of Humor**, Zhikun Wu et al. [[Paper](https://dl.acm.org/doi/10.1145/3708359.3712094)]
+     ** [LREC 2016] **Humor in Collective Discourse: Unsupervised Funniness Detection in the New Yorker Cartoon Caption Contest** Dragomir Radev et al. [[Paper](https://aclanthology.org/L16-1076/)]
      * [arXiv preprint 2025] **AI Humor Generation: Cognitive, Social and Creative Skills for Effective Humor**, SEAN KIM et al. [[Paper]()]
-     * [arXiv preprint 2025] **One Does Not Simply Meme Alone: Evaluating Co-Creativity Between LLMs and Humans in the Generation of Humor**, Zhikun Wu et al. [[Paper]()]
      * [arXiv preprint 2024] **Humor Mechanics: Advancing Humor Generation with Multistep Reasoning**, Zhikun Wu et al. [[Paper](Alexey Tikhonov)]
 
 
@@ -98,17 +100,13 @@ If you find this paper and repo helpful for your research, please cite it below:
 
 [<u><🎯Back to Top></u>](#head-content)
 
-* <span id="head-2023"> **Irony**  </span>
-     * [arXiv preprint 2023] **CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**, Zineng Tang et al. [[Paper](https://arxiv.org/abs/2311.18775)] [[Project](https://codi-2.github.io/)] [[Code](https://github.com/microsoft/i-Code/tree/main/CoDi-2)] 
-
-
-[<u><🎯Back to Top></u>](#head-content)
-
 
 * <span id="head-2023"> **Sarcasm**  </span>
+     * [AAAI 2022] **Nice perfume. How long did you marinate in it? Multimodal Sarcasm Explanation**, Poorav Desai et al. [[Paper](https://arxiv.org/abs/2112.04873)]
      * [EMNLP 2025] **Sarcasm-R1: Enhancing Sarcasm Detection through Focused Reasoning**, Qi Yang et al. [[Paper]()] [[Project]()] [[Code]()]
+     * [FigLang 2020] **Sarcasm Detection Using an Ensemble Approach**, Jens Lemmens et al. [[Paper](https://aclanthology.org/2020.figlang-1.36/)]
 
-## <span id="head7"> Contact Me </span>
+## <span id="head7"> Contact Me</span>
 
 If you have any questions or comments, please feel free to contact [**Xiujie**](https://) ლ(╹◡╹ლ)
 
