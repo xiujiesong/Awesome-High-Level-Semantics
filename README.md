@@ -91,7 +91,9 @@ If you find this paper and repo helpful for your research, please cite it below:
      * [LREC 2016] **Humor in Collective Discourse: Unsupervised Funniness Detection in the New Yorker Cartoon Caption Contest** Dragomir Radev et al. [[Paper](https://aclanthology.org/L16-1076/)]
      * [arXiv preprint 2025] **AI Humor Generation: Cognitive, Social and Creative Skills for Effective Humor**, SEAN KIM et al. [[Paper]()]
      * [arXiv preprint 2024] **Humor Mechanics: Advancing Humor Generation with Multistep Reasoning**, Zhikun Wu et al. [[Paper](Alexey Tikhonov)]
-
+     * [NAACL 2025] **Commonality and Individuality! Integrating Humor Commonality with Speaker Individuality for Humor Recognition**, Haohao Zhu et al. [[Paper](https://arxiv.org/pdf/2502.04960v1)]
+     * [ICASSP 2025] **MHSDB: A Comprehensive Benchmark for Multimodal Humor and Sarcasm Detection Leveraging Foundation Models**,  Zhongren Dong et al. [[Paper](https://ieeexplore.ieee.org/abstract/document/10887877)]
+     * [ACL 2025] **GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art**, Yiming Lei et al. [[Paper](https://arxiv.org/pdf/2505.11436)]
 
 * <span id="head-2024"> **Empathy**  </span> 
      * [Korean Journal of Cognitive Science. 2024] **Chain of Empathy: Enhancing Empathetic Response of Large Language Models Based on Psychotherapy Models**, Yoon Kyung Lee et al. [[Paper](https://arxiv.org/abs/2311.04915)]
