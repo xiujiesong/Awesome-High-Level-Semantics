@@ -36,7 +36,7 @@ If you find this paper and repo helpful for your research, please cite it below:
 ## 🎑 News
 * [20/10/13] **Awesome-High-Level-Semantics** repo is created.
 
-## *<img src="./pic/icon/to-do-list.png" width="25" /> To Do*
+## 📋 *To Do*
 * - [x] Create [**⏳Recently Focused Papers**](https://github.com/xiujiesong/Awesome-High-Level-Semantics/blob/main/%E2%8F%B3Recently%20Focused%20Papers.md)
 
 ## <span id="head-content"> *Content* </span>
@@ -64,17 +64,18 @@ If you find this paper and repo helpful for your research, please cite it below:
 * Papers, codes, and datasets for the text-to-image task are available here.
 
 >🐌 Markdown Format:
-> * (Conference/Journal Year) **Title**, First Author et al. [[Paper](URL)] [[Code](URL)] [[Project](URL)]
+> * [Conference/Journal Year] 📝/📸/🔊 **Title**, First Author et al. [[Paper](URL)] [[Code](URL)] [[Project](URL)]
+> - Note: 📝: language, 📸: vision, 🔊: audio
 
 ## <span id="head5"> *High-Level Semantic Understanding* </span>
 
 * <span id="head-t2f"> **High-Level Semantic in Images**  </span>
-    * [Arxiv preprint 2025] **Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**, Chenhao Zhang et al. [[Paper](https://arxiv.org/pdf/2505.17019)] 
-    * [ACL 2025] **Can MLLMs Understand the Deep Implication Behind Chinese Images?**, Chenhao Zhang et al. [[Paper](https://aclanthology.org/2025.acl-long.700.pdf)] 
-    * [AAAI 2025] **Is Your Image a Good Storyteller?**, Xiujie Song et al. [[Paper](https://arxiv.org/abs/2501.01982)] 
-    * [NAACL 2025] **A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models**, Xiujie Song et al. [[Paper](https://aclanthology.org/2025.naacl-long.324/)] 
-    * [NIPS 2024 D&B Track] [💬 Dataset] **II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models**, Rishubh Parihar et al. [[Paper]()] [[Project](https://ii-bench.github.io/)] 
-    * [ACL 2024] **Can Large Multimodal Models Uncover Deep Semantics Behind Images?**, Yixin Yang et al. [[Paper](https://aclanthology.org/2024.findings-acl.113/)] 
+    * [Arxiv preprint 2025] 📝📸 **Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**, Chenhao Zhang et al. [[Paper](https://arxiv.org/pdf/2505.17019)] 
+    * [ACL 2025] 📝📸 **Can MLLMs Understand the Deep Implication Behind Chinese Images?**, Chenhao Zhang et al. [[Paper](https://aclanthology.org/2025.acl-long.700.pdf)] 
+    * [AAAI 2025] 📝📸 **Is Your Image a Good Storyteller?**, Xiujie Song et al. [[Paper](https://arxiv.org/abs/2501.01982)] 
+    * [NAACL 2025] 📝📸 **A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models**, Xiujie Song et al. [[Paper](https://aclanthology.org/2025.naacl-long.324/)] 
+    * [NIPS 2024 D&B Track] [💬 Dataset] 📝📸 **II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models**, Rishubh Parihar et al. [[Paper]()] [[Project](https://ii-bench.github.io/)] 
+    * [ACL 2024] 📝📸 **Can Large Multimodal Models Uncover Deep Semantics Behind Images?**, Yixin Yang et al. [[Paper](https://aclanthology.org/2024.findings-acl.113/)] 
 
 
 [<u><🎯Back to Top></u>](#head-content)
@@ -92,11 +93,17 @@ If you find this paper and repo helpful for your research, please cite it below:
      * [ACL 2023] **Do Androids Laugh at Electric Sheep? Humor “Understanding” Benchmarks from The New Yorker Caption Contest** Jack Hessel et al. [[Paper](https://aclanthology.org/2023.acl-long.41/)]
      * [IUI 2025] **One Does Not Simply Meme Alone: Evaluating Co-Creativity Between LLMs and Humans in the Generation of Humor**, Zhikun Wu et al. [[Paper](https://dl.acm.org/doi/10.1145/3708359.3712094)]
      * [LREC 2016] **Humor in Collective Discourse: Unsupervised Funniness Detection in the New Yorker Cartoon Caption Contest** Dragomir Radev et al. [[Paper](https://aclanthology.org/L16-1076/)]
-     * [arXiv preprint 2025] **AI Humor Generation: Cognitive, Social and Creative Skills for Effective Humor**, SEAN KIM et al. [[Paper]()]
-     * [arXiv preprint 2024] **Humor Mechanics: Advancing Humor Generation with Multistep Reasoning**, Zhikun Wu et al. [[Paper](Alexey Tikhonov)]
+     * [arXiv preprint 2025] **AI Humor Generation: Cognitive, Social and Creative Skills for Effective Humor**, SEAN KIM et al. [[Paper](https://arxiv.org/abs/2502.07981)]
+     * [arXiv preprint 2024] **Humor Mechanics: Advancing Humor Generation with Multistep Reasoning**, Alexey Tikhonov et al. [[Paper](https://arxiv.org/abs/2405.07280)]
 
-* <span id="head-2024"> **Empathy**  </span> 
-     * [Korean Journal of Cognitive Science. 2024] **Chain of Empathy: Enhancing Empathetic Response of Large Language Models Based on Psychotherapy Models**, Yoon Kyung Lee et al. [[Paper](https://arxiv.org/abs/2311.04915)]
+* <span id="head-2024"> **Empathy & Theory of Mind**  </span> 
+     * [ACL 2025] Towards Dynamic Theory of Mind: Evaluating LLM Adaptation to Temporal Evolution of Human States. Yang Xiao et al. [[Paper](https://aclanthology.org/2025.acl-long.1171/)]
+     * [ACMMM 2025] MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind. Zheng Zhang et al. [[Paper](https://arxiv.org/abs/2504.18039)]
+     * [ACL 2024] MMToM-QA: Multimodal Theory of Mind Question Answering. Chuanyang Jin et al.
+     
+
+     * [Korean Journal of Cognitive Science. 2024] 📝 **Chain of Empathy: Enhancing Empathetic Response of Large Language Models Based on Psychotherapy Models**, Yoon Kyung Lee et al. [[Paper](https://arxiv.org/abs/2311.04915)]
+     
 
 
 [<u><🎯Back to Top></u>](#head-content)
