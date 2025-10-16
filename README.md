@@ -81,6 +81,7 @@ If you find this paper and repo helpful for your research, please cite it below:
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-si"> **Metaphor**  </span> 
+    * [ACL 2025] **Multimodal Pragmatic Jailbreak on Text-to-image Models**, Tong Liu et al.  [[Paper](https://aclanthology.org/2025.acl-long.234/)] 
     * [ACL 2024] **Exploring Chain-of-Thought for Multi-modal Metaphor Detection**, Guanning Zeng et al.  [[Paper](https://aclanthology.org/2024.acl-long.6/)] 
 
 
