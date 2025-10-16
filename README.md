@@ -100,7 +100,8 @@ If you find this paper and repo helpful for your research, please cite it below:
 * <span id="head-2024"> **Empathy & Theory of Mind**  </span> 
      * [ACL 2025] 📝 **Towards Dynamic Theory of Mind: Evaluating LLM Adaptation to Temporal Evolution of Human States.** Yang Xiao et al. [[Paper](https://aclanthology.org/2025.acl-long.1171/)]
      * [ACMMM 2025] 📝📸🔊 **MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind.** Zheng Zhang et al. [[Paper](https://arxiv.org/abs/2504.18039)]
-     * [ACL 2024] 📝📸 **MMToM-QA: Multimodal Theory of Mind Question Answering.** Chuanyang Jin et al.
+     * [ACL 2024] 📝📸 **MMToM-QA: Multimodal Theory of Mind Question Answering.** Chuanyang Jin et al. [[Paper](https://aclanthology.org/2024.acl-long.851/)]
+     * [SIGDIAL 2024] 📝 **MindDial: Enhancing Conversational Agents with Theory-of-Mind for Common Ground Alignment and Negotiation** Shuwen Qiu et al. [[Paper](https://aclanthology.org/2024.sigdial-1.63/)]
      * [Korean Journal of Cognitive Science. 2024] 📝 **Chain of Empathy: Enhancing Empathetic Response of Large Language Models Based on Psychotherapy Models**, Yoon Kyung Lee et al. [[Paper](https://arxiv.org/abs/2311.04915)]
      
 
