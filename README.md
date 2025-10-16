@@ -32,16 +32,17 @@
   * - [ ] [Humor](#head-humor)
   * - [ ] [Empathy & Theory of Mind](#head-tom)
   * - [ ] [Sarcasm](#head-sarcasm)
-
-
-* [Contact Me](#head7)
+* [Citation](#head7)
 
 
  ## <span id="head1"> *Description* </span>
 
-* In the last few decades, the fields of ...
+<!-- * In the last few decades, the fields of ... -->
+> Def. High-Level Semantics: 
+>
+> The semantics that emerge from integrating low-level observations through cognitive reasoning.
 
-* Papers, codes, and datasets for the text-to-image task are available here.
+<!-- * Papers, codes, and datasets for the text-to-image task are available here. -->
 
 >🐌 Markdown Format:
 > * [Conference/Journal Year] 📝/📸/🔊 **Title**, First Author et al. [[Paper](URL)] [[Code](URL)] [[Project](URL)]
