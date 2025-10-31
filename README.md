@@ -107,6 +107,13 @@
      * [LREC 2022] 📝📸🔊 **A Multimodal Corpus for Emotion Recognition in Sarcasm**, Anupama Ray et al. [[Paper](https://aclanthology.org/2022.lrec-1.756/)]
      * [FigLang 2020] 📝 **Sarcasm Detection Using an Ensemble Approach**, Jens Lemmens et al. [[Paper](https://aclanthology.org/2020.figlang-1.36/)]
        
+* <span id="head-subtext"> **Subtext**  </span>
+     * [Arxiv Preprint 2021] 📝📸 **SASICM: A Multi-Task Benchmark For Subtext Recognition**,  Hua Yan et al. [[Paper](https://arxiv.org/abs/2106.06944)]
+     
+
+[<u><🎯Back to Top></u>](#head-content)
+
+
 ## <span id="head7"> ⭐ Citation </span>
 
 
