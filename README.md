@@ -51,6 +51,7 @@
 ## <span id="head2"> *High-Level Semantics* </span>
 
 * <span id="head-t2f"> **High-Level Semantic in Images**  </span>
+    * [EMNLP 2025] 📝📸 **ComicScene154: A Scene Dataset for Comic Analysis**, Sandro Paval et al. [[Paper](https://aclanthology.org/2025.emnlp-main.1608/)]
     * [Arxiv preprint 2025] 📝📸 **Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**, Chenhao Zhang et al. [[Paper](https://arxiv.org/pdf/2505.17019)]
     * [AAAI 2025]📝📸🔊 **Towards Multimodal Sentiment Analysis via Hierarchical Correlation Modeling with Semantic Distribution Constraints**, Qinfu Xu et al. [[Paper]()]
     * [ACL 2025] 📝📸 **Can MLLMs Understand the Deep Implication Behind Chinese Images?**, Chenhao Zhang et al. [[Paper](https://aclanthology.org/2025.acl-long.700.pdf)] 
@@ -65,6 +66,7 @@
 * <span id="head-meta"> **Metaphor**  </span> 
     * [ACL 2025] 📝📸 **Multimodal Pragmatic Jailbreak on Text-to-image Models**, Tong Liu et al.  [[Paper](https://aclanthology.org/2025.acl-long.234/)] 
     * [ACL 2024] 📝📸 **Exploring Chain-of-Thought for Multi-modal Metaphor Detection**, Guanning Zeng et al.  [[Paper](https://aclanthology.org/2024.acl-long.6/)] 
+    * [EMNLP 2025] 📝 **AmpleHate: Amplifying the Attention for Versatile Implicit Hate Detection** Yejin Lee et al.  [[Paper](https://aclanthology.org/2025.emnlp-main.1469/)] 
 
 
 [<u><🎯Back to Top></u>](#head-content)
@@ -83,8 +85,9 @@
      * [arXiv preprint 2025] 📝📸 **AI Humor Generation: Cognitive, Social and Creative Skills for Effective Humor**, SEAN KIM et al. [[Paper](https://arxiv.org/abs/2502.07981)]
      * [arXiv preprint 2024] 📝 **Humor Mechanics: Advancing Humor Generation with Multistep Reasoning**, Alexey Tikhonov et al. [[Paper](https://arxiv.org/abs/2405.07280)]
 
-* <span id="head-tom"> **Empathy & Theory of Mind**  </span> 
+* <span id="head-tom"> **Empathy**  </span> 
      * [ACL 2025] 📝 **Towards Dynamic Theory of Mind: Evaluating LLM Adaptation to Temporal Evolution of Human States.** Yang Xiao et al. [[Paper](https://aclanthology.org/2025.acl-long.1171/)]
+     * [EMNLP 2025] 📝 **The Pursuit of Empathy: Evaluating Small Language Models  for PTSD Dialogue Support** Suhas Bn et al. [[Paper](https://aclanthology.org/2025.emnlp-main.1573/)]
      * [ACMMM 2025] 📝📸🔊 **MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind.** Zheng Zhang et al. [[Paper](https://arxiv.org/abs/2504.18039)]
      * [ACL 2024] 📝📸 **MMToM-QA: Multimodal Theory of Mind Question Answering.** Chuanyang Jin et al. [[Paper](https://aclanthology.org/2024.acl-long.851/)]
      * [SIGDIAL 2024] 📝 **MindDial: Enhancing Conversational Agents with Theory-of-Mind for Common Ground Alignment and Negotiation** Shuwen Qiu et al. [[Paper](https://aclanthology.org/2024.sigdial-1.63/)]
