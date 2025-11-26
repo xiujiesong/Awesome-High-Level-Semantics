@@ -105,6 +105,7 @@
      * [Interspeech 2025] 📝📸🔊 **A Multimodal Chinese Dataset for Cross-lingual Sarcasm Detection**, Xiyuan Gao, et al. [[Paper](https://www.isca-archive.org/interspeech_2025/gao25f_interspeech.pdf)]
      * [Arxiv Preprint 2025]📝 **Irony Detection, Reasoning and Understanding in Zero-shot Learning**,  Peiling Yi,et al.[[Paper]()]]
      * [Arxiv Preprint 2025] 📝📸 **SemIRNet: A Semantic Irony Recognition Network for Multimodal Sarcasm Detection**, Jingxuan Zhou,et al.[[Paper]()]]
+     * [Arxiv Preprint 2023] 📝📸 **Sarcasm in Sight and Sound: Benchmarking and Expansion to Improve Multimodal Sarcasm Detection**, Swapnil Bhosale,et al.[[Paper](https://arxiv.org/abs/2310.01430)]]
      * [LREC 2024] 📝📸 **SarcNet: A Multilingual Multimodal Sarcasm Detection Dataset**, Tan Yue et al. [[Paper](https://aclanthology.org/2024.lrec-main.1248/)]
      * [AAAI 2022] 📝📸 **Nice perfume. How long did you marinate in it? Multimodal Sarcasm Explanation.**, Poorav Desai et al. [[Paper](https://arxiv.org/abs/2112.04873)]
      * [LREC 2022] 📝📸🔊 **A Multimodal Corpus for Emotion Recognition in Sarcasm**, Anupama Ray et al. [[Paper](https://aclanthology.org/2022.lrec-1.756/)]
