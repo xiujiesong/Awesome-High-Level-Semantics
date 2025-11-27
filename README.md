@@ -91,7 +91,7 @@
      * [EMNLP 2025] 📝 **The Pursuit of Empathy: Evaluating Small Language Models  for PTSD Dialogue Support** Suhas Bn et al. [[Paper](https://aclanthology.org/2025.emnlp-main.1573/)]
      * [ACMMM 2025] 📝📸🔊 **MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind.** Zheng Zhang et al. [[Paper](https://arxiv.org/abs/2504.18039)]
      * [ACL 2024] 📝 **EmotionQueen: A Benchmark for Evaluating Empathy of Large Language Models** Yuyan Chen et al. [[Paper](https://aclanthology.org/2024.findings-acl.128/)]
-     * [ACL 2024] 📝 **EmpathicStories++: A Multimodal Dataset for Empathy Towards Personal Experiences** Jocelyn Shen et al. [[Paper](https://aclanthology.org/2024.findings-acl.268/)]
+     * [ACL 2024] 📝📸🔊 **EmpathicStories++: A Multimodal Dataset for Empathy Towards Personal Experiences** Jocelyn Shen et al. [[Paper](https://aclanthology.org/2024.findings-acl.268/)]
      * [ACL 2024] 📝📸 **MMToM-QA: Multimodal Theory of Mind Question Answering.** Chuanyang Jin et al. [[Paper](https://aclanthology.org/2024.acl-long.851/)]
      * [SIGDIAL 2024] 📝 **MindDial: Enhancing Conversational Agents with Theory-of-Mind for Common Ground Alignment and Negotiation** Shuwen Qiu et al. [[Paper](https://aclanthology.org/2024.sigdial-1.63/)]
      * [Korean Journal of Cognitive Science. 2024] 📝 **Chain of Empathy: Enhancing Empathetic Response of Large Language Models Based on Psychotherapy Models**, Yoon Kyung Lee et al. [[Paper](https://arxiv.org/abs/2311.04915)]
