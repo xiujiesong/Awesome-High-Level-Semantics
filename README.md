@@ -72,12 +72,16 @@
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-humor"> **Humor**  </span> 
-     * [ACL 2025] 📝📸 **GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art**, Yiming Lei et al. [[Paper](https://arxiv.org/pdf/2505.11436)]
+     * [ACL 2025] 📝📸 **GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art**, Yiming Lei et al. [[Paper](https://aclanthology.org/2025.acl-long.583/)]
+     * [ACL 2025] 📝 **Chumor 2.0: Towards Better Benchmarking Chinese Humor Understanding from 弱智吧 (Ruo Zhi Ba)**, Ruiqi He et al. [[Paper](https://aclanthology.org/2025.findings-acl.1122/)]
+     * [ACL 2024] 📝📸🔊 **HOTVCOM: Generating Buzzworthy Comments for Videos**, Yuyan Chen et al. [[Paper](https://aclanthology.org/2024.findings-acl.130/)]
      * [CHum 2025] 📝🔊 **Text Is Not All You Need:Multimodal Prompting Helps LLMs Understand Humor**, Ashwin Baluja et al. [[Paper]()]
      * [NAACL 2025] 📝 **Commonality and Individuality! Integrating Humor Commonality with Speaker Individuality for Humor Recognition**, Haohao Zhu et al. [[Paper](https://arxiv.org/pdf/2502.04960v1)]
      * [ICASSP 2025] 📝📸🔊 **MHSDB: A Comprehensive Benchmark for Multimodal Humor and Sarcasm Detection Leveraging Foundation Models**,  Zhongren Dong et al. [[Paper](https://ieeexplore.ieee.org/abstract/document/10887877)]
      * [Arxiv preprint 2025]📝📸**HUMMUS: A Dataset of Humorous Multimodal Metaphor Use**,  Xiaoyu Tong et al.[[Paper]()]
      * [Arxiv preprint 2025]📝📸**V-HUB: A VISUAL-CENTRIC HUMOR UNDERSTANDING BENCHMARK FOR VIDEO LLMS**,  Zhengpeng Shi et al.[[Paper]()]
+     * [CVPR 2024] 📝📸 **Let’s Think Outside the Box: Exploring Leap-of-Thought in Large Language Models with Creative Humor Generation**,  Shanshan Zhong et al.[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhong_Lets_Think_Outside_the_Box_Exploring_Leap-of-Thought_in_Large_Language_CVPR_2024_paper.pdf)]
+     * [EMNLP 2024] 📝📸 **“A good pun is its own reword”: Can Large Language Models Understand Puns?**,  Zhijun Xu et al.[[Paper](https://aclanthology.org/2024.emnlp-main.657/)]
      * [AAAI 2024] 📝📸 **Talk Funny! A Large-Scale Humor Response Dataset with Chain-of-Humor Interpretation**,  Yuyan Chen et al.[[Paper]()]
      * [ACL 2023] 📝📸 **Do Androids Laugh at Electric Sheep? Humor “Understanding” Benchmarks from The New Yorker Caption Contest** Jack Hessel et al. [[Paper](https://aclanthology.org/2023.acl-long.41/)]
      * [IUI 2025] 📝📸 **One Does Not Simply Meme Alone: Evaluating Co-Creativity Between LLMs and Humans in the Generation of Humor**, Zhikun Wu et al. [[Paper](https://dl.acm.org/doi/10.1145/3708359.3712094)]
