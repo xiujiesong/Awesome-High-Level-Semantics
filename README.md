@@ -64,9 +64,10 @@
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-meta"> **Metaphor**  </span> 
-    * [ACL 2025] 📝📸 **Multimodal Pragmatic Jailbreak on Text-to-image Models**, Tong Liu et al.  [[Paper](https://aclanthology.org/2025.acl-long.234/)] 
+    * [ACL 2025] 📝📸 **Multimodal Pragmatic Jailbreak on Text-to-image Models**, Tong Liu et al.  [[Paper](https://aclanthology.org/2025.acl-long.234/)]
+    * [ACL 2025] 📝📸 **Cultural Bias Matters: A Cross-Cultural Benchmark Dataset and Sentiment-Enriched Model for Understanding Multimodal Metaphors**, Senqi Yang et al.  [[Paper](https://aclanthology.org/2025.acl-long.1275/)]
     * [ACL 2024] 📝📸 **Exploring Chain-of-Thought for Multi-modal Metaphor Detection**, Guanning Zeng et al.  [[Paper](https://aclanthology.org/2024.acl-long.6/)] 
-    * [EMNLP 2025] 📝 **AmpleHate: Amplifying the Attention for Versatile Implicit Hate Detection** Yejin Lee et al.  [[Paper](https://aclanthology.org/2025.emnlp-main.1469/)] 
+    * [EMNLP 2025] 📝 **AmpleHate: Amplifying the Attention for Versatile Implicit Hate Detection** Yejin Lee et al.  [[Paper](https://aclanthology.org/2025.emnlp-main.1469/)]
 
 
 [<u><🎯Back to Top></u>](#head-content)
