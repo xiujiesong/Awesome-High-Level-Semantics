@@ -30,7 +30,7 @@
   * - [ ] [High-Level Semantic in Images](#head-t2f)
   * - [ ] [Metaphor](#head-meta)
   * - [ ] [Humor](#head-humor)
-  * - [ ] [Empathy & Theory of Mind](#head-tom)
+  * - [ ] [Empathy](#head-empathy)
   * - [ ] [Sarcasm](#head-sarcasm)
 * [Citation](#head7)
 
@@ -82,19 +82,21 @@
      * [Arxiv preprint 2025]📝📸**V-HUB: A VISUAL-CENTRIC HUMOR UNDERSTANDING BENCHMARK FOR VIDEO LLMS**,  Zhengpeng Shi et al.[[Paper]()]
      * [CVPR 2024] 📝📸 **Let’s Think Outside the Box: Exploring Leap-of-Thought in Large Language Models with Creative Humor Generation**,  Shanshan Zhong et al.[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhong_Lets_Think_Outside_the_Box_Exploring_Leap-of-Thought_in_Large_Language_CVPR_2024_paper.pdf)]
      * [EMNLP 2024] 📝📸 **“A good pun is its own reword”: Can Large Language Models Understand Puns?**,  Zhijun Xu et al.[[Paper](https://aclanthology.org/2024.emnlp-main.657/)]
-     * [AAAI 2024] 📝📸 **Talk Funny! A Large-Scale Humor Response Dataset with Chain-of-Humor Interpretation**,  Yuyan Chen et al.[[Paper]()]
-     * [ACL 2023] 📝📸 **Do Androids Laugh at Electric Sheep? Humor “Understanding” Benchmarks from The New Yorker Caption Contest** Jack Hessel et al. [[Paper](https://aclanthology.org/2023.acl-long.41/)]
+     * [AAAI 2024] 📝📸 **Talk Funny! A Large-Scale Humor Response Dataset with Chain-of-Humor Interpretation**, Yuyan Chen et al.[[Paper]()]
      * [IUI 2025] 📝📸 **One Does Not Simply Meme Alone: Evaluating Co-Creativity Between LLMs and Humans in the Generation of Humor**, Zhikun Wu et al. [[Paper](https://dl.acm.org/doi/10.1145/3708359.3712094)]
      * [LREC 2016] 📝📸 **Humor in Collective Discourse: Unsupervised Funniness Detection in the New Yorker Cartoon Caption Contest** Dragomir Radev et al. [[Paper](https://aclanthology.org/L16-1076/)]
      * [arXiv preprint 2025] 📝📸 **AI Humor Generation: Cognitive, Social and Creative Skills for Effective Humor**, SEAN KIM et al. [[Paper](https://arxiv.org/abs/2502.07981)]
      * [arXiv preprint 2024] 📝 **Humor Mechanics: Advancing Humor Generation with Multistep Reasoning**, Alexey Tikhonov et al. [[Paper](https://arxiv.org/abs/2405.07280)]
+     * [ACL 2023] 📝📸 **Do Androids Laugh at Electric Sheep? Humor “Understanding” Benchmarks from The New Yorker Caption Contest** Jack Hessel et al. [[Paper](https://aclanthology.org/2023.acl-long.41/)]
+     * [WSDM 2023] 📝 **Can Pre-trained Language Models Understand Chinese Humor?**, Yuyan Chen et al. [[Paper](https://arxiv.org/pdf/2407.04105?)]
 
-* <span id="head-tom"> **Empathy**  </span> 
+* <span id="head-empathy"> **Empathy**  </span> 
+     * [CIKM 2025] 📝 **High-Context Empathy in Conversations for Large Language Models**. Yuyan Chen et al. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3746252.3761424)]
      * [arXiv preprint 2025] 📝 **Empathy-R1: A Chain-of-Empathy and Reinforcement Learning Framework for Long-Form Mental Health Support.** Xianrong Yao et al. [[Paper](https://arxiv.org/abs/2509.14851)]
      * [ACL 2025] 📝 **Towards Dynamic Theory of Mind: Evaluating LLM Adaptation to Temporal Evolution of Human States.** Yang Xiao et al. [[Paper](https://aclanthology.org/2025.acl-long.1171/)]
      * [EMNLP 2025] 📝 **The Pursuit of Empathy: Evaluating Small Language Models  for PTSD Dialogue Support** Suhas Bn et al. [[Paper](https://aclanthology.org/2025.emnlp-main.1573/)]
      * [ACMMM 2025] 📝📸🔊 **MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind.** Zheng Zhang et al. [[Paper](https://arxiv.org/abs/2504.18039)]
-     * [ACL 2024] 📝 **EmotionQueen: A Benchmark for Evaluating Empathy of Large Language Models** Yuyan Chen et al. [[Paper](https://aclanthology.org/2024.findings-acl.128/)]
+     * [ACL 2024] 📝 **EmotionQueen: A Benchmark for Evaluating Empathy of Large Language Models**. Yuyan Chen et al. [[Paper](https://aclanthology.org/2024.findings-acl.128/)]
      * [ACL 2024] 📝📸🔊 **EmpathicStories++: A Multimodal Dataset for Empathy Towards Personal Experiences** Jocelyn Shen et al. [[Paper](https://aclanthology.org/2024.findings-acl.268/)]
      * [ACL 2024] 📝📸 **MMToM-QA: Multimodal Theory of Mind Question Answering.** Chuanyang Jin et al. [[Paper](https://aclanthology.org/2024.acl-long.851/)]
      * [SIGDIAL 2024] 📝 **MindDial: Enhancing Conversational Agents with Theory-of-Mind for Common Ground Alignment and Negotiation** Shuwen Qiu et al. [[Paper](https://aclanthology.org/2024.sigdial-1.63/)]
@@ -106,20 +108,24 @@
 
 
 * <span id="head-sarcasm"> **Sarcasm**  </span>
-     * [NAACL 2025] 📝📸**Target-Augmented Shared Fusion-based Multimodal Sarcasm Explanation Generation**, Palaash Goel et al. [[Paper](https://arxiv.org/pdf/2502.07391?)]
-     * [EMNLP 2025] **Sarcasm-R1: Enhancing Sarcasm Detection through Focused Reasoning**, Qi Yang et al. [[Paper]()] [[Project]()] [[Code]()]
-     * [Arxiv Preprint 2025] 📝📸🔊 **Evaluating Multimodal Large Language Models on Spoken Sarcasm Understanding**, Zhu Li, et al. [[Paper](https://www.arxiv.org/abs/2509.15476)]
-     * [Interspeech 2025] 📝📸🔊 **A Multimodal Chinese Dataset for Cross-lingual Sarcasm Detection**, Xiyuan Gao, et al. [[Paper](https://www.isca-archive.org/interspeech_2025/gao25f_interspeech.pdf)]
-     * [Arxiv Preprint 2025]📝 **Irony Detection, Reasoning and Understanding in Zero-shot Learning**,  Peiling Yi,et al.[[Paper]()]]
-     * [Arxiv Preprint 2025] 📝📸 **SemIRNet: A Semantic Irony Recognition Network for Multimodal Sarcasm Detection**, Jingxuan Zhou,et al.[[Paper]()]]
-     * [Arxiv Preprint 2023] 📝📸 **Sarcasm in Sight and Sound: Benchmarking and Expansion to Improve Multimodal Sarcasm Detection**, Swapnil Bhosale,et al.[[Paper](https://arxiv.org/abs/2310.01430)]]
-     * [LREC 2024] 📝📸 **SarcNet: A Multilingual Multimodal Sarcasm Detection Dataset**, Tan Yue et al. [[Paper](https://aclanthology.org/2024.lrec-main.1248/)]
-     * [AAAI 2022] 📝📸 **Nice perfume. How long did you marinate in it? Multimodal Sarcasm Explanation.**, Poorav Desai et al. [[Paper](https://arxiv.org/abs/2112.04873)]
-     * [LREC 2022] 📝📸🔊 **A Multimodal Corpus for Emotion Recognition in Sarcasm**, Anupama Ray et al. [[Paper](https://aclanthology.org/2022.lrec-1.756/)]
-     * [FigLang 2020] 📝 **Sarcasm Detection Using an Ensemble Approach**, Jens Lemmens et al. [[Paper](https://aclanthology.org/2020.figlang-1.36/)]
+     * [NAACL 2025] 📝📸**Target-Augmented Shared Fusion-based Multimodal Sarcasm Explanation Generation**. Palaash Goel et al. [[Paper](https://arxiv.org/pdf/2502.07391?)]
+     * [EMNLP 2025] **Sarcasm-R1: Enhancing Sarcasm Detection through Focused Reasoning**. Qi Yang et al. [[Paper]()] [[Project]()] [[Code]()]
+     * [Arxiv Preprint 2025] 📝📸🔊 **Evaluating Multimodal Large Language Models on Spoken Sarcasm Understanding**. Zhu Li, et al. [[Paper](https://www.arxiv.org/abs/2509.15476)]
+     * [Interspeech 2025] 📝📸🔊 **A Multimodal Chinese Dataset for Cross-lingual Sarcasm Detection**. Xiyuan Gao, et al. [[Paper](https://www.isca-archive.org/interspeech_2025/gao25f_interspeech.pdf)]
+     * [Arxiv Preprint 2025]📝 **Irony Detection, Reasoning and Understanding in Zero-shot Learning**.  Peiling Yi,et al.[[Paper]()]
+     * [Arxiv Preprint 2025] 📝📸 **SemIRNet: A Semantic Irony Recognition Network for Multimodal Sarcasm Detection**. Jingxuan Zhou,et al.[[Paper]()]
+     * [EMNLP 2024] 📝📸 **DGLF: A Dual Graph-based Learning Framework for Multi-modal Sarcasm Detection**. Zhihong Zhu,et al.[[Paper](https://aclanthology.org/2024.emnlp-main.170.pdf)]
+     * [Arxiv Preprint 2023] 📝📸 **Sarcasm in Sight and Sound: Benchmarking and Expansion to Improve Multimodal Sarcasm Detection**. Swapnil Bhosale,et al.[[Paper](https://arxiv.org/abs/2310.01430)]
+     * [LREC 2024] 📝📸 **SarcNet: A Multilingual Multimodal Sarcasm Detection Dataset**. Tan Yue et al. [[Paper](https://aclanthology.org/2024.lrec-main.1248/)]
+     * [AAAI 2022] 📝📸 **Nice perfume. How long did you marinate in it? Multimodal Sarcasm Explanation**. Poorav Desai et al. [[Paper](https://arxiv.org/abs/2112.04873)]
+     * [LREC 2022] 📝📸🔊 **A Multimodal Corpus for Emotion Recognition in Sarcasm**. Anupama Ray et al. [[Paper](https://aclanthology.org/2022.lrec-1.756/)]
+     * [FigLang 2020] 📝 **Sarcasm Detection Using an Ensemble Approach**. Jens Lemmens et al. [[Paper](https://aclanthology.org/2020.figlang-1.36/)]
        
 * <span id="head-subtext"> **Subtext**  </span>
-     * [Arxiv Preprint 2021] 📝📸 **SASICM: A Multi-Task Benchmark For Subtext Recognition**,  Hua Yan et al. [[Paper](https://arxiv.org/abs/2106.06944)]
+     * [Arxiv Preprint 2021] 📝📸 **SASICM: A Multi-Task Benchmark For Subtext Recognition**.  Hua Yan et al. [[Paper](https://arxiv.org/abs/2106.06944)]
+
+* <span id="head-subtext"> **Lies**  </span>
+
      
 
 [<u><🎯Back to Top></u>](#head-content)
