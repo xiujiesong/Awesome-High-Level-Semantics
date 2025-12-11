@@ -59,6 +59,7 @@
     * [NAACL 2025] 📝📸 **A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models**, Xiujie Song et al. [[Paper](https://aclanthology.org/2025.naacl-long.324/)] 
     * [NIPS 2024 D&B Track] [💬 Dataset] 📝📸 **II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models**, Rishubh Parihar et al. [[Paper]()] [[Project](https://ii-bench.github.io/)] 
     * [ACL 2024] 📝📸 **Can Large Multimodal Models Uncover Deep Semantics Behind Images?**, Yixin Yang et al. [[Paper](https://aclanthology.org/2024.findings-acl.113/)] 
+    * [arXiv 2025] 📝📸 **InsightVision: A Comprehensive, Multi-Level Chinese-based Benchmark for Evaluating Implicit Visual Semantics in Large Vision Language Models**, Yin, Xiaofei, et al. [[Paper](https://arxiv.org/pdf/2502.15812)]
 
 
 [<u><🎯Back to Top></u>](#head-content)
