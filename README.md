@@ -67,12 +67,13 @@
     * [ACL 2025] 📝📸 **Multimodal Pragmatic Jailbreak on Text-to-image Models**, Tong Liu et al.  [[Paper](https://aclanthology.org/2025.acl-long.234/)]
     * [ACL 2025] 📝📸 **Cultural Bias Matters: A Cross-Cultural Benchmark Dataset and Sentiment-Enriched Model for Understanding Multimodal Metaphors**, Senqi Yang et al.  [[Paper](https://aclanthology.org/2025.acl-long.1275/)]
     * [ACL 2024] 📝📸 **Exploring Chain-of-Thought for Multi-modal Metaphor Detection**, Guanning Zeng et al.  [[Paper](https://aclanthology.org/2024.acl-long.6/)] 
-    * [EMNLP 2025] 📝 **AmpleHate: Amplifying the Attention for Versatile Implicit Hate Detection** Yejin Lee et al.  [[Paper](https://aclanthology.org/2025.emnlp-main.1469/)]
+    * [EMNLP 2025] 📝 **AmpleHate: Amplifying the Attention for Versatile Implicit Hate Detection**. Yejin Lee et al.  [[Paper](https://aclanthology.org/2025.emnlp-main.1469/)]
 
 
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-humor"> **Humor**  </span> 
+     * [EMNLP 2025] 📝📸 **PUNMEMECN: A Benchmark to Explore Vision-Language Models’  Understanding of Chinese Pun Memes**. Zhijun Xu et al. [[Paper](https://aclanthology.org/2025.emnlp-main.944/)]
      * [ACL 2025] 📝📸 **GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art**, Yiming Lei et al. [[Paper](https://aclanthology.org/2025.acl-long.583/)]
      * [ACL 2025] 📝 **Chumor 2.0: Towards Better Benchmarking Chinese Humor Understanding from 弱智吧 (Ruo Zhi Ba)**, Ruiqi He et al. [[Paper](https://aclanthology.org/2025.findings-acl.1122/)]
      * [ACL 2024] 📝📸🔊 **HOTVCOM: Generating Buzzworthy Comments for Videos**, Yuyan Chen et al. [[Paper](https://aclanthology.org/2024.findings-acl.130/)]
@@ -88,8 +89,8 @@
      * [LREC 2016] 📝📸 **Humor in Collective Discourse: Unsupervised Funniness Detection in the New Yorker Cartoon Caption Contest** Dragomir Radev et al. [[Paper](https://aclanthology.org/L16-1076/)]
      * [arXiv preprint 2025] 📝📸 **AI Humor Generation: Cognitive, Social and Creative Skills for Effective Humor**, SEAN KIM et al. [[Paper](https://arxiv.org/abs/2502.07981)]
      * [arXiv preprint 2024] 📝 **Humor Mechanics: Advancing Humor Generation with Multistep Reasoning**, Alexey Tikhonov et al. [[Paper](https://arxiv.org/abs/2405.07280)]
-     * [ACL 2023] 📝📸 **Do Androids Laugh at Electric Sheep? Humor “Understanding” Benchmarks from The New Yorker Caption Contest** Jack Hessel et al. [[Paper](https://aclanthology.org/2023.acl-long.41/)]
-     * [WSDM 2023] 📝 **Can Pre-trained Language Models Understand Chinese Humor?**, Yuyan Chen et al. [[Paper](https://arxiv.org/pdf/2407.04105?)]
+     * [ACL 2023] 📝📸 **Do Androids Laugh at Electric Sheep? Humor “Understanding” Benchmarks from The New Yorker Caption Contest**. Jack Hessel et al. [[Paper](https://aclanthology.org/2023.acl-long.41/)]
+     * [WSDM 2023] 📝 **Can Pre-trained Language Models Understand Chinese Humor?**. Yuyan Chen et al. [[Paper](https://arxiv.org/pdf/2407.04105?)]
 
 * <span id="head-empathy"> **Empathy**  </span> 
      * [CIKM 2025] 📝 **High-Context Empathy in Conversations for Large Language Models**. Yuyan Chen et al. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3746252.3761424)]
