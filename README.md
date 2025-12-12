@@ -67,13 +67,21 @@
 * <span id="head-meta"> **Metaphor**  </span> 
     * [ACL 2025] 📝📸 **Multimodal Pragmatic Jailbreak on Text-to-image Models**, Tong Liu et al.  [[Paper](https://aclanthology.org/2025.acl-long.234/)]
     * [ACL 2025] 📝📸 **Cultural Bias Matters: A Cross-Cultural Benchmark Dataset and Sentiment-Enriched Model for Understanding Multimodal Metaphors**, Senqi Yang et al.  [[Paper](https://aclanthology.org/2025.acl-long.1275/)]
-    * [ACL 2024] 📝📸 **Exploring Chain-of-Thought for Multi-modal Metaphor Detection**, Guanning Zeng et al.  [[Paper](https://aclanthology.org/2024.acl-long.6/)] 
+    * [ACL 2024] 📝📸 **Exploring Chain-of-Thought for Multi-modal Metaphor Detection**, Guanning Zeng et al.  [[Paper](https://aclanthology.org/2024.acl-long.6/)]
+    * [ACL 2024] 📝 **Cross-Lingual Metaphor Detection for Low- to High-Resource Languages**, [Author] et al. [[Paper](https://aclanthology.org/)]
     * [EMNLP 2025] 📝 **AmpleHate: Amplifying the Attention for Versatile Implicit Hate Detection**. Yejin Lee et al.  [[Paper](https://aclanthology.org/2025.emnlp-main.1469/)]
 
 
 [<u><🎯Back to Top></u>](#head-content)
 
-* <span id="head-humor"> **Humor**  </span> 
+* <span id="head-humor"> **Humor**  </span>
+     * [EMNLP 2025] 📝📸🔊 **StandUp4AI: A New Multilingual Dataset for Humor Detection in Stand-up Comedy Videos**, [Author] et al. [[Paper]()]
+     * [ACM MM 2024] 📝📸🔊 **The MuSe 2024 Multimodal Sentiment Analysis Challenge: Social Perception and Humor Recognition**, [Author] et al. [[Paper](https://arxiv.org/abs/2406.07753)]
+     * [LREC-COLING 2024] 📝🔊 **Multilingual Laughter Detection in Stand-Up Comedy Videos**, [Author] et al. [[Paper](https://aclanthology.org/)]
+     * [LREC-COLING 2024] 📝📸🔊 **MUCH: A Multimodal Corpus Construction for Conversational Humor Recognition Based on Chinese Sitcom**, [Author] et al. [[Paper](https://aclanthology.org/)]
+     * [Interspeech 2024] 📝🔊 **Robust Laughter Segmentation with Automatic Diverse Data Synthesis**, [Author] et al. [[Paper]()]
+     * [NAACL 2024] 📝📸🔊 **SMILE: Multimodal Dataset for Understanding Laughter in Video with Language Models**, [Author] et al. [[Paper](https://aclanthology.org/)]
+     * [Thesis 2024] 📝📸 **A Lightweight Multimodal Framework for Context-Aware Punchline Detection**, Zhou et al. [[Paper]()]
      * [EMNLP 2025] 📝📸 **PUNMEMECN: A Benchmark to Explore Vision-Language Models’  Understanding of Chinese Pun Memes**. Zhijun Xu et al. [[Paper](https://aclanthology.org/2025.emnlp-main.944/)]
      * [ACL 2025] 📝📸 **GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art**, Yiming Lei et al. [[Paper](https://aclanthology.org/2025.acl-long.583/)]
      * [ACL 2025] 📝 **Chumor 2.0: Towards Better Benchmarking Chinese Humor Understanding from 弱智吧 (Ruo Zhi Ba)**, Ruiqi He et al. [[Paper](https://aclanthology.org/2025.findings-acl.1122/)]
@@ -93,7 +101,15 @@
      * [ACL 2023] 📝📸 **Do Androids Laugh at Electric Sheep? Humor “Understanding” Benchmarks from The New Yorker Caption Contest**. Jack Hessel et al. [[Paper](https://aclanthology.org/2023.acl-long.41/)]
      * [WSDM 2023] 📝 **Can Pre-trained Language Models Understand Chinese Humor?**. Yuyan Chen et al. [[Paper](https://arxiv.org/pdf/2407.04105?)]
 
-* <span id="head-empathy"> **Empathy**  </span> 
+* <span id="head-empathy"> **Empathy**  </span>
+     * [Interspeech 2025] 📝📸🔊 **MPE-TTS: Customized Emotion Zero-Shot Text-To-Speech Using Multi-Modal Prompt**, [Author] et al. [[Paper]()]
+     * [Preprints 2025] 📝🔊 **LLFM-Voice: Emotionally Expressive Speech and Singing Voice Synthesis with Large Language Models via Flow Matching**, [Author] et al. [[Paper]()]
+     * [Arxiv 2025] 📝📸🔊 **Mixed Signals: Understanding Model Disagreement in Multimodal Empathy Detection**, [Author] et al. [[Paper](https://arxiv.org/abs/2505.13979)]
+     * [EMNLP 2024] 📝🔊 **Towards Empathetic Large Speech-Language Models (BLSP-Emo)**, [Author] et al. [[Paper](https://aclanthology.org/)]
+     * [Interspeech 2024] 📝🔊 **Detecting Empathy in Speech**, Chen et al. [[Paper]()]
+     * [AAAI 2024] 📝📸🔊 **MM-TTS: Multi-Modal Prompt Based Style Transfer for Expressive Text-to-Speech Synthesis**, [Author] et al. [[Paper]()]
+     * [Arxiv 2024] 📝🔊 **Talk With Human-like Agents: Empathetic Dialogue Through Perceptible Acoustic Reception and Reaction**, [Author] et al. [[Paper]()]
+     * [Sensors 2024] 📝🔊 **Exploring Prosodic Features Modelling for Secondary Emotions Needed for Empathetic Speech Synthesis**, [Author] et al. [[Paper]()]
      * [CIKM 2025] 📝 **High-Context Empathy in Conversations for Large Language Models**. Yuyan Chen et al. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3746252.3761424)]
      * [arXiv preprint 2025] 📝 **Empathy-R1: A Chain-of-Empathy and Reinforcement Learning Framework for Long-Form Mental Health Support.** Xianrong Yao et al. [[Paper](https://arxiv.org/abs/2509.14851)]
      * [ACL 2025] 📝 **Towards Dynamic Theory of Mind: Evaluating LLM Adaptation to Temporal Evolution of Human States.** Yang Xiao et al. [[Paper](https://aclanthology.org/2025.acl-long.1171/)]
@@ -112,6 +128,27 @@
 
 
 * <span id="head-sarcasm"> **Sarcasm**  </span>
+     * [IEEE TAFFC 2025] 📝 **Sarcasm Bench: Towards Evaluating Large Language Models on Sarcasm Understanding**, Yazhou Zhang et al. [[Paper](https://arxiv.org/pdf/2408.11319)]
+     * [AAAI 2025] 📝📸 **DocMSU: A Comprehensive Benchmark for Document-Level Multimodal Sarcasm Understanding**, [Author] et al. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29748)]
+     * [ICDMW 2025] 📝📸 **Evaluating Open-Source Vision-Language Models for Multimodal Sarcasm Detection**, [Author] et al. [[Paper](https://arxiv.org/abs/2510.11852)]
+     * [Arxiv 2025] 📝📸 **MMSD3.0: A Multi-Image Benchmark for Real-World Multimodal Sarcasm Detection**, Haochen Zhao et al. [[Paper](https://arxiv.org/abs/2510.23299)]
+     * [Arxiv 2025] 📝📸🔊 **MUStReason: A Benchmark for Diagnosing Pragmatic Reasoning in Video-LMs for Multimodal Sarcasm Detection**, [Author] et al. [[Paper](https://arxiv.org/abs/2510.23727)]
+     * [Arxiv 2025] 📝📸🔊 **MuSaG: A Multimodal German Sarcasm Dataset with Full-Modal Annotations**, Aaron Scott et al. [[Paper](https://arxiv.org/pdf/2510.24178)]
+     * [SSW 2025] 📝🔊 **Integrating Feedback Loss from Bi-modal Sarcasm Detector for Sarcastic Speech Synthesis**, Zhu Li et al. [[Paper](https://arxiv.org/pdf/2508.13028)]
+     * [Interspeech 2025] 📝🔊 **Leveraging Large Language Models for Sarcastic Speech Annotation in Sarcasm Detection**, Zhu Li et al. [[Paper](https://arxiv.org/pdf/2506.00955)]
+     * [ACL 2025] 📝 **BESSTIE: A Benchmark for Sentiment and Sarcasm Classification for Varieties of English**, Dipankar Srirag et al. [[Paper](https://arxiv.org/pdf/2412.04726)]
+     * [ACL 2025] 📝📸 **Incongruity-aware Tension Field Network for Multi-modal Sarcasm Detection**, Jiecheng Zhang et al. [[Paper](https://aclanthology.org/2025.acl-long.705.pdf)]
+     * [ICASSP 2024] 📝📸 **CONTEXT-AWARE DUAL ATTENTION NETWORK FOR MULTIMODAL SARCASM DETECTION**, Liangyi Kang et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10448377)]
+     * [ACL 2023] 📝📸 **Multi-modal Sarcasm Generation: Dataset and Solution**, Wenye Zhao et al. [[Paper](https://aclanthology.org/2023.findings-acl.346.pdf)]
+     * [ACL 2022] 📝📸 **Multi-Modal Sarcasm Detection via Cross-Modal Graph Convolutional Network**, Bin Liang et al. [[Paper](https://aclanthology.org/2022.acl-long.124.pdf)]
+     * [LREC-COLING 2024] 📝📸🔊 **Enhancing Multimodal Sarcasm Detection with Context-Aware Self-Attention Fusion**, [Author] et al. [[Paper]()]
+     * [Interspeech 2024] 📝🔊 **A Functional Trade-off between Prosodic and Semantic Cues in Conveying Sarcasm**, [Author] et al. [[Paper]()]
+     * [Applied Sciences 2025] 📝🔊 **Multimodal Chinese Sarcasm Detection Integrating Audio Attributes and Textual Features**, [Author] et al. [[Paper]()]
+     * [Speech Prosody 2024] 📝🔊 **Predictive Modelling of perceptual strategies in L2 sarcasm interpretation**, [Author] et al. [[Paper]()]
+     * [IEEE TCSI 2024] 📝🔊 **An Efficient Sarcasm Detection in Audio Using Parameter-Reduced Depthwise CNN**, [Author] et al. [[Paper]()]
+     * [Arxiv 2025] 📝 **Prompt Engineering for Zero-Shot Sarcasm Detection (IDADP)**, [Author] et al. [[Paper]()]
+     * [Springer 2023] 📝📸 **Multimodal Sarcasm Dataset Generation for a Low-Resource Language: Swahili**, [Author] et al. [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-11442-6_17)]
+     * [Arxiv 2025] 📝 **Benchmarking Large Language Models for Sarcasm Detection in Hindi Romanized Texts**, [Author] et al. [[Paper](https://hal.science/hal-05068205/)]
      * [NAACL 2025] 📝📸**Target-Augmented Shared Fusion-based Multimodal Sarcasm Explanation Generation**. Palaash Goel et al. [[Paper](https://arxiv.org/pdf/2502.07391?)]
      * [EMNLP 2025] **Sarcasm-R1: Enhancing Sarcasm Detection through Focused Reasoning**. Qi Yang et al. [[Paper]()] [[Project]()] [[Code]()]
      * [Arxiv Preprint 2025] 📝📸🔊 **Evaluating Multimodal Large Language Models on Spoken Sarcasm Understanding**. Zhu Li, et al. [[Paper](https://www.arxiv.org/abs/2509.15476)]
