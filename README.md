@@ -104,6 +104,7 @@
      * [ACL 2024] 📝📸 **MMToM-QA: Multimodal Theory of Mind Question Answering.** Chuanyang Jin et al. [[Paper](https://aclanthology.org/2024.acl-long.851/)]
      * [SIGDIAL 2024] 📝 **MindDial: Enhancing Conversational Agents with Theory-of-Mind for Common Ground Alignment and Negotiation** Shuwen Qiu et al. [[Paper](https://aclanthology.org/2024.sigdial-1.63/)]
      * [Korean Journal of Cognitive Science. 2024] 📝 **Chain of Empathy: Enhancing Empathetic Response of Large Language Models Based on Psychotherapy Models**, Yoon Kyung Lee et al. [[Paper](https://arxiv.org/abs/2311.04915)]
+     * [arXiv 2025] 🔊 **EchoMind: An Interrelated Multi-level Benchmark for Evaluating Empathetic Speech Language Models**, Zhou, Li, et al. [[Paper](https://arxiv.org/abs/2510.22758)]
      
 
 
