@@ -70,6 +70,9 @@
     * [ACL 2024] 📝📸 **Exploring Chain-of-Thought for Multi-modal Metaphor Detection**, Guanning Zeng et al.  [[Paper](https://aclanthology.org/2024.acl-long.6/)]
     * [ACL 2024] 📝 **Cross-Lingual Metaphor Detection for Low- to High-Resource Languages**, [Author] et al. [[Paper](https://aclanthology.org/)]
     * [EMNLP 2025] 📝 **AmpleHate: Amplifying the Attention for Versatile Implicit Hate Detection**. Yejin Lee et al.  [[Paper](https://aclanthology.org/2025.emnlp-main.1469/)]
+    * [ACL 2025] 📝 **from Benign import Toxic: Jailbreaking the Language Model via Adversarial Metaphors**. Yan, Yu, et al. [[Paper](https://aclanthology.org/2025.acl-long.238/)]
+    * [ACM 2025] 📝📸 **Towards multimodal metaphor understanding: A chinese dataset and model for metaphor mapping identification**. Zhang, Dongyu, et al. [[Paper](https://dl.acm.org/doi/full/10.1145/3773989)]
+    * [NoDaLiDa 2025] 📝 **Evaluating LLM-Generated Explanations of Metaphors – A Culture-Sensitive Study of Danish**. Pedersen, Bolette Sandford, et al. [[Paper](https://aclanthology.org/2025.nodalida-1.51/)]
 
 
 [<u><🎯Back to Top></u>](#head-content)
