@@ -33,7 +33,7 @@
   * [2.3 Empathy](#head-empathy)
   * [2.4 Sarcasm](#head-sarcasm)
   * [2.5 Subtext](#head-subtext)
-  * [2.6 Lies](#head-lies)
+  * [2.6 Theory of Mind](#head-theory)
   * [2.7 High-Level Semantics in Images](#head-images)
   * [2.8 High-Level Semantics in Audio/Music/Speech](#head-audio)
   * [2.9 High-Level Semantics in Language](#head-language)
@@ -108,13 +108,9 @@
      * [Sensors 2024] 📝🔊 **Exploring Prosodic Features Modelling for Secondary Emotions Needed for Empathetic Speech Synthesis**, [Author] et al. [[Paper]()]
      * [CIKM 2025] 📝 **High-Context Empathy in Conversations for Large Language Models**. Yuyan Chen et al. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3746252.3761424)]
      * [arXiv preprint 2025] 📝 **Empathy-R1: A Chain-of-Empathy and Reinforcement Learning Framework for Long-Form Mental Health Support.** Xianrong Yao et al. [[Paper](https://arxiv.org/abs/2509.14851)]
-     * [ACL 2025] 📝 **Towards Dynamic Theory of Mind: Evaluating LLM Adaptation to Temporal Evolution of Human States.** Yang Xiao et al. [[Paper](https://aclanthology.org/2025.acl-long.1171/)]
      * [EMNLP 2025] 📝 **The Pursuit of Empathy: Evaluating Small Language Models  for PTSD Dialogue Support** Suhas Bn et al. [[Paper](https://aclanthology.org/2025.emnlp-main.1573/)]
-     * [ACMMM 2025] 📝📸🔊 **MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind.** Zheng Zhang et al. [[Paper](https://arxiv.org/abs/2504.18039)]
      * [ACL 2024] 📝 **EmotionQueen: A Benchmark for Evaluating Empathy of Large Language Models**. Yuyan Chen et al. [[Paper](https://aclanthology.org/2024.findings-acl.128/)]
      * [ACL 2024] 📝📸🔊 **EmpathicStories++: A Multimodal Dataset for Empathy Towards Personal Experiences** Jocelyn Shen et al. [[Paper](https://aclanthology.org/2024.findings-acl.268/)]
-     * [ACL 2024] 📝📸 **MMToM-QA: Multimodal Theory of Mind Question Answering.** Chuanyang Jin et al. [[Paper](https://aclanthology.org/2024.acl-long.851/)]
-     * [SIGDIAL 2024] 📝 **MindDial: Enhancing Conversational Agents with Theory-of-Mind for Common Ground Alignment and Negotiation** Shuwen Qiu et al. [[Paper](https://aclanthology.org/2024.sigdial-1.63/)]
      * [Korean Journal of Cognitive Science. 2024] 📝 **Chain of Empathy: Enhancing Empathetic Response of Large Language Models Based on Psychotherapy Models**, Yoon Kyung Lee et al. [[Paper](https://arxiv.org/abs/2311.04915)]
      * [arXiv 2025] 🔊 **EchoMind: An Interrelated Multi-level Benchmark for Evaluating Empathetic Speech Language Models**, Zhou, Li, et al. [[Paper](https://arxiv.org/abs/2510.22758)]
      
@@ -161,19 +157,26 @@
 * <span id="head-subtext"> **Subtext**  </span>
      * [Arxiv Preprint 2021] 📝📸 **SASICM: A Multi-Task Benchmark For Subtext Recognition**.  Hua Yan et al. [[Paper](https://arxiv.org/abs/2106.06944)]
 
-* <span id="head-lies"> **Lies**  </span>
+* <span id="head-theory"> **Theory of Mind**  </span>
+     * [Nature Human Behaviour 2024] 📝 **Testing Theory of Mind in Large Language Models and Humans**. James W. A. Strachan et al. [[Paper](https://www.nature.com/articles/s41562-024-01882-z)]
+     * [ACL 2025] 📝 **Towards Dynamic Theory of Mind: Evaluating LLM Adaptation to Temporal Evolution of Human States.** Yang Xiao et al. [[Paper](https://aclanthology.org/2025.acl-long.1171/)]
+     * [ACMMM 2025] 📝📸🔊 **MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind.** Zheng Zhang et al. [[Paper](https://arxiv.org/abs/2504.18039)]
+     * [ACL 2024] 📝📸 **MMToM-QA: Multimodal Theory of Mind Question Answering.** Chuanyang Jin et al. [[Paper](https://aclanthology.org/2024.acl-long.851/)]
+     * [SIGDIAL 2024] 📝 **MindDial: Enhancing Conversational Agents with Theory-of-Mind for Common Ground Alignment and Negotiation** Shuwen Qiu et al. [[Paper](https://aclanthology.org/2024.sigdial-1.63/)]
+     * [Arxiv preprint 2024] 📝 **LLMs achieve adult human performance on higher-order theory of mind tasks**. Winnie Street et al. [[Paper](https://arxiv.org/abs/2405.18870)]
 
 
 * <span id="head-images"> **High-Level Semantics in Images**  </span>
-    * [EMNLP 2025] 📝📸 **ComicScene154: A Scene Dataset for Comic Analysis**, Sandro Paval et al. [[Paper](https://aclanthology.org/2025.emnlp-main.1608/)]
-    * [Arxiv preprint 2025] 📝📸 **Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**, Chenhao Zhang et al. [[Paper](https://arxiv.org/pdf/2505.17019)]
-    * [AAAI 2025]📝📸🔊 **Towards Multimodal Sentiment Analysis via Hierarchical Correlation Modeling with Semantic Distribution Constraints**, Qinfu Xu et al. [[Paper]()]
-    * [ACL 2025] 📝📸 **Can MLLMs Understand the Deep Implication Behind Chinese Images?**, Chenhao Zhang et al. [[Paper](https://aclanthology.org/2025.acl-long.700.pdf)] 
-    * [AAAI 2025] 📝📸 **Is Your Image a Good Storyteller?**, Xiujie Song et al. [[Paper](https://arxiv.org/abs/2501.01982)] 
-    * [NAACL 2025] 📝📸 **A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models**, Xiujie Song et al. [[Paper](https://aclanthology.org/2025.naacl-long.324/)] 
-    * [NIPS 2024 D&B Track] [💬 Dataset] 📝📸 **II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models**, Rishubh Parihar et al. [[Paper]()] [[Project](https://ii-bench.github.io/)] 
-    * [ACL 2024] 📝📸 **Can Large Multimodal Models Uncover Deep Semantics Behind Images?**, Yixin Yang et al. [[Paper](https://aclanthology.org/2024.findings-acl.113/)] 
-    * [arXiv 2025] 📝📸 **InsightVision: A Comprehensive, Multi-Level Chinese-based Benchmark for Evaluating Implicit Visual Semantics in Large Vision Language Models**, Yin, Xiaofei, et al. [[Paper](https://arxiv.org/pdf/2502.15812)]
+    * [Arxiv preprint 2025] 📝📸 **Generating Storytelling Images with Rich Chains-of-Reasoning**. Xiujie Song et al. [[Paper](https://www.arxiv.org/abs/2512.07198)] 
+    * [EMNLP 2025] 📝📸 **ComicScene154: A Scene Dataset for Comic Analysis**. Sandro Paval et al. [[Paper](https://aclanthology.org/2025.emnlp-main.1608/)]
+    * [Arxiv preprint 2025] 📝📸 **Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**. Chenhao Zhang et al. [[Paper](https://arxiv.org/pdf/2505.17019)]
+    * [AAAI 2025]📝📸🔊 **Towards Multimodal Sentiment Analysis via Hierarchical Correlation Modeling with Semantic Distribution Constraints**. Qinfu Xu et al. [[Paper]()]
+    * [ACL 2025] 📝📸 **Can MLLMs Understand the Deep Implication Behind Chinese Images?**. Chenhao Zhang et al. [[Paper](https://aclanthology.org/2025.acl-long.700.pdf)] 
+    * [AAAI 2025] 📝📸 **Is Your Image a Good Storyteller?**. Xiujie Song et al. [[Paper](https://arxiv.org/abs/2501.01982)] 
+    * [NAACL 2025] 📝📸 **A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models**. Xiujie Song et al. [[Paper](https://aclanthology.org/2025.naacl-long.324/)] 
+    * [NIPS 2024 D&B Track] [💬 Dataset] 📝📸 **II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models**. Rishubh Parihar et al. [[Paper]()] [[Project](https://ii-bench.github.io/)] 
+    * [ACL 2024] 📝📸 **Can Large Multimodal Models Uncover Deep Semantics Behind Images?**. Yixin Yang et al. [[Paper](https://aclanthology.org/2024.findings-acl.113/)] 
+    * [arXiv 2025] 📝📸 **InsightVision: A Comprehensive, Multi-Level Chinese-based Benchmark for Evaluating Implicit Visual Semantics in Large Vision Language Models**. Yin, Xiaofei, et al. [[Paper](https://arxiv.org/pdf/2502.15812)]
 
 
 [<u><🎯Back to Top></u>](#head-content)
