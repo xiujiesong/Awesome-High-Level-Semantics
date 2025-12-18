@@ -18,21 +18,26 @@
 -->
 
 
-## 🎑 News
+## 🎑 *News*
 * [25/09/17] **Awesome-High-Level-Semantics** repo is created.
 
 ## 📋 *To Do*
 * - [ ] Taxonomy Design.
 
 ## <span id="head-content"> *Content* </span>
-* - [ ] [**1. Description**](#head1)
-* - [ ] [**2. High-Level Semantics**](#head2)
-  * - [ ] [High-Level Semantic in Images](#head-t2f)
-  * - [ ] [Metaphor](#head-meta)
-  * - [ ] [Humor](#head-humor)
-  * - [ ] [Empathy](#head-empathy)
-  * - [ ] [Sarcasm](#head-sarcasm)
-* [Citation](#head7)
+
+* [**1. Description**](#head1)
+* [**2. High-Level Semantics**](#head2)
+  * [2.1 Metaphor](#head-meta)
+  * [2.2 Humor](#head-humor)
+  * [2.3 Empathy](#head-empathy)
+  * [2.4 Sarcasm](#head-sarcasm)
+  * [2.5 Subtext](#head-subtext)
+  * [2.6 Lies](#head-lies)
+  * [2.7 High-Level Semantics in Images](#head-images)
+  * [2.8 High-Level Semantics in Audio/Music/Speech](#head-audio)
+  * [2.9 High-Level Semantics in Language](#head-language)
+* [**3. Citation**](#head7)
 
 
  ## <span id="head1"> *Description* </span>
@@ -50,19 +55,7 @@
 
 ## <span id="head2"> *High-Level Semantics* </span>
 
-* <span id="head-t2f"> **High-Level Semantic in Images**  </span>
-    * [EMNLP 2025] 📝📸 **ComicScene154: A Scene Dataset for Comic Analysis**, Sandro Paval et al. [[Paper](https://aclanthology.org/2025.emnlp-main.1608/)]
-    * [Arxiv preprint 2025] 📝📸 **Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**, Chenhao Zhang et al. [[Paper](https://arxiv.org/pdf/2505.17019)]
-    * [AAAI 2025]📝📸🔊 **Towards Multimodal Sentiment Analysis via Hierarchical Correlation Modeling with Semantic Distribution Constraints**, Qinfu Xu et al. [[Paper]()]
-    * [ACL 2025] 📝📸 **Can MLLMs Understand the Deep Implication Behind Chinese Images?**, Chenhao Zhang et al. [[Paper](https://aclanthology.org/2025.acl-long.700.pdf)] 
-    * [AAAI 2025] 📝📸 **Is Your Image a Good Storyteller?**, Xiujie Song et al. [[Paper](https://arxiv.org/abs/2501.01982)] 
-    * [NAACL 2025] 📝📸 **A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models**, Xiujie Song et al. [[Paper](https://aclanthology.org/2025.naacl-long.324/)] 
-    * [NIPS 2024 D&B Track] [💬 Dataset] 📝📸 **II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models**, Rishubh Parihar et al. [[Paper]()] [[Project](https://ii-bench.github.io/)] 
-    * [ACL 2024] 📝📸 **Can Large Multimodal Models Uncover Deep Semantics Behind Images?**, Yixin Yang et al. [[Paper](https://aclanthology.org/2024.findings-acl.113/)] 
-    * [arXiv 2025] 📝📸 **InsightVision: A Comprehensive, Multi-Level Chinese-based Benchmark for Evaluating Implicit Visual Semantics in Large Vision Language Models**, Yin, Xiaofei, et al. [[Paper](https://arxiv.org/pdf/2502.15812)]
 
-
-[<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-meta"> **Metaphor**  </span> 
     * [ACL 2025] 📝📸 **Multimodal Pragmatic Jailbreak on Text-to-image Models**, Tong Liu et al.  [[Paper](https://aclanthology.org/2025.acl-long.234/)]
@@ -168,9 +161,28 @@
 * <span id="head-subtext"> **Subtext**  </span>
      * [Arxiv Preprint 2021] 📝📸 **SASICM: A Multi-Task Benchmark For Subtext Recognition**.  Hua Yan et al. [[Paper](https://arxiv.org/abs/2106.06944)]
 
-* <span id="head-subtext"> **Lies**  </span>
+* <span id="head-lies"> **Lies**  </span>
 
-     
+
+* <span id="head-images"> **High-Level Semantics in Images**  </span>
+    * [EMNLP 2025] 📝📸 **ComicScene154: A Scene Dataset for Comic Analysis**, Sandro Paval et al. [[Paper](https://aclanthology.org/2025.emnlp-main.1608/)]
+    * [Arxiv preprint 2025] 📝📸 **Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**, Chenhao Zhang et al. [[Paper](https://arxiv.org/pdf/2505.17019)]
+    * [AAAI 2025]📝📸🔊 **Towards Multimodal Sentiment Analysis via Hierarchical Correlation Modeling with Semantic Distribution Constraints**, Qinfu Xu et al. [[Paper]()]
+    * [ACL 2025] 📝📸 **Can MLLMs Understand the Deep Implication Behind Chinese Images?**, Chenhao Zhang et al. [[Paper](https://aclanthology.org/2025.acl-long.700.pdf)] 
+    * [AAAI 2025] 📝📸 **Is Your Image a Good Storyteller?**, Xiujie Song et al. [[Paper](https://arxiv.org/abs/2501.01982)] 
+    * [NAACL 2025] 📝📸 **A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models**, Xiujie Song et al. [[Paper](https://aclanthology.org/2025.naacl-long.324/)] 
+    * [NIPS 2024 D&B Track] [💬 Dataset] 📝📸 **II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models**, Rishubh Parihar et al. [[Paper]()] [[Project](https://ii-bench.github.io/)] 
+    * [ACL 2024] 📝📸 **Can Large Multimodal Models Uncover Deep Semantics Behind Images?**, Yixin Yang et al. [[Paper](https://aclanthology.org/2024.findings-acl.113/)] 
+    * [arXiv 2025] 📝📸 **InsightVision: A Comprehensive, Multi-Level Chinese-based Benchmark for Evaluating Implicit Visual Semantics in Large Vision Language Models**, Yin, Xiaofei, et al. [[Paper](https://arxiv.org/pdf/2502.15812)]
+
+
+[<u><🎯Back to Top></u>](#head-content)
+
+* <span id="head-audio"> **High-Level Semantics in Audio/Music/Speech**  </span>
+
+[<u><🎯Back to Top></u>](#head-content)
+
+* <span id="head-language"> **High-Level Semantics in Language**  </span>
 
 [<u><🎯Back to Top></u>](#head-content)
 
