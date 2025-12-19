@@ -200,7 +200,7 @@
 
     * [arXiv 2025] 📝📸 **How Deep is Love in LLMs’ Hearts? Exploring Semantic Size in Human-like Cognition**. Yao Yao et al. [[Paper](https://arxiv.org/abs/2503.00330)]
     * [Journal of Memory and Language 2022] 📝 **What can size tell us about abstract conceptual processing?**. Bo Yao et al. [[Paper]()]
-    * [Behavior Research Methods 2019] **The glasgow norms: Ratings of 5,500 words on nine scales**. Graham G Scott et al. [[Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC6538586/pdf/13428_2018_Article_1099.pdf)]
+    * [Behavior Research Methods 2019] 📝 **The glasgow norms: Ratings of 5,500 words on nine scales**. Graham G Scott et al. [[Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC6538586/pdf/13428_2018_Article_1099.pdf)]
 
 
 [<u><🎯Back to Top></u>](#head-content)
