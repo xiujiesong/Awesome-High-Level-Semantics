@@ -177,7 +177,7 @@
 [<u><🎯Back to Top></u>](#head-content)
 
 
-* <span id="head-images"> **High-Level Semantics in Images**  </span>
+* <span id="head-images"> **High-Level Semantics in Image/Video**  </span>
     * [Arxiv preprint 2025] 📝📸 **Generating Storytelling Images with Rich Chains-of-Reasoning**. Xiujie Song et al. [[Paper](https://www.arxiv.org/abs/2512.07198)] 
     * [EMNLP 2025] 📝📸 **ComicScene154: A Scene Dataset for Comic Analysis**. Sandro Paval et al. [[Paper](https://aclanthology.org/2025.emnlp-main.1608/)]
     * [Arxiv preprint 2025] 📝📸 **Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**. Chenhao Zhang et al. [[Paper](https://arxiv.org/pdf/2505.17019)]
