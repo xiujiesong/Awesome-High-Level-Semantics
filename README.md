@@ -161,7 +161,7 @@
 
        
 * <span id="head-subtext"> **Subtext**  </span>
-     * [Arxiv Preprint 2021] 📝📸 **SASICM: A Multi-Task Benchmark For Subtext Recognition**.  Hua Yan et al. [[Paper](https://arxiv.org/abs/2106.06944)]
+     * [Arxiv Preprint 2021] 📝 **SASICM: A Multi-Task Benchmark For Subtext Recognition**.  Hua Yan et al. [[Paper](https://arxiv.org/abs/2106.06944)]
 
 [<u><🎯Back to Top></u>](#head-content)
 
