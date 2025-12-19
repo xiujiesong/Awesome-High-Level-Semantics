@@ -97,6 +97,9 @@
      * [ACL 2023] 📝📸 **Do Androids Laugh at Electric Sheep? Humor “Understanding” Benchmarks from The New Yorker Caption Contest**. Jack Hessel et al. [[Paper](https://aclanthology.org/2023.acl-long.41/)]
      * [WSDM 2023] 📝 **Can Pre-trained Language Models Understand Chinese Humor?**. Yuyan Chen et al. [[Paper](https://arxiv.org/pdf/2407.04105?)]
 
+[<u><🎯Back to Top></u>](#head-content)
+
+
 * <span id="head-empathy"> **Empathy**  </span>
      * [Interspeech 2025] 📝📸🔊 **MPE-TTS: Customized Emotion Zero-Shot Text-To-Speech Using Multi-Modal Prompt**, [Author] et al. [[Paper]()]
      * [Preprints 2025] 📝🔊 **LLFM-Voice: Emotionally Expressive Speech and Singing Voice Synthesis with Large Language Models via Flow Matching**, [Author] et al. [[Paper]()]
@@ -153,9 +156,15 @@
      * [AAAI 2022] 📝📸 **Nice perfume. How long did you marinate in it? Multimodal Sarcasm Explanation**. Poorav Desai et al. [[Paper](https://arxiv.org/abs/2112.04873)]
      * [LREC 2022] 📝📸🔊 **A Multimodal Corpus for Emotion Recognition in Sarcasm**. Anupama Ray et al. [[Paper](https://aclanthology.org/2022.lrec-1.756/)]
      * [FigLang 2020] 📝 **Sarcasm Detection Using an Ensemble Approach**. Jens Lemmens et al. [[Paper](https://aclanthology.org/2020.figlang-1.36/)]
+
+[<u><🎯Back to Top></u>](#head-content)
+
        
 * <span id="head-subtext"> **Subtext**  </span>
      * [Arxiv Preprint 2021] 📝📸 **SASICM: A Multi-Task Benchmark For Subtext Recognition**.  Hua Yan et al. [[Paper](https://arxiv.org/abs/2106.06944)]
+
+[<u><🎯Back to Top></u>](#head-content)
+
 
 * <span id="head-theory"> **Theory of Mind**  </span>
      * [Nature Human Behaviour 2024] 📝 **Testing Theory of Mind in Large Language Models and Humans**. James W. A. Strachan et al. [[Paper](https://www.nature.com/articles/s41562-024-01882-z)]
@@ -164,6 +173,8 @@
      * [ACL 2024] 📝📸 **MMToM-QA: Multimodal Theory of Mind Question Answering.** Chuanyang Jin et al. [[Paper](https://aclanthology.org/2024.acl-long.851/)]
      * [SIGDIAL 2024] 📝 **MindDial: Enhancing Conversational Agents with Theory-of-Mind for Common Ground Alignment and Negotiation** Shuwen Qiu et al. [[Paper](https://aclanthology.org/2024.sigdial-1.63/)]
      * [Arxiv preprint 2024] 📝 **LLMs achieve adult human performance on higher-order theory of mind tasks**. Winnie Street et al. [[Paper](https://arxiv.org/abs/2405.18870)]
+
+[<u><🎯Back to Top></u>](#head-content)
 
 
 * <span id="head-images"> **High-Level Semantics in Images**  </span>
@@ -187,7 +198,13 @@
 
 * <span id="head-language"> **High-Level Semantics in Language**  </span>
 
+    * [arXiv 2025] 📝📸 **How Deep is Love in LLMs’ Hearts? Exploring Semantic Size in Human-like Cognition**. Yao Yao et al. [[Paper](https://arxiv.org/abs/2503.00330)]
+    * [Behavior Research Methods 2019] **The glasgow norms: Ratings of 5,500 words on nine scales**. Graham G Scott et al. [[Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC6538586/pdf/13428_2018_Article_1099.pdf)]
+
+
 [<u><🎯Back to Top></u>](#head-content)
+
+
 
 
 ## <span id="head7"> ⭐ Citation </span>
