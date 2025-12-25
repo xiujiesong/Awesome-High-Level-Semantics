@@ -72,6 +72,8 @@
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-humor"> **Humor**  </span>
+     * [NeurIPS 2024] 📝 **Comparing Apples to Oranges: A Dataset & Analysis of LLM Humour Understanding from Traditional Puns to Topical Jokes**. Tyler Loakman et al. [[Paper](https://aclanthology.org/2025.findings-emnlp.505.pdf)]
+     * [NeurIPS 2024] 📝📸 **Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions**. Zhe Hu et al. [[Paper](https://neurips.cc/virtual/2024/oral/97967)] [[Project](https://vulab-ai.github.io/YESBUT_Homepage/)]
      * [Arxiv 2025] 📝📸 **Which LLMs Get the Joke? Probing Non-STEM Reasoning Abilities with HumorBench**. Reuben Narad et al. [[Paper](https://arxiv.org/abs/2507.21476)]
      * [Arxiv 2025] 📝📸 **When ‘YES’ Meets ‘BUT’: Can Large Models Comprehend Contradictory Humor Through Comparative Reasoning?**. Tuo Liang et al. [[Paper](https://arxiv.org/abs/2503.23137)] [[Project](https://vulab-ai.github.io/YESBUT-v2/)]
      * [EMNLP 2025] 📝📸🔊 **StandUp4AI: A New Multilingual Dataset for Humor Detection in Stand-up Comedy Videos**. [Author] et al. [[Paper]()]
@@ -203,6 +205,7 @@
 
 * <span id="head-language"> **High-Level Semantics in Language**  </span>
 
+    * [EMNLP 2025] 📝📸 **Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth**. Yang Wang et al. [[Paper](https://aclanthology.org/2025.emnlp-main.1177.pdf)] [[Project](https://github.com/ExtraOrdinaryLab/drivelology)] [[Data](https://huggingface.co/datasets/extraordinarylab/drivel-hub)]
     * [arXiv 2025] 📝📸 **How Deep is Love in LLMs’ Hearts? Exploring Semantic Size in Human-like Cognition**. Yao Yao et al. [[Paper](https://arxiv.org/abs/2503.00330)]
     * [Journal of Memory and Language 2022] 📝 **What can size tell us about abstract conceptual processing?**. Bo Yao et al. [[Paper]()]
     * [Behavior Research Methods 2019] 📝 **The glasgow norms: Ratings of 5,500 words on nine scales**. Graham G Scott et al. [[Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC6538586/pdf/13428_2018_Article_1099.pdf)]
