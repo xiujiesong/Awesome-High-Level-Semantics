@@ -50,7 +50,7 @@
 <!-- * Papers, codes, and datasets for the text-to-image task are available here. -->
 
 >🐌 Markdown Format:
-> * [Conference/Journal Year] 📝/📸/🔊 **Title**, First Author et al. [[Paper](URL)] [[Code](URL)] [[Project](URL)]
+> * [Conference/Journal Year] 📝/📸/🔊 **Title**. First Author et al. [[Paper](URL)] [[Code](URL)] [[Project](URL)]
 > - Note: 📝: text, 📸: vision, 🔊: audio
 
 ## <span id="head2"> *High-Level Semantics* </span>
@@ -58,6 +58,7 @@
 
 
 * <span id="head-meta"> **Metaphor**  </span> 
+    * [Expert Systems With Applications 2026] 📝📸 **Can multimodal large language models understand visual metaphors? An evaluation of MLLM’s multi-perspective understanding capabilities for visual metaphors**. Chang Su et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417425042873)]
     * [ACL 2025] 📝📸 **Multimodal Pragmatic Jailbreak on Text-to-image Models**, Tong Liu et al.  [[Paper](https://aclanthology.org/2025.acl-long.234/)]
     * [ACL 2025] 📝📸 **Cultural Bias Matters: A Cross-Cultural Benchmark Dataset and Sentiment-Enriched Model for Understanding Multimodal Metaphors**, Senqi Yang et al.  [[Paper](https://aclanthology.org/2025.acl-long.1275/)]
     * [ACL 2024] 📝📸 **Exploring Chain-of-Thought for Multi-modal Metaphor Detection**, Guanning Zeng et al.  [[Paper](https://aclanthology.org/2024.acl-long.6/)]
