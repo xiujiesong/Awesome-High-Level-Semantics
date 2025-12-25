@@ -72,7 +72,9 @@
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-humor"> **Humor**  </span>
-     * [EMNLP 2025] 📝📸🔊 **StandUp4AI: A New Multilingual Dataset for Humor Detection in Stand-up Comedy Videos**, [Author] et al. [[Paper]()]
+     * [Arxiv 2025] 📝📸 **Which LLMs Get the Joke? Probing Non-STEM Reasoning Abilities with HumorBench**. Reuben Narad et al. [[Paper](https://arxiv.org/abs/2507.21476)]
+     * [Arxiv 2025] 📝📸 **When ‘YES’ Meets ‘BUT’: Can Large Models Comprehend Contradictory Humor Through Comparative Reasoning?**. Tuo Liang et al. [[Paper](https://arxiv.org/abs/2503.23137)] [[Project](https://vulab-ai.github.io/YESBUT-v2/)]
+     * [EMNLP 2025] 📝📸🔊 **StandUp4AI: A New Multilingual Dataset for Humor Detection in Stand-up Comedy Videos**. [Author] et al. [[Paper]()]
      * [ACM MM 2024] 📝📸🔊 **The MuSe 2024 Multimodal Sentiment Analysis Challenge: Social Perception and Humor Recognition**, [Author] et al. [[Paper](https://arxiv.org/abs/2406.07753)]
      * [LREC-COLING 2024] 📝🔊 **Multilingual Laughter Detection in Stand-Up Comedy Videos**, [Author] et al. [[Paper](https://aclanthology.org/)]
      * [LREC-COLING 2024] 📝📸🔊 **MUCH: A Multimodal Corpus Construction for Conversational Humor Recognition Based on Chinese Sitcom**, [Author] et al. [[Paper](https://aclanthology.org/)]
@@ -124,7 +126,8 @@
 
 
 * <span id="head-sarcasm"> **Sarcasm**  </span>
-     * [IEEE TAFFC 2025] 📝 **Sarcasm Bench: Towards Evaluating Large Language Models on Sarcasm Understanding**, Yazhou Zhang et al. [[Paper](https://arxiv.org/pdf/2408.11319)]
+     * [ICDMW 2025] 📝📸 **Evaluating Open-Source Vision-Language Models for Multimodal Sarcasm Detection**. Saroj Basnet et al. [[Paper](https://arxiv.org/abs/2510.11852)]
+     * [IEEE TAFFC 2025] 📝 **Sarcasm Bench: Towards Evaluating Large Language Models on Sarcasm Understanding**. Yazhou Zhang et al. [[Paper](https://arxiv.org/pdf/2408.11319)]
      * [AAAI 2025] 📝📸 **DocMSU: A Comprehensive Benchmark for Document-Level Multimodal Sarcasm Understanding**, [Author] et al. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29748)]
      * [ICDMW 2025] 📝📸 **Evaluating Open-Source Vision-Language Models for Multimodal Sarcasm Detection**, [Author] et al. [[Paper](https://arxiv.org/abs/2510.11852)]
      * [Arxiv 2025] 📝📸 **MMSD3.0: A Multi-Image Benchmark for Real-World Multimodal Sarcasm Detection**, Haochen Zhao et al. [[Paper](https://arxiv.org/abs/2510.23299)]
@@ -179,6 +182,7 @@
 
 
 * <span id="head-images"> **High-Level Semantics in Image/Video**  </span>
+    * [ACL 2025] 📝📸 **PunchBench: Benchmarking MLLMs in Multimodal Punchline Comprehension**.  et al. [[Paper](https://aclanthology.org/2025.acl-long.49/)]
     * [Arxiv preprint 2025] 📝📸 **Generating Storytelling Images with Rich Chains-of-Reasoning**. Xiujie Song et al. [[Paper](https://www.arxiv.org/abs/2512.07198)] 
     * [EMNLP 2025] 📝📸 **ComicScene154: A Scene Dataset for Comic Analysis**. Sandro Paval et al. [[Paper](https://aclanthology.org/2025.emnlp-main.1608/)]
     * [Arxiv preprint 2025] 📝📸 **Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**. Chenhao Zhang et al. [[Paper](https://arxiv.org/pdf/2505.17019)]
