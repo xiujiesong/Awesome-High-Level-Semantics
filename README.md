@@ -72,11 +72,12 @@
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-humor"> **Humor**  </span>
-     * [NeurIPS 2024] 📝 **Comparing Apples to Oranges: A Dataset & Analysis of LLM Humour Understanding from Traditional Puns to Topical Jokes**. Tyler Loakman et al. [[Paper](https://aclanthology.org/2025.findings-emnlp.505.pdf)]
-     * [NeurIPS 2024] 📝📸 **Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions**. Zhe Hu et al. [[Paper](https://neurips.cc/virtual/2024/oral/97967)] [[Project](https://vulab-ai.github.io/YESBUT_Homepage/)]
+     * [Arxiv 2025] 📝📸 **One Joke to Rule them All? On the (Im)possibility of Generalizing Humor**. Mor Turgeman et al. [[Paper](https://arxiv.org/abs/2508.19402)]
      * [Arxiv 2025] 📝📸 **Which LLMs Get the Joke? Probing Non-STEM Reasoning Abilities with HumorBench**. Reuben Narad et al. [[Paper](https://arxiv.org/abs/2507.21476)]
      * [Arxiv 2025] 📝📸 **When ‘YES’ Meets ‘BUT’: Can Large Models Comprehend Contradictory Humor Through Comparative Reasoning?**. Tuo Liang et al. [[Paper](https://arxiv.org/abs/2503.23137)] [[Project](https://vulab-ai.github.io/YESBUT-v2/)]
-     * [EMNLP 2025] 📝📸🔊 **StandUp4AI: A New Multilingual Dataset for Humor Detection in Stand-up Comedy Videos**. [Author] et al. [[Paper]()]
+     * [EMNLP 2025] 📝📸🔊 **StandUp4AI: A New Multilingual Dataset for Humor Detection in Stand-up Comedy Videos**. Valentin Barriere et al. [[Paper](https://aclanthology.org/2025.findings-emnlp.919/)]
+     * [NeurIPS 2024] 📝 **Comparing Apples to Oranges: A Dataset & Analysis of LLM Humour Understanding from Traditional Puns to Topical Jokes**. Tyler Loakman et al. [[Paper](https://aclanthology.org/2025.findings-emnlp.505.pdf)]
+     * [NeurIPS 2024] 📝📸 **Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions**. Zhe Hu et al. [[Paper](https://neurips.cc/virtual/2024/oral/97967)] [[Project](https://vulab-ai.github.io/YESBUT_Homepage/)]
      * [ACM MM 2024] 📝📸🔊 **The MuSe 2024 Multimodal Sentiment Analysis Challenge: Social Perception and Humor Recognition**, [Author] et al. [[Paper](https://arxiv.org/abs/2406.07753)]
      * [LREC-COLING 2024] 📝🔊 **Multilingual Laughter Detection in Stand-Up Comedy Videos**, [Author] et al. [[Paper](https://aclanthology.org/)]
      * [LREC-COLING 2024] 📝📸🔊 **MUCH: A Multimodal Corpus Construction for Conversational Humor Recognition Based on Chinese Sitcom**, [Author] et al. [[Paper](https://aclanthology.org/)]
