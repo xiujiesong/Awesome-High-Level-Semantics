@@ -207,7 +207,8 @@
 * <span id="head-language"> **High-Level Semantics in Language**  </span>
 
     * [EMNLP 2025] 📝 **Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth**. Yang Wang et al. [[Paper](https://aclanthology.org/2025.emnlp-main.1177.pdf)] [[Project](https://github.com/ExtraOrdinaryLab/drivelology)] [[Data](https://huggingface.co/datasets/extraordinarylab/drivel-hub)]
-    * [EMNLP 2024] 📝 **SLANG: New Concept Comprehension of Large Language Models**. Lingrui Mei et al. [[Paper](https://aclanthology.org/2024.emnlp-main.698/)]
+    * [EMNLP 2024] 📝 **SLANG: New Concept Comprehension of Large Language Models**. Lingrui Mei et al. [[Paper](https://aclanthology.org/2024.emnlp-main.698/)] [[Project](https://github.com/Meirtz/FocusOnSlang-Toolbox)]
+    * [ACL 2025] 📝 **Can Large Language Models Understand Internet Buzzwords Through User-Generated Content**. Chen Huang et al. [[Paper](https://aclanthology.org/2025.acl-long.632/)] [[Project](https://github.com/SCUNLP/Buzzword)]
     * [arXiv 2025] 📝📸 **How Deep is Love in LLMs’ Hearts? Exploring Semantic Size in Human-like Cognition**. Yao Yao et al. [[Paper](https://arxiv.org/abs/2503.00330)]
     * [Journal of Memory and Language 2022] 📝 **What can size tell us about abstract conceptual processing?**. Bo Yao et al. [[Paper]()]
     * [Behavior Research Methods 2019] 📝 **The glasgow norms: Ratings of 5,500 words on nine scales**. Graham G Scott et al. [[Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC6538586/pdf/13428_2018_Article_1099.pdf)]
