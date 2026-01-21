@@ -107,9 +107,10 @@
 
 
 * <span id="head-empathy"> **Empathy**  </span>
-     * [Interspeech 2025] 📝📸🔊 **MPE-TTS: Customized Emotion Zero-Shot Text-To-Speech Using Multi-Modal Prompt**, [Author] et al. [[Paper]()]
+     * [Arxiv Preprint 2026] 📝 **PERM: Psychology-grounded Empathetic Reward Modeling for Large Language Models**. Chengbing Wang et al. [[Paper](https://arxiv.org/abs/2601.10532)]
+     * [Interspeech 2025] 📝📸🔊 **MPE-TTS: Customized Emotion Zero-Shot Text-To-Speech Using Multi-Modal Prompt**. [Author] et al. [[Paper]()]
      * [Preprints 2025] 📝🔊 **LLFM-Voice: Emotionally Expressive Speech and Singing Voice Synthesis with Large Language Models via Flow Matching**, [Author] et al. [[Paper]()]
-     * [Arxiv 2025] 📝📸🔊 **Mixed Signals: Understanding Model Disagreement in Multimodal Empathy Detection**, [Author] et al. [[Paper](https://arxiv.org/abs/2505.13979)]
+     * [Arxiv Preprint 2025] 📝📸🔊 **Mixed Signals: Understanding Model Disagreement in Multimodal Empathy Detection**, [Author] et al. [[Paper](https://arxiv.org/abs/2505.13979)]
      * [EMNLP 2024] 📝🔊 **Towards Empathetic Large Speech-Language Models (BLSP-Emo)**, [Author] et al. [[Paper](https://aclanthology.org/)]
      * [Interspeech 2024] 📝🔊 **Detecting Empathy in Speech**, Chen et al. [[Paper]()]
      * [AAAI 2024] 📝📸🔊 **MM-TTS: Multi-Modal Prompt Based Style Transfer for Expressive Text-to-Speech Synthesis**, [Author] et al. [[Paper]()]
