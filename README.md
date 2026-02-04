@@ -207,7 +207,7 @@
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-language"> **High-Level Semantics in Language**  </span>
-    * [ACL 2025] 📝 **It’s Not Bragging If You Can Back It Up: Can LLMs Understand Braggings?**. Yao Yao et al. [[Paper](https://aclanthology.org/2025.acl-long.858/)] [[Project]()]
+    * [ACL 2025] 📝 **It’s Not Bragging If You Can Back It Up: Can LLMs Understand Braggings?**. Jingjie Zeng et al. [[Paper](https://aclanthology.org/2025.acl-long.858/)] [[Project](https://github.com/jjtail/Bragging_acl2025)]
     * [EMNLP 2025] 📝 **Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth**. Yang Wang et al. [[Paper](https://aclanthology.org/2025.emnlp-main.1177.pdf)] [[Project](https://github.com/ExtraOrdinaryLab/drivelology)] [[Data](https://huggingface.co/datasets/extraordinarylab/drivel-hub)]
     * [EMNLP 2024] 📝 **SLANG: New Concept Comprehension of Large Language Models**. Lingrui Mei et al. [[Paper](https://aclanthology.org/2024.emnlp-main.698/)] [[Project](https://github.com/Meirtz/FocusOnSlang-Toolbox)]
     * [ACL 2025] 📝 **Can Large Language Models Understand Internet Buzzwords Through User-Generated Content**. Chen Huang et al. [[Paper](https://aclanthology.org/2025.acl-long.632/)] [[Project](https://github.com/SCUNLP/Buzzword)]
