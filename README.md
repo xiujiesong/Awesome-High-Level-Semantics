@@ -37,7 +37,8 @@
   * [2.7 High-Level Semantics in Images](#head-images)
   * [2.8 High-Level Semantics in Audio/Music/Speech](#head-audio)
   * [2.9 High-Level Semantics in Language](#head-language)
-* [**3. Citation**](#head7)
+* [**3. Datasets & Benchmarks**](#head-datasets)
+* [**4. Citation**](#head7)
 
 
  ## <span id="head1"> *Description* </span>
@@ -220,6 +221,159 @@
 
 
 
+
+## <span id="head-datasets"> *Datasets & Benchmarks* </span>
+
+| Paper Name | Category | Modality | Data Link |
+| --- | --- | --- | --- |
+| [Making Computers Laugh: Investigations in Automatic Humor Recognition](https://aclanthology.org/H05-1067/) | Humor | 📝 | - |
+| [A Long Short-Term Memory Framework for Predicting Humor in Dialogues](https://aclanthology.org/bertero-fung-2016-long/) | Humor | 📝 | - |
+| [SemEval-2017 Task 6: \#HashtagWars: Learning a Sense of Humor](https://aclanthology.org/potash-etal-2017-semeval/) | Humor | 📝 | [\#HashtagWars](https://github.com/text-machine-lab/ht_wars) |
+| [President Vows to Cut \<Taxes\> Hair: Dataset and Analysis of Creative Text Editing for Humorous Headlines](https://aclanthology.org/hossain-etal-2019-president/) | Humor | 📝 | [Humicroedit](https://github.com/bitzj2015/humicroedit) |
+| [Can Pre-trained Language Models Understand Chinese Humor?](https://aclanthology.org/li-etal-2023-language/) | Humor | 📝 | [C3](https://github.com/FreedomIntelligence/crosstalk-generation) |
+| [Chumor 2.0: Towards Better Benchmarking Chinese Humor Understanding from Ruo Zhi Ba](https://aclanthology.org/he-etal-2025-chumor/) | Humor | 📝 | [Chumor 2.0](https://github.com/Ruo-Zhi-Ba/Chumor-2.0) |
+| [Talk Funny! A Large-Scale Humor Response Dataset with Chain-of-Humor Interpretation](https://ojs.aaai.org/index.php/AAAI/article/view/29878) | Humor | 📝 | - |
+| [Call Me PHUNNY: A Multilingual Dataset for Pun and Humor Understanding](https://aclanthology.org/cocchieri-etal-2025-call/) | Humor | 📝 | - |
+| [CFunModel: A "Funny" Language Model Capable of Chinese Humor Generation and Processing](https://arxiv.org/abs/2503.20417) | Humor | 📝 | [CFunSet](https://huggingface.co/datasets/ZhenghanYU/CFunSet) |
+| [Cards Against AI: Predicting Humor in a Fill-in-the-blank Party Game](https://aclanthology.org/ofer-shahaf-2022-cards/) | Humor | 📝 | - |
+| [Comparing Apples to Oranges: A Dataset and Analysis of LLM Humour Understanding from Traditional Puns to Topical Jokes](https://aclanthology.org/loakman-etal-2025-comparing/) | Humor | 📝 | [Comparing Apples to Oranges](https://github.com/tylerL404/Comparing-Apples-to-Oranges) |
+| [HumorousAI: Benchmarking Multimodal Large Language Models on Humorous Image Understanding](https://scholar.google.com/scholar?q=HumorousAI%20zhang2024humor) | Humor | 📸 | - |
+| [Oogiri-GO: A Multimodal Dataset for Humor Understanding in Japanese Oogiri](https://openreview.net/forum?id=a78fdd6694d54f5491f7393dfc7529e1) | Humor | 📸 | - |
+| [Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions](https://proceedings.neurips.cc/paper_files/paper/2024/hash/62d27e2d38c56d6127f8e628e15d6175-Abstract-Conference.html) | Humor | 📸 | [YESBUT](https://vulab-ai.github.io/YESBUT_Homepage/) |
+| [D-HUMOR: Dark Humor Understanding via Multimodal Open-ended Reasoning -- A Benchmark Dataset and Method](https://arxiv.org/abs/2509.06771) | Humor | 📸 | [D-HUMOR](https://github.com/Sai-Kartheek-Reddy/D-Humor-Dark-Humor-Understanding-via-Multimodal-Open-ended-Reasoning) |
+| [Humor in Pixels: Benchmarking Large Multimodal Models Understanding of Online Comics](https://aclanthology.org/ryan-etal-2025-humor/) | Humor | 📸 | - |
+| [HumorDB: Can AI understand graphical humor?](https://arxiv.org/abs/2406.13564) | Humor | 📸 | - |
+| [v-HUB: A Benchmark for Video Humor Understanding from Vision and Sound](https://arxiv.org/abs/2509.25773) | Humor | 📸 | - |
+| [Do Androids Laugh at Electric Sheep? Humor Understanding Benchmarks from The New Yorker Caption Contest](https://aclanthology.org/hessel-etal-2023-androids/) | Humor | 📸 | [New Yorker Caption Contest Benchmarks](https://github.com/jmhessel/humor-caption) |
+| [Laughing Matters: Introducing a Friends Laughter-Annotated Multimodal Humor Corpus](https://aclanthology.org/alnajjar-etal-2022-laugh/) | Humor | 🔊 | - |
+| [Can Language Models Laugh at YouTube Short-form Videos?](https://aclanthology.org/ko-etal-2023-language/) | Humor | 📝📸🔊 | - |
+| [MUCH: A Multimodal Corpus Construction for Conversational Humor Recognition Based on Chinese Sitcom](https://aclanthology.org/guo-etal-2024-much/) | Humor | 📝📸🔊 | - |
+| [StandUp4AI: A New Multilingual Dataset for Humor Detection in Stand-up Comedy Videos](https://aclanthology.org/barriere-etal-2025-standup4ai/) | Humor | 📝📸🔊 | - |
+| [Passau-SFCH: A Multimodal Corpus for Socially Situated Funny Conversation and Humor](https://ieeexplore.ieee.org/document/10707160) | Humor | 📝📸🔊 | - |
+| [Emotionally Numb or Empathetic? Evaluating How LLMs Feel Using EmotionBench](https://arxiv.org/abs/2308.03656) | Empathy | 📝 | [EmotionBench](https://github.com/CUHK-ARISE/EmotionBench) |
+| [Modeling Empathetic Alignment in Conversation](https://aclanthology.org/yang-jurgens-2024-modeling/) | Empathy | 📝 | - |
+| [SENSE-7: Taxonomy and Dataset for Measuring User Perceptions of Empathy in Sustained Human-AI Conversations](https://arxiv.org/abs/2509.16437) | Empathy | 📝 | - |
+| [SYNTHEMPATHY: A Scalable Empathy Corpus Generated Using LLMs Without Any Crowdsourcing](https://arxiv.org/abs/2502.17857) | Empathy | 📝 | - |
+| [ECC: A Benchmark for Empathetic Conversation Comprehension](https://scholar.google.com/scholar?q=ECC%20he2025ecc) | Empathy | 📝 | - |
+| [Empathy from Perspectives: A Benchmark for Evaluating Perspective-taking in Empathetic Responses](https://aclanthology.org/chen-etal-2025-empathy/) | Empathy | 📝 | - |
+| [The Pursuit of Empathy: Evaluating Small Language Models for PTSD Dialogue Support](https://arxiv.org/abs/2505.15065) | Empathy | 📝 | - |
+| [Empathy-R1: A Chain-of-Empathy and Reinforcement Learning Framework for Long-Form Mental Health Support](https://arxiv.org/abs/2509.14851) | Empathy | 📝 | - |
+| [KardiaBench: A Benchmark for Evaluating Emotional and Empathetic Capabilities of Large Language Models](https://doi.org/10.1145/3774904.3793022) | Empathy | 📝 | - |
+| [Beyond Empathy: Evaluating Emotional Support in Large Language Models with EmoCare](https://aclanthology.org/shi-etal-2025-beyond/) | Empathy | 📝 | - |
+| [TactfulToM: A Benchmark for Evaluating Theory of Mind in Tactful Communication](https://aclanthology.org/liu-etal-2025-tactfultom/) | Empathy | 📝 | - |
+| [A Taxonomy of Empathetic Questions in Social Conversations](https://aclanthology.org/svikhnushina-etal-2022-taxonomy/) | Empathy | 📝 | - |
+| [EmotionQueen: A Benchmark for Evaluating Empathy of Large Language Models](https://aclanthology.org/chen-etal-2024-emotionqueen/) | Empathy | 📝 | [EmotionQueen](https://github.com/chenyuyan-2001/EmotionQueen) |
+| [HEART-felt Stories: A Corpus of Personal Narratives for Empathy and Emotion Reasoning](https://aclanthology.org/shen-etal-2024-heart/) | Empathy | 📝 | - |
+| [Multi-Party Empathetic Dialogue Generation](https://aclanthology.org/zhu-etal-2022-multi/) | Empathy | 📝 | - |
+| [Towards Empathetic Peer-to-Peer Support: A High-Level Counseling Conversation Corpus](https://aclanthology.org/mishra-etal-2023-pal/) | Empathy | 📝 | - |
+| [EmpathyAgent: Can Embodied Agents Conduct Empathetic Actions?](https://arxiv.org/abs/2503.16545) | Empathy | 📸 | [EmpathyAgent](https://github.com/xinyan-cxy/EmpathyAgent) |
+| [StickerConv: Generating Multimodal Empathetic Responses from Sticker-Enhanced Conversations](https://aclanthology.org/zhang-etal-2024-stickerconv/) | Empathy | 📸 | - |
+| [EChat-200K: A Large-Scale Emotional and Empathetic Speech Conversation Dataset](https://scholar.google.com/scholar?q=EChat-200K%20geng2025osum) | Empathy | 🔊 | - |
+| [EchoMind: An Interrelated Multi-level Benchmark for Evaluating Empathetic Speech Language Models](https://arxiv.org/abs/2510.22758) | Empathy | 🔊 | [EchoMind](https://github.com/hlt-cuhksz/EchoMind) |
+| [AEQ-Bench: Measuring Empathy of Omni-Modal Large Models](https://arxiv.org/abs/2601.10513) | Empathy | 🔊 | [AEQ-Bench](https://huggingface.co/datasets/gracehuggingface/AEQ-Bench) |
+| [Detecting Empathy in Speech and Video](https://scholar.google.com/scholar?q=EmpatheticVideos%20chen2024detecting) | Empathy | 🔊 | - |
+| [Generative Multimodal Supportive Conversation with Nonverbal Cues](https://scholar.google.com/scholar?q=NCSSD%20liu2024generative) | Empathy | 📝📸🔊 | - |
+| [MEDIC: A Multimodal Empathy Dataset in Counseling](https://scholar.google.com/scholar?q=MEDIC%20zhu2023medic) | Empathy | 📝📸🔊 | - |
+| [EmpathicStories++: A Multimodal Dataset for Empathy Towards Personal Experiences](https://aclanthology.org/shen-etal-2024-empathicstories/) | Empathy | 📝📸🔊 | [EmpathicStories++](https://github.com/jocelynxshen/EmpathicStories) |
+| [Figurative Archive: an open dataset and web-based application for the study of metaphor](https://arxiv.org/abs/2503.00444) | Metaphor | 📝 | - |
+| [A Chinese Dataset for Metaphorical Relation Extraction](https://aclanthology.org/chen-etal-2023-chinese/) | Metaphor | 📝 | [CMRE](https://github.com/cnunlp/CMRE) |
+| [METORIE: A Metaphor and Theory of Mind Reasoning Dataset](https://ieeexplore.ieee.org/document/10890213) | Metaphor | 📝 | - |
+| [Investigating Figurative Language Understanding through Situated Texts](https://scholar.google.com/scholar?q=FLUTE.st%20sengupta2025investigating) | Metaphor | 📝 | - |
+| [MetaPro: A Computational Metaphor Processing Benchmark](https://aclanthology.org/mao-etal-2024-metapro/) | Metaphor | 📝 | - |
+| [MABL: A Multi-Domain Benchmark for Metaphor Detection](https://aclanthology.org/kabra-etal-2023-multi/) | Metaphor | 📝 | - |
+| [MUNCH: A Multilingual Metaphor Understanding Challenge](https://aclanthology.org/tong-etal-2024-metaphor/) | Metaphor | 📝 | [MUNCH](https://github.com/tongxiao2000/MUNCH) |
+| [Chinese Idiom Paraphrasing](https://arxiv.org/abs/2204.07555) | Metaphor | 📝 | [Chinese Idiom Paraphrasing](https://github.com/jpqiang/Chinese-Idiom-Paraphrasing) |
+| [Leveraging a New Spanish Corpus for Multilingual and Cross-lingual Metaphor Detection](https://aclanthology.org/sanchez-bayona-agerri-2022-leveraging/) | Metaphor | 📝 | - |
+| [NewsMet: A Dataset for Metaphor Detection in News Headlines](https://aclanthology.org/joseph-etal-2023-newsmet/) | Metaphor | 📝 | - |
+| [MMTE: Corpus and Metrics for Evaluating Machine Translation of Metaphorical Expressions](https://aclanthology.org/wang-etal-2024-mmte/) | Metaphor | 📝 | - |
+| [Automatic Generation and Evaluation of Metaphoric Analogies](https://aclanthology.org/boisson-etal-2025-automatic/) | Metaphor | 📝 | - |
+| [Fann or Flop: Detecting Figurative Language in Arabic Social Media](https://aclanthology.org/al-ghallabi-etal-2025-fann/) | Metaphor | 📝 | - |
+| [Testing the Ability of Language Models to Interpret Figurative Language](https://aclanthology.org/liu-etal-2022-testing/) | Metaphor | 📝 | [Fig-QA](https://github.com/nightingal3/fig-qa) |
+| [A Comparative Study of Persian Simile and Idiom Understanding](https://aclanthology.org/khoshtab-etal-2025-comparative/) | Metaphor | 📝 | - |
+| [FLUTE: Figurative Language Understanding and Textual Explanations](https://aclanthology.org/chakrabarty-etal-2022-flute/) | Metaphor | 📝 | [FLUTE](https://github.com/tuhinjubcse/model-in-the-loop-fig-lang) |
+| [A Systematic Survey of Word-level Metaphor Identification Resources](https://aclanthology.org/yu-2023-systematic/) | Metaphor | 📝 | - |
+| [Cultural Bias Matters: A Cross-Cultural Benchmark Dataset and Sentiment-Enriched Model for Understanding Multimodal Metaphors](https://aclanthology.org/yang-etal-2025-cultural/) | Metaphor | 📸 | - |
+| [InfoChartQA: A Benchmark for Question Answering on Infographics and Charts](https://papers.nips.cc/) | Metaphor | 📸 | [InfoChartQA](https://huggingface.co/datasets/Jietson/InfoChartQA) |
+| [EmoMeta: A Multimodal Dataset for Fine-grained Emotion Classification in Chinese Metaphors](https://arxiv.org/abs/2505.13483) | Metaphor | 📸 | [EmoMeta](https://github.com/DUTIR-YSQ/EmoMeta) |
+| [Towards Multimodal Metaphor Understanding: A Chinese Dataset and Model for Metaphor Mapping Identification](https://arxiv.org/abs/2501.02434) | Metaphor | 📸 | - |
+| [I Spy a Metaphor: Large Language Models and Diffusion Models Co-create Visual Metaphors](https://aclanthology.org/chakrabarty-etal-2023-spy/) | Metaphor | 📸 | - |
+| [Puzzled: Evaluating Large Multimodal Models on Rebus Puzzles](https://aclanthology.org/lee-etal-2025-puzzled/) | Metaphor | 📸 | - |
+| [BANMIME: A Bangla Multimodal Metaphor and Irony Dataset](https://aclanthology.org/mia-etal-2025-banmime/) | Metaphor | 📸 | [BANMIME](https://huggingface.co/datasets/pltops/banmime) |
+| [MEMECAP: A Dataset for Captioning and Interpreting Memes](https://aclanthology.org/2023.findings-emnlp.155/) | Metaphor | 📸 | - |
+| [Looking Beyond the Literal: A Benchmark for Visual Metaphor Understanding](https://scholar.google.com/scholar?q=ImageMet%20kundu2025looking) | Metaphor | 📸 | - |
+| [MultiCMET: A Multimodal Chinese Metaphor Dataset for Metaphor Interpretation](https://aclanthology.org/zhang-etal-2023-multicmet/) | Metaphor | 📸 | [MultiCMET](https://github.com/DUTIR-BioNLP/MultiCMET) |
+| [Understanding Visual Figurative Language: A Benchmark for Vision-Language Models](https://aclanthology.org/saakyan-etal-2025-understanding/) | Metaphor | 📸 | - |
+| [Can Speech Models Understand Unspoken Metaphors?](https://scholar.google.com/scholar?q=Unspoken%20xiao2025can) | Metaphor | 🔊 | - |
+| [Rhetorical Sarcasm Detection with RedSD](https://scholar.google.com/scholar?q=RedSD%20hong2025rhetorical) | Sarcasm | 📝 | - |
+| [Generalizable Sarcasm Detection Is Just Around the Corner, Of Course!](https://aclanthology.org/jang-frassinelli-2024-generalizable/) | Sarcasm | 📝 | - |
+| [SemEval-2022 Task 6: iSarcasmEval, Intended Sarcasm Detection in English and Arabic](https://aclanthology.org/abu-farha-etal-2022-semeval/) | Sarcasm | 📝 | [iSarcasmEval](https://github.com/iabufarha/iSarcasmEval) |
+| [MultiPICo: Multimodal Perspectivism in Irony and Sarcasm Corpus](https://aclanthology.org/casola-etal-2024-multipico/) | Sarcasm | 📝 | - |
+| [RoLargeSum: A Romanian Large-Scale Summarization Dataset with Sarcasm and Irony](https://aclanthology.org/avram-etal-2025-rolargesum/) | Sarcasm | 📝 | [RoLargeSum](https://github.com/avramandrei/rolargesum) |
+| [RoQLLaMA: A Lightweight Romanian Adaptation of LLaMA for Medical Question Answering](https://aclanthology.org/dima-etal-2024-roqllama/) | Sarcasm | 📝 | - |
+| [Make Turkish Satire Great Again: A Turkish Satirical News Dataset](https://aclanthology.org/ozturk-etal-2025-make/) | Sarcasm | 📝 | - |
+| [SarcNet: A Multilingual Multimodal Sarcasm Detection Dataset](https://aclanthology.org/yue-etal-2024-sarcnet/) | Sarcasm | 📸 | [SarcNet](https://github.com/taeyue/SarcNet) |
+| [MMSD3.0: A Multi-Image Benchmark for Real-World Multimodal Sarcasm Detection](https://arxiv.org/abs/2510.23299) | Sarcasm | 📸 | [MMSD3.0](https://github.com/hczhao2022/MMSD3.0) |
+| [DocMSU: A Comprehensive Benchmark for Document-Level Multimodal Sarcasm Understanding](https://ojs.aaai.org/index.php/AAAI/article/view/29748) | Sarcasm | 📸 | [DocMSU](https://github.com/DUTIR-BioNLP/DocMSU) |
+| [YesBut: A High-Quality Dataset for Multimodal Sarcasm Detection](https://aclanthology.org/nandy-etal-2024-yesbut/) | Sarcasm | 📸 | [YESBUT](https://vulab-ai.github.io/YESBUT_Homepage/) |
+| [VisionArena: Evaluating Vision-Language Models with Real-World Visual Sarcasm](https://ieeexplore.ieee.org/document/11094422) | Sarcasm | 📸 | - |
+| [MCDSCS: A Multimodal Chinese Dataset for Sarcasm Classification and Sentiment](https://doi.org/10.1145/3664647.3680978) | Sarcasm | 📸 | - |
+| [Deciphering Implicit Hate: Evaluating Automated Detection of Multimodal Hate Speech](https://aclanthology.org/hossain-etal-2024-deciphering/) | Sarcasm | 📸 | - |
+| [MIMOSA: Multimodal Irony and Sarcasm Detection in Online Social Media](https://aclanthology.org/ahsan-etal-2024-multimodal/) | Sarcasm | 📸 | - |
+| [ToxicTone: A Mandarin Audio Dataset Annotated for Toxicity and Toxic Utterance Tonality](https://arxiv.org/abs/2505.15773) | Sarcasm | 🔊 | [ToxicTone](https://github.com/YuXiangLo/ToxicTone) |
+| [Leveraging Large Language Models for Sarcastic Speech Annotation in Sarcasm Detection](https://arxiv.org/abs/2506.00955) | Sarcasm | 🔊 | - |
+| [Optimism, Expectation, or Sarcasm? Multi-Class Hope Speech Detection in Spanish and English](https://arxiv.org/abs/2504.17974) | Sarcasm | 🔊 | - |
+| [Towards Probing Speech-Specific Risks in Large Audio-Language Models](https://aclanthology.org/yang-etal-2024-towards-probing/) | Sarcasm | 🔊 | - |
+| [AMSD: A Multimodal Sarcasm Detection Dataset](https://ieeexplore.ieee.org/document/11146812) | Sarcasm | 📝📸🔊 | - |
+| [MMSar: A Multimodal Sarcasm Dataset for Visual-Language Reasoning](https://scholar.google.com/scholar?q=MMSar%20zhang2025mlmstrappedvisualroom) | Sarcasm | 📝📸🔊 | - |
+| [When Irony Becomes Sarcasm: A Multimodal Dataset for Sarcasm Detection](https://aclanthology.org/kumar-etal-2022-become/) | Sarcasm | 📝📸🔊 | - |
+| [A Multimodal Chinese Dataset for Cross-lingual Sarcasm Detection](https://www.isca-archive.org/interspeech_2025/gao25f_interspeech.html) | Sarcasm | 📝📸🔊 | - |
+| [Persuading across Diverse Domains: A Benchmark for Persuasive Dialogue](https://aclanthology.org/jin-etal-2024-persuading/) | Persuasion | 📝 | - |
+| [NegotiationToM: A Benchmark for Stress-testing Machine Theory of Mind on Negotiation Surrounding](https://arxiv.org/abs/2404.13627) | Persuasion | 📝 | - |
+| [SafePersuasion: A Benchmark for Evaluating Safety in Persuasive Dialogue Systems](https://aclanthology.org/kong-etal-2025-safepersuasion/) | Persuasion | 📝 | [SafePersuasion](https://github.com/haeinkong/SafePersuasion) |
+| [PersuasiveToM: A Benchmark for Evaluating Machine Theory of Mind in Persuasive Dialogues](https://arxiv.org/abs/2502.21017) | Persuasion | 📝 | [PersuasiveToM](https://github.com/Yu-Fangxu/PersuasiveToM) |
+| [Measuring Persuasion in Large Language Models with Product Price Histories](https://aclanthology.org/xia-etal-2024-measuring/) | Persuasion | 📝 | - |
+| [CToM-Persu: Evaluating Persuasion with Cognitive Theory of Mind](https://scholar.google.com/scholar?q=CToM-Persu%20zhang2026persuasion) | Persuasion | 📝 | - |
+| [Debt Collection Negotiation: A Benchmark for Persuasive Dialogue Agents](https://scholar.google.com/scholar?q=DCN%20benchmark%20wang2025debt) | Persuasion | 📝 | - |
+| [A Cross-Domain Benchmark for Argumentative Stance Classification](https://scholar.google.com/scholar?q=Cross-Domain%20Argumentative%20Stance%20benchmark%20yuan2025benchmark) | Persuasion | 📝 | - |
+| [Persuade Me If You Can: A Benchmark for Persuasive Dialogue Agents](https://scholar.google.com/scholar?q=Persuade%20Me%20If%20You%20Can%20za2025persuade) | Persuasion | 📝 | - |
+| [PVP: A Benchmark for Persuasive Visual Prompting](https://aclanthology.org/kim-etal-2025-pvp/) | Persuasion | 📸 | - |
+| [Finding Flawed Fictions: Evaluating Complex Reasoning in Language Models via Plot Hole Detection](https://arxiv.org/abs/2504.11900) | Narrative | 📝 | [FLAWEDFICTIONS](https://github.com/kabirahuja2431/FlawedFictions) |
+| [Beyond Single Frames: Can LMMs Comprehend Temporal and Contextual Narratives in Image Sequences?](https://arxiv.org/abs/2502.13925) | Narrative | 📸 | - |
+| [PopCaptions: Dense Captioning for Comic Panels](https://scholar.google.com/scholar?q=PopCaptions%20sachdeva2025panels) | Narrative | 📸 | - |
+| [A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models](https://aclanthology.org/song-etal-2025-cognitive/) | Narrative | 📸 | - |
+| [Is Your Image a Good Storyteller?](https://arxiv.org/abs/2501.01982) | Narrative | 📸 | [ISA](https://github.com/xiujiesong/ISA) |
+| [R^3-VQA: "Read the Room" by Video Social Reasoning](https://arxiv.org/abs/2505.04147) | Narrative | 📸 | [R3-VQA](https://huggingface.co/datasets/nlxpku/r3-vqa) |
+| [V-ALPHASOCIAL: A Video Benchmark for Social Reasoning in Vision-Language Models](https://aclanthology.org/lin-etal-2025-v/) | Narrative | 📸 | - |
+| [MOMENTS: A Multimodal Benchmark for Narrative Understanding in Image Sequences](https://aclanthology.org/villa-cueva-etal-2025-moments/) | Narrative | 📸 | - |
+| [Proverbs in Context: A Dataset for Implicit Meaning Understanding](https://aclanthology.org/wang-etal-2025-proverbs/) | Others | 📝 | - |
+| [ANALOGICAL: A Novel Benchmark for Long Text Analogy Evaluation in Large Language Models](https://aclanthology.org/wijesiriwardene-etal-2023-analogical/) | Others | 📝 | - |
+| [Potential Idiomatic Expression (PIE)-English Corpus for Classes of Idioms](https://aclanthology.org/adewumi-etal-2022-potential/) | Others | 📝 | - |
+| [Multilingual Multi-Figurative Language Detection](https://aclanthology.org/lai-etal-2023-multilingual/) | Others | 📝 | - |
+| [DiPlomat: A Dialogue Dataset for Situated Pragmatic Reasoning](https://arxiv.org/abs/2306.09030) | Others | 📝 | [DiPlomat](https://github.com/ValentinaPy/DiPlomat) |
+| [Jawaher: A Benchmark for Arabic Figurative Language Understanding](https://aclanthology.org/magdy-etal-2025-jawaher/) | Others | 📝 | - |
+| [FLUID QA: A Benchmark for Fluid Emotional Reasoning in Question Answering](https://scholar.google.com/scholar?q=%28Emotion%29%20FLUID%20QA%20park2025fluid) | Others | 📝 | - |
+| [Beyond Context to Cognitive Appraisal: Emotion Reasoning as a Theory of Mind Benchmark for Large Language Models](https://arxiv.org/abs/2506.00334) | Others | 📝 | - |
+| [AHaPairs: A Dataset for Understanding Aha Moments in Narratives](https://aclanthology.org/kim-etal-2026-kind/) | Others | 📝 | - |
+| [Uncovering the Structure of Chinese Puns](https://aclanthology.org/chen-etal-2024-u/) | Others | 📝 | - |
+| [ExPUNations: Augmenting Puns with Keywords and Explanations](https://aclanthology.org/sun-etal-2022-expunations/) | Others | 📝 | - |
+| [Context-Situated Pun Generation](https://arxiv.org/abs/2210.13522) | Others | 📝 | - |
+| [FanChuan: A Benchmark for Chinese Figurative Language Understanding](https://aclanthology.org/zheng-etal-2025-fanchuan/) | Others | 📝 | - |
+| [FLUB: A Figurative Language Understanding Benchmark for Large Language Models](https://scholar.google.com/scholar?q=FLUB%20li2024llms) | Others | 📝 | - |
+| [Do LLMs Understand Social Knowledge? Evaluating the Sociability of Large Language Models with SocKET Benchmark](https://aclanthology.org/choi-etal-2023-llms/) | Others | 📝 | [SOCKET](https://github.com/minjechoi/SOCKET) |
+| [Think You Have Solved Direct-Answer Question Answering? Try CSkills!](https://aclanthology.org/zhou-etal-2024-think/) | Others | 📝 | - |
+| [Redefining Machine Translation on Social Network Services with Large Language Models](https://arxiv.org/abs/2504.07901) | Others | 📝 | - |
+| [GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse](https://arxiv.org/abs/2401.01523) | Others | 📸 | [GOAT-Bench](https://goatlmm.github.io/) |
+| [II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2406.05862) | Others | 📸 | [II-Bench](https://huggingface.co/datasets/m-a-p/II-Bench) |
+| [InsightVision: A Comprehensive, Multi-Level Chinese-based Benchmark for Evaluating Implicit Visual Semantics in Large Vision Language Models](https://arxiv.org/abs/2502.15812) | Others | 📸 | [InsightVision](https://github.com/xiangyan-yin/InsightVision) |
+| [FigMemes: A Dataset for Figurative Language Identification in Politically-Opinionated Memes](https://aclanthology.org/liu-etal-2022-figmemes/) | Others | 📸 | - |
+| [SMILE: Multimodal Dataset for Understanding Laughter in Video with Language Models](https://aclanthology.org/hyun-etal-2024-smile/) | Others | 📸 | - |
+| [Figurative-cum-Commonsense Knowledge Infusion for Multimodal Mental Health Meme Classification](https://arxiv.org/abs/2501.15321) | Others | 📸 | - |
+| [The Impact of Multimodal Social-Affective Information on Reasoning in Stories](https://scholar.google.com/scholar?q=MSAIRS%20shi2025impact) | Others | 📸 | - |
+| [SVBench: A Benchmark for Social Value Understanding in Vision-Language Models](https://scholar.google.com/scholar?q=SVBench%20peng2025svbench) | Others | 📸 | [SVBench](https://huggingface.co/datasets/yzy666/SVBench) |
+| [Discrimination of Sarcasm and Literal Meaning in Chinese Mandarin Speech](https://scholar.google.com/scholar?q=%28implicit%29%20CMSLIU%20li2023discrimination) | Others | 🔊 | - |
+| [Genesis: A Multimodal Benchmark for Emotional Reasoning and Social Understanding](https://scholar.google.com/scholar?q=%28Emotion%29%20Genesis%20li2025genesis) | Others | 📝📸🔊 | - |
+
+[<u><🎯Back to Top></u>](#head-content)
 
 ## <span id="head7"> ⭐ Citation </span>
 
