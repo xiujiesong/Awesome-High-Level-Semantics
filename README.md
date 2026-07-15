@@ -38,7 +38,7 @@
   * [2.8 High-Level Semantics in Audio/Music/Speech](#head-audio)
   * [2.9 High-Level Semantics in Language](#head-language)
 * [**3. Datasets & Benchmarks**](#head-datasets)
-* [**4. Methods**](#head-methods)
+* [**4. Methodology**](#head-methods)
   * [4.1 Understanding](#head-methods-understanding)
   * [4.2 Generation](#head-methods-generation)
 * [**5. Citation**](#head7)
@@ -392,7 +392,7 @@
 
 [<u><🎯Back to Top></u>](#head-content)
 
-## <span id="head-methods"> *Methods* </span>
+## <span id="head-methods"> *Methodology* </span>
 
 ## <span id="head-methods-understanding"> *Understanding* </span>
 
@@ -406,7 +406,7 @@
 | [Adapter-state sharing clip for parameter-efficient multimodal sarcasm detection](https://arxiv.org/pdf/2507.04508v2) | [ICASSP 2026] | Sarcasm | 📸 | - | - |
 | [Sentient agent as a judge: Evaluating higher-order social cognition in large language models](https://aclanthology.org/2026.findings-acl.1905/) | [ACL 2026] | Empathy | 📝 | [Tencent/DigitalHuman/tree/main/SAGE](https://github.com/Tencent/DigitalHuman/tree/main/SAGE) | - |
 | [Causality guided representation learning for cross-style hate speech detection](https://arxiv.org/pdf/2510.07707v1) | [ACM Web Conference 2026] | Sarcasm | 📝 | - | - |
-| [Chumor 2.0: Towards better benchmarking Chinese humor understanding from (ruo zhi ba)](https://aclanthology.org/2025.findings-acl.1122.pdf) | [ACL 2025] | Humor | 📝 | [MichiganNLP/Chumor](https://huggingface.co/datasets/MichiganNLP/Chumor) | - |
+| [Chumor 2.0: Towards better benchmarking Chinese humor understanding from (ruozhi ba)](https://aclanthology.org/2025.findings-acl.1122.pdf) | [ACL 2025] | Humor | 📝 | [MichiganNLP/Chumor](https://huggingface.co/datasets/MichiganNLP/Chumor) | - |
 | ["what do you call a dog that is incontrovertibly true? dogma": Testing LLM generalization through humor](https://aclanthology.org/2025.acl-long.1117.pdf) | [ACL 2025] | Humor | 📝 | [https://disi-unibo-nlp.github.io/Phunny/](https://disi-unibo-nlp.github.io/Phunny/) | - |
 | [Comparing apples to oranges: A dataset & analysis of LLM humour understanding from traditional puns to topical jokes](https://aclanthology.org/2025.findings-emnlp.505.pdf) | [EMNLP 2025] | Humor | 📝 | [tylerL404/Comparing-Apples-to-Oranges](https://github.com/tylerL404/Comparing-Apples-to-Oranges) | - |
 | [Humor in pixels: Benchmarking large multimodal models understanding of online comics](https://aclanthology.org/2025.findings-emnlp.755.pdf) | [EMNLP 2025] | Humor | 📸 | [Social-AI-Studio/PixelHumor](https://github.com/Social-AI-Studio/PixelHumor) | - |
@@ -479,7 +479,6 @@
 | [Pragmatic metacognitive prompting improves LLM performance on sarcasm detection](https://aclanthology.org/2025.chum-1.7.pdf) | [CHum 2025] | Sarcasm | 📝 | [wyatt-fong/Pragmatic-Metacognitive-Prompting-Improves-LLM-Performance-on-Sarcasm-Detection](https://github.com/wyatt-fong/Pragmatic-Metacognitive-Prompting-Improves-LLM-Performance-on-Sarcasm-Detection) | - |
 | [Pragmatic inference chain (PIC) improving LLMs' reasoning of authentic implicit toxic language](https://aclanthology.org/2025.emnlp-main.296.pdf) | [EMNLP 2025] | Implicit | 📝 | - | [xchenresearch/PIC_3097_data](https://github.com/xchenresearch/PIC_3097_data) |
 | [Mhsdb: A comprehensive benchmark for multimodal humor and sarcasm detection leveraging foundation models](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887877) | [ICASSP 2025] | Humor | 📝📸🔊 | - | - |
-| [Chumor 2.0: Towards better benchmarking chinese humor understanding from (ruo zhi ba)](https://aclanthology.org/2025.findings-acl.1122.pdf) | [ACL 2025] | Humor | 📝 | [MichiganNLP/Chumor](https://huggingface.co/datasets/MichiganNLP/Chumor) | - |
 | [Do expressions change decisions? exploring the impact of ai's explanation tone on decision-making](https://arxiv.org/pdf/2502.19730v1) | [CHI 2025] | Emotion | 📝 | - | - |
 | [BottleHumor: Self-informed humor explanation using the information bottleneck principle](https://aclanthology.org/2025.findings-acl.1163.pdf) | [ACL 2025] | Humor | 📸 | [eujhwang/bottle-humor](https://github.com/eujhwang/bottle-humor) | - |
 | [Sheep's skin, wolf's deeds: Are LLMs ready for metaphorical implicit hate speech?](https://aclanthology.org/2025.acl-long.814.pdf) | [ACL 2025] | Implicit | 📝 | - | - |
@@ -561,7 +560,6 @@
 | [Potential idiomatic expression (PIE)-English: Corpus for classes of idioms](https://aclanthology.org/2022.lrec-1.72.pdf) | [LREC 2022] | Implicit | 📝 | - | [tosingithub/idesk](https://github.com/tosingithub/idesk) |
 | [ExPUNations: Augmenting puns with keywords and explanations](https://aclanthology.org/2022.emnlp-main.304.pdf) | [EMNLP 2022] | Pun | 📝 | [amazon-science/expunations](https://github.com/amazon-science/expunations) | - |
 | [FigMemes: A dataset for figurative language identification in politically-opinionated memes](https://aclanthology.org/2022.emnlp-main.476.pdf) | [EMNLP 2022] | Implicit | 📸 | [UKPLab/emnlp2022-figmemes](https://github.com/UKPLab/emnlp2022-figmemes) | - |
-| [FLUTE: Figurative language understanding through textual explanations](https://aclanthology.org/2022.emnlp-main.481.pdf) | [EMNLP 2022] | Metaphor | 📝 | [tuhinjubcse/model-in-the-loop-fig-lang](https://github.com/tuhinjubcse/model-in-the-loop-fig-lang) | [tuhinjubcse/model-in-the-loop-fig-lang](https://github.com/tuhinjubcse/model-in-the-loop-fig-lang) |
 | [Metaphor detection via linguistics enhanced siamese network](https://aclanthology.org/2022.coling-1.364.pdf) | [COLING 2022] | Metaphor | 📝 | [SilasTHU/MisNet](https://github.com/SilasTHU/MisNet) | - |
 | [Metaphors in pre-trained language models: Probing and generalization across datasets and languages](https://aclanthology.org/2022.acl-long.144.pdf) | [ACL 2022] | Metaphor | 📝 | [EhsanAghazadeh/Metaphors_in_PLMs](https://github.com/EhsanAghazadeh/Metaphors_in_PLMs) | - |
 | [It's better to teach fishing than giving a fish: An auto-augmented structure-aware generative model for metaphor detection](https://aclanthology.org/2022.findings-emnlp.46.pdf) | [EMNLP 2022] | Metaphor | 📝 | - | - |
