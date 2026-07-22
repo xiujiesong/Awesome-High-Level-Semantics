@@ -1,4 +1,8 @@
-# <p align=center>𝓐𝔀𝓮𝓼𝓸𝓶𝓮-𝓗𝓲𝓰𝓱-𝓛𝓮𝓿𝓮𝓵-𝓢𝓮𝓶𝓪𝓷𝓽𝓲𝓬𝓼🌇</p>
+<p align="center">
+  <img src="logo.png" width="180" alt="Awesome High-Level Semantics Logo">
+</p>
+
+# <p align=center>𝓐𝔀𝓮𝓼𝓸𝓶𝓮-𝓗𝓲𝓰𝓱-𝓛𝓮𝓿𝓮𝓵-𝓢𝓮𝓶𝓪𝓷𝓽𝓲𝓬𝓼</p>
 <!--# <p align=center>`Awesome-High-Level-Semantics🌇`</p>-->
 <div align=center>
 
