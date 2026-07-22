@@ -33,9 +33,9 @@
 * [**2. Methodology**](#head-methods)
   * [2.1 Understanding](#head-methods-understanding)
       * [2.1.1 Humor](#head-methods-understanding-humor)
-      * [2.1.2 Empathy](#head-methods-understanding-empathy)
-      * [2.1.3 Metaphor](#head-methods-understanding-metaphor)
-      * [2.1.4 Sarcasm](#head-methods-understanding-sarcasm)
+      * [2.1.2 Metaphor](#head-methods-understanding-metaphor)
+      * [2.1.3 Sarcasm](#head-methods-understanding-sarcasm)
+      * [2.1.4 Empathy](#head-methods-understanding-empathy)
       * [2.1.5 Persuasion](#head-methods-understanding-persuasion)
       * [2.1.6 Narrative](#head-methods-understanding-narrative)
       * [2.1.7 Others](#head-methods-understanding-others)
@@ -71,7 +71,7 @@
 > Note: 📝: text, 📸: vision, 🔊: audio
 
 
-## <span id="head-methods"> *Methodologies of HLS* </span>
+## <span id="head-methods"> *Methodology* </span>
 
 ### <span id="head-methods-understanding"> *Understanding* </span>
 
