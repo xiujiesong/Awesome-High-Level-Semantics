@@ -641,21 +641,20 @@
 | [“What do you call a dog that is incontrovertibly true? Dogma”: Testing LLM Generalization through Humor](https://aclanthology.org/2025.acl-long.1117/) | ACL 2025 | 📝 | - |
 | [CFunModel: A "Funny" Language Model Capable of Chinese Humor Generation and Processing](https://arxiv.org/abs/2503.20417) | arXiv 2025 | 📝 | [CFunSet](https://huggingface.co/datasets/ZhenghanYU/CFunSet) |
 | [Comparing Apples to Oranges: A Dataset & Analysis of LLM Humour Understanding from Traditional Puns to Topical Jokes](https://aclanthology.org/2025.findings-emnlp.505/) | EMNLP 2025 | 📝 | [Comparing Apples to Oranges](https://github.com/tylerL404/Comparing-Apples-to-Oranges) |
-| [D-HUMOR: Dark Humor Understanding via Multimodal Open-ended Reasoning -- A Benchmark Dataset and Method](https://arxiv.org/abs/2509.06771) | ICDM 2025 | 📸 | [D-HUMOR](https://github.com/Sai-Kartheek-Reddy/D-Humor-Dark-Humor-Understanding-via-Multimodal-Open-ended-Reasoning) |
-| [Humor in Pixels: Benchmarking Large Multimodal Models Understanding of Online Comics](https://aclanthology.org/2025.findings-emnlp.755/) | EMNLP 2025 | 📸 | - |
-| [v-HUB: A Benchmark for Video Humor Understanding from Vision and Sound](https://arxiv.org/abs/2509.25773) | arXiv 2025 | 📸 | - |
+| [D-HUMOR: Dark Humor Understanding via Multimodal Open-ended Reasoning -- A Benchmark Dataset and Method](https://arxiv.org/abs/2509.06771) | ICDM 2025 | 📝📸 | [D-HUMOR](https://github.com/Sai-Kartheek-Reddy/D-Humor-Dark-Humor-Understanding-via-Multimodal-Open-ended-Reasoning) |
+| [Humor in Pixels: Benchmarking Large Multimodal Models Understanding of Online Comics](https://aclanthology.org/2025.findings-emnlp.755/) | EMNLP 2025 | 📝📸 | - |
+| [v-HUB: A Benchmark for Video Humor Understanding from Vision and Sound](https://arxiv.org/abs/2509.25773) | arXiv 2025 | 📝📸🔊 | - |
 | [StandUp4AI: A New Multilingual Dataset for Humor Detection in Stand-up Comedy Videos](https://aclanthology.org/2025.findings-emnlp.919/) | EMNLP 2025 | 📝📸🔊 | - |
 | [Talk Funny! A Large-Scale Humor Response Dataset with Chain-of-Humor Interpretation](https://ojs.aaai.org/index.php/AAAI/article/view/29878) | AAAI 2024 | 📝 | - |
-| [Humor in AI: Massive Scale Crowd-Sourced Preferences and Benchmarks for Cartoon Captioning](https://arxiv.org/abs/2406.10522) | arXiv 2024 | 📸 | [HumorousAI](https://huggingface.co/datasets/yguooo/newyorker_caption_ranking) |
-| [Let’s Think Outside the Box: Exploring Leap-of-Thought in Large Language Models with Creative Humor Generation](https://openaccess.thecvf.com/content/CVPR2024/html/Zhong_Lets_Think_Outside_the_Box_Exploring_Leap-of-Thought_in_Large_Language_CVPR_2024_paper.html) | CVPR 2024 | 📸 | - |
-| [Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions](https://proceedings.neurips.cc/paper_files/paper/2024/hash/540a6eefb60428c8547a27253f9a2a59-Abstract-Conference.html) | NeurIPS 2024 | 📸 | [YESBUT](https://vulab-ai.github.io/YESBUT_Homepage/) |
-| [HumorDB: Can AI understand graphical humor?](https://arxiv.org/abs/2406.13564) | arXiv 2024 | 📸 | - |
-| [SMILE: Multimodal Dataset for Understanding Laughter in Video with Language Models](https://aclanthology.org/2024.findings-naacl.73/) | NAACL 2024 | 📸 | - |
-| [Let’s Think Outside the Box: Exploring Leap-of-Thought in Large Language Models with Creative Humor Generation](https://openaccess.thecvf.com/content/CVPR2024/html/Zhong_Lets_Think_Outside_the_Box_Exploring_Leap-of-Thought_in_Large_Language_CVPR_2024_paper.html) | CVPR 2024 | 📸 | - |
+| [Humor in AI: Massive Scale Crowd-Sourced Preferences and Benchmarks for Cartoon Captioning](https://arxiv.org/abs/2406.10522) | arXiv 2024 | 📝📸 | [HumorousAI](https://huggingface.co/datasets/yguooo/newyorker_caption_ranking) |
+| [Let’s Think Outside the Box: Exploring Leap-of-Thought in Large Language Models with Creative Humor Generation](https://openaccess.thecvf.com/content/CVPR2024/html/Zhong_Lets_Think_Outside_the_Box_Exploring_Leap-of-Thought_in_Large_Language_CVPR_2024_paper.html) | CVPR 2024 | 📝📸 | - |
+| [Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions](https://proceedings.neurips.cc/paper_files/paper/2024/hash/540a6eefb60428c8547a27253f9a2a59-Abstract-Conference.html) | NeurIPS 2024 | 📝📸 | [YESBUT](https://vulab-ai.github.io/YESBUT_Homepage/) |
+| [HumorDB: Can AI understand graphical humor?](https://arxiv.org/abs/2406.13564) | arXiv 2024 | 📝📸 | - |
+| [SMILE: Multimodal Dataset for Understanding Laughter in Video with Language Models](https://aclanthology.org/2024.findings-naacl.73/) | NAACL 2024 | 📝📸🔊 | - |
 | [MUCH: A Multimodal Corpus Construction for Conversational Humor Recognition Based on Chinese Sitcom](https://doi.org/10.63317/47y7rpug448e) | LREC-COLING 2024 | 📝📸🔊 | - |
 | [Passau-SFCH: A Multimodal Corpus for Socially Situated Funny Conversation and Humor](https://ieeexplore.ieee.org/document/10707160) | IEEE TAFFC 2024 | 📝📸🔊 | - |
 | [Can Pre-trained Language Models Understand Chinese Humor?](https://doi.org/10.1145/3539597.3570431) | WSDM 2023 | 📝 | [C3](https://github.com/FreedomIntelligence/crosstalk-generation) |
-| [Do Androids Laugh at Electric Sheep? Humor Understanding Benchmarks from The New Yorker Caption Contest](https://aclanthology.org/2023.acl-long.41/) | ACL 2023 | 📸 | [New Yorker Caption Contest Benchmarks](https://github.com/jmhessel/caption_contest_corpus) |
+| [Do Androids Laugh at Electric Sheep? Humor Understanding Benchmarks from The New Yorker Caption Contest](https://aclanthology.org/2023.acl-long.41/) | ACL 2023 | 📝📸 | [New Yorker Caption Contest Benchmarks](https://github.com/jmhessel/caption_contest_corpus) |
 | [Can Language Models Laugh at YouTube Short-form Videos?](https://aclanthology.org/2023.emnlp-main.176/) | EMNLP 2023 | 📝📸🔊 | - |
 | [Cards Against AI: Predicting Humor in a Fill-in-the-blank Party Game](https://aclanthology.org/2022.findings-emnlp.394/) | EMNLP 2022 | 📝 | - |
 | [When to Laugh and How Hard? A Multimodal Approach to Detecting Humor and Its Intensity](https://aclanthology.org/2022.coling-1.598/) | COLING 2022 | 🔊 | - |
@@ -687,7 +686,7 @@
 | [Modeling Empathetic Alignment in Conversation](https://aclanthology.org/2024.naacl-long.172/) | NAACL 2024 | 📝 | - |
 | [EmotionQueen: A Benchmark for Evaluating Empathy of Large Language Models](https://aclanthology.org/2024.findings-acl.128/) | ACL 2024 | 📝 | - |
 | [HEART-felt Narratives: Tracing Empathy and Narrative Style in Personal Stories with LLMs](https://aclanthology.org/2024.emnlp-main.59/) | EMNLP 2024 | 📝 | - |
-| [StickerConv: Generating Multimodal Empathetic Responses from Sticker-Enhanced Conversations](https://aclanthology.org/2024.acl-long.417/) | ACL 2024 | 📸 | - |
+| [StickerConv: Generating Multimodal Empathetic Responses from Sticker-Enhanced Conversations](https://aclanthology.org/2024.acl-long.417/) | ACL 2024 | 📝📸 | - |
 | [Detecting Empathy in Speech](https://www.isca-archive.org/interspeech_2024/chen24f_interspeech.html) | Interspeech 2024 | 🔊 | - |
 | [Generative Expressive Conversational Speech Synthesis](https://doi.org/10.1145/3664647.3681697) | ACM MM 2024 | 📝📸🔊 | [NCSSD](https://github.com/AI-S2-Lab/GPT-Talker) |
 | [EmpathicStories++: A Multimodal Dataset for Empathy Towards Personal Experiences](https://aclanthology.org/2024.findings-acl.268/) | ACL 2024 | 📝📸🔊 | [EmpathicStories++](https://mitmedialab.github.io/empathic-stories-multimodal/?utm_source=chatgpt.com) |
@@ -708,13 +707,13 @@
 | [Fann or Flop: A Multigenre, Multiera Benchmark for Arabic Poetry Understanding in LLMs](https://aclanthology.org/2025.emnlp-main.1023/) | EMNLP 2025 | 📝 | - |
 | [Comparative Study of Multilingual Idioms and Similes in Large Language Models](https://aclanthology.org/2025.coling-main.580/) | COLING 2025 | 📝 | - |
 | [Investigating the Impact of Conceptual Metaphors on LLM-based NLI through Shapley Interactions](https://aclanthology.org/2025.findings-emnlp.942/) | EMNLP 2025 | 📝 | - |
-| [Cultural Bias Matters: A Cross-Cultural Benchmark Dataset and Sentiment-Enriched Model for Understanding Multimodal Metaphors](https://aclanthology.org/2025.acl-long.1275/) | ACL 2025 | 📸 | - |
-| [InfoChartQA: A Benchmark for Multimodal Question Answering on Infographic Charts](https://arxiv.org/abs/2505.19028) | arXiv 2025 | 📸 | [InfoChartQA](https://huggingface.co/datasets/Jietson/InfoChartQA) |
-| [EmoMeta: A Multimodal Dataset for Fine-grained Emotion Classification in Chinese Metaphors](https://arxiv.org/abs/2505.13483) | ACM 2025 | 📸 | [EmoMeta](https://github.com/DUTIR-YSQ/EmoMeta) |
-| [Towards Multimodal Metaphor Understanding: A Chinese Dataset and Model for Metaphor Mapping Identification](https://arxiv.org/abs/2501.02434) | arXiv 2025 | 📸 | - |
-| [Puzzled by Puzzles: When Vision-Language Models Can’t Take a Hint](https://aclanthology.org/2025.emnlp-main.1101/) | EMNLP 2025 | 📸 | - |
-| [BANMIME : Misogyny Detection with Metaphor Explanation on Bangla Memes](https://aclanthology.org/2025.emnlp-main.900/) | EMNLP 2025 | 📸 | [BANMIME](https://huggingface.co/datasets/pltops/banmime) |
-| [Looking Beyond the Pixels: Evaluating Visual Metaphor Understanding in VLMs](https://aclanthology.org/2025.findings-emnlp.1257/) | EMNLP 2025 | 📸 | [ImageMet](https://github.com/manishitIITB/Visual_Metaphor_ImageMet_EMNLP2025) |
+| [Cultural Bias Matters: A Cross-Cultural Benchmark Dataset and Sentiment-Enriched Model for Understanding Multimodal Metaphors](https://aclanthology.org/2025.acl-long.1275/) | ACL 2025 | 📝📸 | - |
+| [InfoChartQA: A Benchmark for Multimodal Question Answering on Infographic Charts](https://arxiv.org/abs/2505.19028) | arXiv 2025 | 📝📸 | [InfoChartQA](https://huggingface.co/datasets/Jietson/InfoChartQA) |
+| [EmoMeta: A Multimodal Dataset for Fine-grained Emotion Classification in Chinese Metaphors](https://arxiv.org/abs/2505.13483) | ACM 2025 | 📝📸 | [EmoMeta](https://github.com/DUTIR-YSQ/EmoMeta) |
+| [Towards Multimodal Metaphor Understanding: A Chinese Dataset and Model for Metaphor Mapping Identification](https://arxiv.org/abs/2501.02434) | arXiv 2025 | 📝📸 | - |
+| [Puzzled by Puzzles: When Vision-Language Models Can’t Take a Hint](https://aclanthology.org/2025.emnlp-main.1101/) | EMNLP 2025 | 📝📸 | - |
+| [BANMIME : Misogyny Detection with Metaphor Explanation on Bangla Memes](https://aclanthology.org/2025.emnlp-main.900/) | EMNLP 2025 | 📝📸 | [BANMIME](https://huggingface.co/datasets/pltops/banmime) |
+| [Looking Beyond the Pixels: Evaluating Visual Metaphor Understanding in VLMs](https://aclanthology.org/2025.findings-emnlp.1257/) | EMNLP 2025 | 📝📸 | [ImageMet](https://github.com/manishitIITB/Visual_Metaphor_ImageMet_EMNLP2025) |
 | [Can Audio Language Models Listen Between the Lines? A Study on Metaphorical Reasoning via Unspoken](https://doi.org/10.1145/3746027.3758173) | ACM MM 2025 | 🔊 | [Unspoken](https://github.com/Hongru0306/UNSPOKEN) |
 | [MetaPro 2.0: Computational Metaphor Processing on the Effectiveness of Anomalous Language Modeling](https://aclanthology.org/2024.findings-acl.590/) | ACL 2024 | 📝 | - |
 | [Metaphor Understanding Challenge Dataset for LLMs](https://aclanthology.org/2024.acl-long.193/) | ACL 2024 | 📝 | [MUNCH](https://github.com/xiaoyuisrain/metaphor-understanding-challenge?utm_source=chatgpt.com) |
@@ -723,9 +722,9 @@
 | [Multi-lingual and Multi-cultural Figurative Language Understanding](https://aclanthology.org/2023.findings-acl.525/) | ACL 2023 | 📝 | - |
 | [NewsMet : A ‘do it all’ Dataset of Contemporary Metaphors in News Headlines](https://aclanthology.org/2023.findings-acl.641/) | ACL 2023 | 📝 | - |
 | [Systematic word meta-sense extension](https://aclanthology.org/2023.emnlp-main.675/) | EMNLP 2023 | 📝 | - |
-| [I Spy a Metaphor: Large Language Models and Diffusion Models Co-create Visual Metaphors](https://aclanthology.org/2023.findings-acl.465/) | ACL 2023 | 📸 | - |
-| [MEMECAP: A Dataset for Captioning and Interpreting Memes](https://arxiv.org/abs/2305.13703) | arXiv 2023 | 📸 | - |
-| [MultiCMET: A Novel Chinese Benchmark for Understanding Multimodal Metaphor](https://aclanthology.org/2023.findings-emnlp.409/) | EMNLP 2023 | 📸 | [MultiCMET](https://github.com/DUTIR-BioNLP/MultiCMET) |
+| [I Spy a Metaphor: Large Language Models and Diffusion Models Co-create Visual Metaphors](https://aclanthology.org/2023.findings-acl.465/) | ACL 2023 | 📝📸 | - |
+| [MEMECAP: A Dataset for Captioning and Interpreting Memes](https://arxiv.org/abs/2305.13703) | arXiv 2023 | 📝📸 | - |
+| [MultiCMET: A Novel Chinese Benchmark for Understanding Multimodal Metaphor](https://aclanthology.org/2023.findings-emnlp.409/) | EMNLP 2023 | 📝📸 | [MultiCMET](https://github.com/DUTIR-BioNLP/MultiCMET) |
 | [Chinese Idiom Paraphrasing](https://arxiv.org/abs/2204.07555) | arXiv 2022 | 📝 | [Chinese Idiom Paraphrasing](https://github.com/jpqiang/Chinese-Idiom-Paraphrasing) |
 | [Leveraging a New Spanish Corpus for Multilingual and Cross-lingual Metaphor Detection](https://aclanthology.org/2022.conll-1.16/) | CoNLL 2022 | 📝 | - |
 | [Testing the Ability of Language Models to Interpret Figurative Language](https://aclanthology.org/2022.naacl-main.330/) | NAACL 2022 | 📝 | [Fig-QA](https://github.com/nightingal3/fig-qa) |
@@ -740,9 +739,9 @@
 | [Rhetorical Device-Aware Sarcasm Detection with Counterfactual Data Augmentation](https://aclanthology.org/2025.findings-acl.607/) | ACL 2025 | 📝 | [RedSD](https://github.com/qqHong73/RedSD) |
 | [RoLargeSum: A Romanian Large-Scale Summarization Dataset with Sarcasm and Irony](https://aclanthology.org/2025.coling-main.140/) | COLING 2025 | 📝 | [RoLargeSum](https://github.com/avramandrei/rolargesum) |
 | [Make Satire Boring Again: Reducing Stylistic Bias of Satirical Corpus by Utilizing Generative LLMs](https://aclanthology.org/2025.bucc-1.4/) | BUCC 2025 | 📝 | - |
-| [MMSD3.0: A Multi-Image Benchmark for Real-World Multimodal Sarcasm Detection](https://arxiv.org/abs/2510.23299) | arXiv 2025 | 📸 | [MMSD3.0](https://github.com/ZHCMOONWIND/MMSD3.0) |
-| [DocMSU: A Comprehensive Benchmark for Document-Level Multimodal Sarcasm Understanding](https://ojs.aaai.org/index.php/AAAI/article/view/29748) | AAAI 2025 | 📸 | [DocMSU](https://github.com/fesvhtr/DocMSU) |
-| [VisionArena: 230K Real World User-VLM Conversations with Preference Labels](https://ieeexplore.ieee.org/document/11094422) | CVPR 2025 | 📸 | - |
+| [MMSD3.0: A Multi-Image Benchmark for Real-World Multimodal Sarcasm Detection](https://arxiv.org/abs/2510.23299) | arXiv 2025 | 📝📸 | [MMSD3.0](https://github.com/ZHCMOONWIND/MMSD3.0) |
+| [DocMSU: A Comprehensive Benchmark for Document-Level Multimodal Sarcasm Understanding](https://ojs.aaai.org/index.php/AAAI/article/view/29748) | AAAI 2025 | 📝📸 | [DocMSU](https://github.com/fesvhtr/DocMSU) |
+| [VisionArena: 230K Real World User-VLM Conversations with Preference Labels](https://ieeexplore.ieee.org/document/11094422) | CVPR 2025 | 📝📸 | - |
 | [ToxicTone: A Mandarin Audio Dataset Annotated for Toxicity and Toxic Utterance Tonality](https://arxiv.org/abs/2505.15773) | Interspeech 2025 | 🔊 | [ToxicTone](https://github.com/YuXiangLo/ToxicTone) |
 | [Leveraging Large Language Models for Sarcastic Speech Annotation in Sarcasm Detection](https://arxiv.org/abs/2506.00955) | Interspeech 2025 | 🔊 | - |
 | [Optimism, Expectation, or Sarcasm? Multi-Class Hope Speech Detection in Spanish and English](https://arxiv.org/abs/2504.17974) | arXiv 2025 | 🔊 | - |
@@ -752,14 +751,14 @@
 | [Generalizable Sarcasm Detection Is Just Around the Corner, Of Course!](https://aclanthology.org/2024.naacl-long.238/) | NAACL 2024 | 📝 | - |
 | [MultiPICo: Multimodal Perspectivism in Irony and Sarcasm Corpus](https://aclanthology.org/2024.acl-long.849/) | ACL 2024 | 📝 | - |
 | [RoQLlama: A Lightweight Romanian Adapted Language Model](https://aclanthology.org/2024.findings-emnlp.261/) | EMNLP 2024 | 📝 | - |
-| [SarcNet: A Multilingual Multimodal Sarcasm Detection Dataset](https://doi.org/10.63317/2kcxx9snfhyk) | LREC-COLING 2024 | 📸 | [SarcNet](https://github.com/yuetanbupt/SarcNet?utm_source=chatgpt.com) |
-| [***YesBut***: A High-Quality Annotated Multimodal Dataset for evaluating Satire Comprehension capability of Vision-Language Models](https://aclanthology.org/2024.emnlp-main.937/) | EMNLP 2024 | 📸 | [YESBUT](https://vulab-ai.github.io/YESBUT_Homepage/) |
-| [Integrating Stickers into Multimodal Dialogue Summarization: A Novel Dataset and Approach for Enhancing Social Media Interaction](https://doi.org/10.1145/3664647.3680978) | ACM MM 2024 | 📸 | - |
-| [A Multimodal Framework to Detect Target Aware Aggression in Memes](https://aclanthology.org/2024.eacl-long.153/) | EACL 2024 | 📸 | - |
+| [SarcNet: A Multilingual Multimodal Sarcasm Detection Dataset](https://doi.org/10.63317/2kcxx9snfhyk) | LREC-COLING 2024 | 📝📸 | [SarcNet](https://github.com/yuetanbupt/SarcNet?utm_source=chatgpt.com) |
+| [***YesBut***: A High-Quality Annotated Multimodal Dataset for evaluating Satire Comprehension capability of Vision-Language Models](https://aclanthology.org/2024.emnlp-main.937/) | EMNLP 2024 | 📝📸 | [YESBUT](https://vulab-ai.github.io/YESBUT_Homepage/) |
+| [Integrating Stickers into Multimodal Dialogue Summarization: A Novel Dataset and Approach for Enhancing Social Media Interaction](https://doi.org/10.1145/3664647.3680978) | ACM MM 2024 | 📝📸 | - |
+| [A Multimodal Framework to Detect Target Aware Aggression in Memes](https://aclanthology.org/2024.eacl-long.153/) | EACL 2024 | 📝📸 | - |
 | [Towards Probing Speech-Specific Risks in Large Multimodal Models: A Taxonomy, Benchmark, and Insights](https://aclanthology.org/2024.emnlp-main.614/) | EMNLP 2024 | 🔊 | - |
 | [SemEval-2022 Task 6: iSarcasmEval, Intended Sarcasm Detection in English and Arabic](https://aclanthology.org/2022.semeval-1.111/) | SemEval 2022 | 📝 | [iSarcasmEval](https://github.com/iabufarha/iSarcasmEval) |
 | [When did you become so smart, oh wise one?! Sarcasm Explanation in Multi-modal Multi-party Dialogues](https://aclanthology.org/2022.acl-long.411/) | ACL 2022 | 📝📸🔊 | - |
-| [Deciphering Implicit Hate: Evaluating Automated Detection of Multimodal Hate Speech](https://aclanthology.org/2021.findings-acl.166/) | ACL 2021 | 📸 | - |
+| [Deciphering Implicit Hate: Evaluating Automated Detection of Multimodal Hate Speech](https://aclanthology.org/2021.findings-acl.166/) | ACL 2021 | 📝📸 | - |
 | [Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper)](https://aclanthology.org/P19-1455/) | ACL 2019 | 📝📸🔊 | [MUStARD](https://github.com/soujanyaporia/MUStARD) |
 
 [<u><🎯Back to Top></u>](#head-content)
@@ -788,17 +787,17 @@
 | Paper Name | Venue | Modality | Data Link |
 | --- | --- | --- | --- |
 | [SagaQA: A Multi-hop Reasoning Benchmark for Long-form Narrative Understanding in TV Series](https://arxiv.org/abs/2606.03301) | arXiv 2026 | 📸 | - |
-| [NarrativeTrack: Evaluating Video Language Models Beyond the Frame](https://arxiv.org/abs/2601.01095) | arXiv 2026 | 📸 | - |
+| [NarrativeTrack: Evaluating Video Language Models Beyond the Frame](https://arxiv.org/abs/2601.01095) | arXiv 2026 | 📝📸🔊 | - |
 | [Finding Flawed Fictions: Evaluating Complex Reasoning in Language Models via Plot Hole Detection](https://arxiv.org/abs/2504.11900) | CoLM 2025 | 📝 | [FLAWEDFICTIONS](https://github.com/kabirahuja2431/FlawedFictions) |
 | [PRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts](https://arxiv.org/abs/2508.09848) | arXiv 2025 | 📝 | - |
 | [Too Long, Didn't Model: Decomposing LLM Long-Context Understanding With Novels](https://arxiv.org/abs/2505.14925) | arXiv 2025 | 📝 | [TLDM](https://github.com/srhm-ca/tldm-benchmark) |
 | [NovelHopQA: Diagnosing Multi-Hop Reasoning Failures in Long Narrative Contexts](https://arxiv.org/abs/2506.02000) | arXiv 2025 | 📝 | - |
 | [Beyond Single Frames: Can LMMs Comprehend Temporal and Contextual Narratives in Image Sequences?](https://arxiv.org/abs/2502.13925) | arXiv 2025 | 📸 | - |
-| [From Panels to Prose: Generating Literary Narratives from Comics](https://arxiv.org/abs/2503.23344) | arXiv 2025 | 📸 | [PopCaptions](https://github.com/ragavsachdeva/magi) |
+| [From Panels to Prose: Generating Literary Narratives from Comics](https://arxiv.org/abs/2503.23344) | arXiv 2025 | 📝📸 | [PopCaptions](https://github.com/ragavsachdeva/magi) |
 | [A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models](https://aclanthology.org/2025.naacl-long.324/) | NAACL 2025 | 📸 | - |
 | [Is Your Image a Good Storyteller?](https://arxiv.org/abs/2501.01982) | AAAI 2025 | 📸 | [ISA](https://github.com/xiujiesong/ISA) |
-| [R^3-VQA: "Read the Room" by Video Social Reasoning](https://arxiv.org/abs/2505.04147) | arXiv 2025 | 📸 | [R3-VQA](https://huggingface.co/datasets/nlxpku/r3-vqa) |
-| [V-ALPHASOCIAL: A Video Benchmark for Social Reasoning in Vision-Language Models](https://aclanthology.org/2025.findings-acl.975/) | ACL 2025 | 📸 | - |
+| [R^3-VQA: "Read the Room" by Video Social Reasoning](https://arxiv.org/abs/2505.04147) | arXiv 2025 | 📝📸🔊 | [R3-VQA](https://huggingface.co/datasets/nlxpku/r3-vqa) |
+| [V-ALPHASOCIAL: A Video Benchmark for Social Reasoning in Vision-Language Models](https://aclanthology.org/2025.findings-acl.975/) | ACL 2025 | 📝📸🔊 | - |
 | [MOMENTS: A Multimodal Benchmark for Narrative Understanding in Image Sequences](https://aclanthology.org/2025.findings-emnlp.1230/) | EMNLP 2025 | 📸 | - |
 | [SeriesBench: A Benchmark for Narrative-Driven Drama Series Understanding](https://arxiv.org/abs/2504.21435) | CVPR 2025 | 📸 | [SeriesBench](https://github.com/zackhxn/SeriesBench-CVPR2025) |
 | [One Thousand and One Pairs: A Novel Challenge for Long-Context Language Models](https://arxiv.org/abs/2406.16264) | arXiv 2024 | 📝 | - |
@@ -819,25 +818,25 @@
 | [Jawaher: A Benchmark for Arabic Figurative Language Understanding](https://aclanthology.org/2025.naacl-long.613/) | NAACL 2025 | Figurative Language | 📝 | - |
 | [FLUID QA: A Multilingual Benchmark for Figurative Language Usage in Dialogue across English, Chinese, and Korean](https://aclanthology.org/2025.emnlp-main.1540/) | EMNLP 2025 | Figurative Language | 📝 | [FLUID QA](https://github.com/beammeup1229/FLUID_QA) |
 | [FanChuan: A Multilingual and Graph-Structured Benchmark For Parody Detection and Analysis](https://aclanthology.org/2025.findings-acl.1131/) | ACL 2025 | Figurative Language | 📝 | - |
-| [Understanding Visual Figurative Language: A Benchmark for Vision-Language Models](https://aclanthology.org/2025.naacl-long.1/) | NAACL 2025 | Figurative Language | 📸 | - |
+| [Understanding Visual Figurative Language: A Benchmark for Vision-Language Models](https://aclanthology.org/2025.naacl-long.1/) | NAACL 2025 | Figurative Language | 📝📸 | - |
 | [Proverbs Run in Pairs: Evaluating Proverb Translation Capability of Large Language Model](https://aclanthology.org/2025.findings-acl.83/) | ACL 2025 | Implicit Meaning | 📝 | - |
-| [InsightVision: A Comprehensive, Multi-Level Chinese-based Benchmark for Evaluating Implicit Visual Semantics in Large Vision Language Models](https://arxiv.org/abs/2502.15812) | arXiv 2025 | Implicit Visual Semantics | 📸 | [InsightVision](https://github.com/JarvisFei/InsightVision?utm_source=chatgpt.com) |
-| [Figurative-cum-Commonsense Knowledge Infusion for Multimodal Mental Health Meme Classification](https://arxiv.org/abs/2501.15321) | arXiv 2025 | Mental Health | 📸 | - |
-| [Impact of Stickers on Multimodal Sentiment and Intent in Social Media: A New Task, Dataset and Baseline](https://doi.org/10.1145/3746027.3755272) | ACM MM 2025 | Social Intent | 📸 | [MSAIRS](https://github.com/FakerBoom/MSAIRS-Dataset) |
-| [SVBench: Evaluation of Video Generation Models on Social Reasoning](https://arxiv.org/abs/2512.21507) | arXiv 2025 | Social Reasoning | 📸 | [SVBench](https://github.com/Gloria2tt/SVBench-Evaluation) |
+| [InsightVision: A Comprehensive, Multi-Level Chinese-based Benchmark for Evaluating Implicit Visual Semantics in Large Vision Language Models](https://arxiv.org/abs/2502.15812) | arXiv 2025 | Implicit Visual Semantics | 📝📸 | [InsightVision](https://github.com/JarvisFei/InsightVision?utm_source=chatgpt.com) |
+| [Figurative-cum-Commonsense Knowledge Infusion for Multimodal Mental Health Meme Classification](https://arxiv.org/abs/2501.15321) | arXiv 2025 | Mental Health | 📝📸 | - |
+| [Impact of Stickers on Multimodal Sentiment and Intent in Social Media: A New Task, Dataset and Baseline](https://doi.org/10.1145/3746027.3755272) | ACM MM 2025 | Social Intent | 📝📸 | [MSAIRS](https://github.com/FakerBoom/MSAIRS-Dataset) |
+| [SVBench: Evaluation of Video Generation Models on Social Reasoning](https://arxiv.org/abs/2512.21507) | arXiv 2025 | Social Reasoning | 📝📸🔊 | [SVBench](https://github.com/Gloria2tt/SVBench-Evaluation) |
 | [Redefining Machine Translation on Social Network Services with Large Language Models](https://arxiv.org/abs/2504.07901) | arXiv 2025 | Social Translation | 📝 | - |
 | [Think Before You Speak: Cultivating Communication Skills of Large Language Models via Inner Monologue](https://aclanthology.org/2024.findings-naacl.248/) | NAACL 2024 | Commonsense | 📝 | - |
 | [When LLMs Meet Cunning Texts: A Fallacy Understanding Benchmark for Large Language Models](https://arxiv.org/abs/2402.11100) | arXiv 2024 | Fallacy | 📝 | [FLUB](https://github.com/THUKElab/FLUB) |
 | [Potential Idiomatic Expression (PIE)-English Corpus for Classes of Idioms](https://doi.org/10.63317/4fxm7wjczqyt) | LREC-COLING 2024 | Idiom | 📝 | - |
 | [II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2406.05862) | arXiv 2024 | Implicit Visual Semantics | 📸 | [II-Bench](https://huggingface.co/datasets/m-a-p/II-Bench) |
 | [Are U a Joke Master? Pun Generation via Multi-Stage Curriculum Learning towards a Humor LLM](https://aclanthology.org/2024.findings-acl.51/) | ACL 2024 | Pun | 📝 | - |
-| [GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse](https://arxiv.org/abs/2401.01523) | arXiv 2024 | Social Abuse | 📸 | [GOAT-Bench](https://goatlmm.github.io/) |
+| [GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse](https://arxiv.org/abs/2401.01523) | arXiv 2024 | Social Abuse | 📝📸 | [GOAT-Bench](https://goatlmm.github.io/) |
 | [ANALOGICAL: A Novel Benchmark for Long Text Analogy Evaluation in Large Language Models](https://aclanthology.org/2023.findings-acl.218/) | ACL 2023 | Analogy | 📝 | - |
 | [Multilingual Multi-Figurative Language Detection](https://aclanthology.org/2023.findings-acl.589/) | ACL 2023 | Figurative Language | 📝 | - |
-| [Discrimination of the Different Intents Carried by the Same Text Through Integrating Multimodal Information](https://doi.org/10.21437/Interspeech.2023-2444) | Interspeech 2023 | Intent | 🔊 | [CMSLIU](https://drive.google.com/drive/folders/1w76HxNj4zWK3snpdjlr9-aDNRddOIrlD?usp=sharing) |
+| [Discrimination of the Different Intents Carried by the Same Text Through Integrating Multimodal Information](https://doi.org/10.21437/Interspeech.2023-2444) | Interspeech 2023 | Intent | 📝🔊 | [CMSLIU](https://drive.google.com/drive/folders/1w76HxNj4zWK3snpdjlr9-aDNRddOIrlD?usp=sharing) |
 | [DiPlomat: A Dialogue Dataset for Situated Pragmatic Reasoning](https://arxiv.org/abs/2306.09030) | arXiv 2023 | Pragmatics | 📝 | [DiPlomat](https://diplomat-dataset.github.io/?utm_source=chatgpt.com) |
 | [Do LLMs Understand Social Knowledge? Evaluating the Sociability of Large Language Models with SocKET Benchmark](https://aclanthology.org/2023.emnlp-main.699/) | EMNLP 2023 | Social Knowledge | 📝 | [SOCKET](https://diplomat-dataset.github.io/?utm_source=chatgpt.com) |
-| [FigMemes: A Dataset for Figurative Language Identification in Politically-Opinionated Memes](https://aclanthology.org/2022.emnlp-main.476/) | EMNLP 2022 | Figurative Language | 📸 | - |
+| [FigMemes: A Dataset for Figurative Language Identification in Politically-Opinionated Memes](https://aclanthology.org/2022.emnlp-main.476/) | EMNLP 2022 | Figurative Language | 📝📸 | - |
 | [ExPUNations: Augmenting Puns with Keywords and Explanations](https://aclanthology.org/2022.emnlp-main.304/) | EMNLP 2022 | Pun | 📝 | - |
 | [Context-Situated Pun Generation](https://arxiv.org/abs/2210.13522) | EMNLP 2022 | Pun | 📝 | - |
 
