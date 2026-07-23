@@ -1,16 +1,12 @@
 <p align="center">
-  <img src="logo.png" width="180" alt="Awesome High-Level Semantics Logo">
+  <img src="logo.png" width="160" alt="Awesome High-Level Semantics Logo">
 </p>
 
 # <p align=center>𝓐𝔀𝓮𝓼𝓸𝓶𝓮-𝓗𝓲𝓰𝓱-𝓛𝓮𝓿𝓮𝓵-𝓢𝓮𝓶𝓪𝓷𝓽𝓲𝓬𝓼</p>
 <!--# <p align=center>`Awesome-High-Level-Semantics🌇`</p>-->
 <div align=center>
 
-<p>
 
-
- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
-</p>
 
 𝓐 𝓬𝓸𝓵𝓵𝓮𝓬𝓽𝓲𝓸𝓷 𝓸𝓯 𝓻𝓮𝓼𝓸𝓾𝓻𝓬𝓮𝓼 𝓸𝓷 𝓗𝓲𝓰𝓱-𝓛𝓮𝓿𝓮𝓵-𝓢𝓮𝓶𝓪𝓷𝓽𝓲𝓬𝓼.
  
@@ -20,10 +16,7 @@
 >
 > 🤝 Contributions are welcome! Feel free to contribute papers related to High-Level Semantics (HLS).
 
-<!--
-![Figure from paper](pic/Overview.png)
-> *From: [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://cdn.openai.com/papers/dall-e-2.pdf)*
--->
+
 
 
 ## 🎑 *News*
