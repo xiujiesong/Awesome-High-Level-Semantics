@@ -114,34 +114,6 @@
 
 [<u><🎯Back to Top></u>](#head-content)
 
-#### <span id="head-methods-understanding-empathy"> *Empathy* </span>
-
-| Paper Name | Venue | Modality | Project Link | Data Link |
-| ------ | ---------- | ----- | ------- | ---------------- |
-| [Sense-7: Taxonomy and dataset for measuring user perceptions of empathy in sustained human-ai conversations](https://arxiv.org/pdf/2509.16437v1) | IEEE TAC 2026 | 📝 | [Github](https://github.com/microsoft/sense-7) | - |
-| [Sentient agent as a judge: Evaluating higher-order social cognition in large language models](https://aclanthology.org/2026.findings-acl.1905/) | ACL 2026 | 📝 | [Github](https://github.com/Tencent/DigitalHuman/tree/main/SAGE) | - |
-| [Echomind: An interrelated multi-level benchmark for evaluating empathetic speech language models](https://arxiv.org/pdf/2510.22758v1) | arXiv 2025 | 🔊 | [Github](https://hlt-cuhksz.github.io/EchoMind/) | - |
-| [Empathy prediction from diverse perspectives](https://aclanthology.org/2025.acl-long.439.pdf) | ACL 2025 | 📝 | [Github](https://osf.io/4szk5/overview) | - |
-| [Hatred stems from ignorance! distillation of the persuasion modes in countering conversational hate speech](https://arxiv.org/pdf/2403.15449v3) | ICWSM 2025 | 📝 | [Github](https://github.com/AbeerAldayel/counterspeech-persuasion-modes) | - |
-| [Prefpalette: Personalized preference modeling with latent attributes](https://arxiv.org/pdf/2507.13541v1) | arXiv 2025 | 📝 | [Github](https://github.com/stellalisy/PrefPalette) | - |
-| [SYNTHEMPATHY: A scalable empathy corpus generated using LLMs without any crowdsourcing](https://arxiv.org/pdf/2502.17857v1) | arXiv 2025 | 📝 | - | - |
-| [TactfulToM: Do LLMs have the theory of mind ability to understand white lies?](https://aclanthology.org/2025.emnlp-main.1272.pdf) | EMNLP 2025 | 📝 | [Github](https://github.com/nii-cl/tactful-tom) | - |
-| [Uplme: Uncertainty-aware probabilistic language modelling for robust empathy regression](https://arxiv.org/pdf/2508.03520v2) | arXiv 2025 | 📝 | [Github](https://github.com/hasan-rakibul/UPLME) | - |
-| [V-ALPHASOCIAL: Benchmark and self-reflective chain-of-thought generation for visual social commonsense reasoning](https://aclanthology.org/2025.findings-acl.975/) | ACL 2025 | 📝📸 | - | [Data](https://github.com/Rafa-zy/VALPHASOCIAL) |
-| [Mixed Signals: Understanding Model Disagreement in Multimodal Empathy Detection](https://arxiv.org/abs/2505.13979) | arXiv 2025 | 📝📸🔊 | [Github](https://github.com/mayasrikm/multimodal-empathy-disagreement) | - |
-| [Detecting empathy in speech](https://www.cs.columbia.edu/speech/PaperFiles/2024/interspeech24_empathy_paper.pdf) | Interspeech 2024 | 🔊 | [Github](https://github.com/run-chen-nlp/empathy) | - |
-| [EmpathicStories++: A multimodal dataset for empathy towards personal experiences](https://aclanthology.org/2024.findings-acl.268.pdf) | ACL 2024 | 📝📸🔊 | [Github](https://mitmedialab.github.io/empathic-stories-multimodal/) | - |
-| [HEART-felt narratives: Tracing empathy and narrative style in personal stories with LLMs](https://aclanthology.org/2024.emnlp-main.59.pdf) | EMNLP 2024 | 📝 | [Github](https://github.com/mitmedialab/heartfelt-narratives-emnlp) | - |
-| [LLM-GEm: Large Language Model-Guided Prediction of People's Empathy Levels towards Newspaper Article](https://aclanthology.org/2024.findings-eacl.147.pdf) | EACL 2024 | 📝 | [Github](https://github.com/hasan-rakibul/LLM-GEm) | - |
-| [Synth-empathy: Towards high-quality synthetic empathy data](https://arxiv.org/pdf/2407.21669v2) | arXiv 2024 | 📝 | [Github](https://github.com/Aurora-slz/Synth-Empathy) | - |
-| [Empathy intent drives empathy detection](https://aclanthology.org/2023.emnlp-main.386.pdf) | EMNLP 2023 | 📝 | [Github](https://github.com/JiangT7/CLSN) | - |
-| [Medic: A multimodal empathy dataset in counseling](https://arxiv.org/pdf/2305.02842v1) | ACM MM 2023 | 📝📸🔊 | [Github](https://ustc-ac.github.io/datasets/medic/) | - |
-| [A taxonomy of empathetic questions in social dialogs](https://aclanthology.org/2022.acl-long.211.pdf) | ACL 2022 | 📝 | [Github](https://github.com/Sea94/EQT) | - |
-| [Empathic conversations: A multi-level dataset of contextualized conversations](https://arxiv.org/pdf/2205.12698) | arXiv 2022 | 📝 | - | - |
-| [Modeling empathy and distress in reaction to news stories](https://aclanthology.org/D18-1507.pdf) | EMNLP 2018 | 📝 | [Github](https://github.com/wwbp/empathic_reactions) | - |
-
-[<u><🎯Back to Top></u>](#head-content)
-
 #### <span id="head-methods-understanding-metaphor"> *Metaphor* </span>
 
 | Paper Name | Venue | Modality | Project Link | Data Link |
@@ -255,6 +227,34 @@
 | [Nice perfume. How long did you marinate in it? Multimodal Sarcasm Explanation](https://arxiv.org/abs/2112.04873) | AAAI 2022 | 📝📸 | - | - |
 | [A Multimodal Corpus for Emotion Recognition in Sarcasm](https://aclanthology.org/2022.lrec-1.756/) | LREC 2022 | 📝📸🔊 | [Github](https://github.com/apoorva-nunna/MUStARD_Plus_Plus) | - |
 | [Sarcasm Detection Using an Ensemble Approach](https://aclanthology.org/2020.figlang-1.36/) | FigLang 2020 | 📝 | - | - |
+
+[<u><🎯Back to Top></u>](#head-content)
+
+#### <span id="head-methods-understanding-empathy"> *Empathy* </span>
+
+| Paper Name | Venue | Modality | Project Link | Data Link |
+| ------ | ---------- | ----- | ------- | ---------------- |
+| [Sense-7: Taxonomy and dataset for measuring user perceptions of empathy in sustained human-ai conversations](https://arxiv.org/pdf/2509.16437v1) | IEEE TAC 2026 | 📝 | [Github](https://github.com/microsoft/sense-7) | - |
+| [Sentient agent as a judge: Evaluating higher-order social cognition in large language models](https://aclanthology.org/2026.findings-acl.1905/) | ACL 2026 | 📝 | [Github](https://github.com/Tencent/DigitalHuman/tree/main/SAGE) | - |
+| [Echomind: An interrelated multi-level benchmark for evaluating empathetic speech language models](https://arxiv.org/pdf/2510.22758v1) | arXiv 2025 | 🔊 | [Github](https://hlt-cuhksz.github.io/EchoMind/) | - |
+| [Empathy prediction from diverse perspectives](https://aclanthology.org/2025.acl-long.439.pdf) | ACL 2025 | 📝 | [Github](https://osf.io/4szk5/overview) | - |
+| [Hatred stems from ignorance! distillation of the persuasion modes in countering conversational hate speech](https://arxiv.org/pdf/2403.15449v3) | ICWSM 2025 | 📝 | [Github](https://github.com/AbeerAldayel/counterspeech-persuasion-modes) | - |
+| [Prefpalette: Personalized preference modeling with latent attributes](https://arxiv.org/pdf/2507.13541v1) | arXiv 2025 | 📝 | [Github](https://github.com/stellalisy/PrefPalette) | - |
+| [SYNTHEMPATHY: A scalable empathy corpus generated using LLMs without any crowdsourcing](https://arxiv.org/pdf/2502.17857v1) | arXiv 2025 | 📝 | - | - |
+| [TactfulToM: Do LLMs have the theory of mind ability to understand white lies?](https://aclanthology.org/2025.emnlp-main.1272.pdf) | EMNLP 2025 | 📝 | [Github](https://github.com/nii-cl/tactful-tom) | - |
+| [Uplme: Uncertainty-aware probabilistic language modelling for robust empathy regression](https://arxiv.org/pdf/2508.03520v2) | arXiv 2025 | 📝 | [Github](https://github.com/hasan-rakibul/UPLME) | - |
+| [V-ALPHASOCIAL: Benchmark and self-reflective chain-of-thought generation for visual social commonsense reasoning](https://aclanthology.org/2025.findings-acl.975/) | ACL 2025 | 📝📸 | - | [Data](https://github.com/Rafa-zy/VALPHASOCIAL) |
+| [Mixed Signals: Understanding Model Disagreement in Multimodal Empathy Detection](https://arxiv.org/abs/2505.13979) | arXiv 2025 | 📝📸🔊 | [Github](https://github.com/mayasrikm/multimodal-empathy-disagreement) | - |
+| [Detecting empathy in speech](https://www.cs.columbia.edu/speech/PaperFiles/2024/interspeech24_empathy_paper.pdf) | Interspeech 2024 | 🔊 | [Github](https://github.com/run-chen-nlp/empathy) | - |
+| [EmpathicStories++: A multimodal dataset for empathy towards personal experiences](https://aclanthology.org/2024.findings-acl.268.pdf) | ACL 2024 | 📝📸🔊 | [Github](https://mitmedialab.github.io/empathic-stories-multimodal/) | - |
+| [HEART-felt narratives: Tracing empathy and narrative style in personal stories with LLMs](https://aclanthology.org/2024.emnlp-main.59.pdf) | EMNLP 2024 | 📝 | [Github](https://github.com/mitmedialab/heartfelt-narratives-emnlp) | - |
+| [LLM-GEm: Large Language Model-Guided Prediction of People's Empathy Levels towards Newspaper Article](https://aclanthology.org/2024.findings-eacl.147.pdf) | EACL 2024 | 📝 | [Github](https://github.com/hasan-rakibul/LLM-GEm) | - |
+| [Synth-empathy: Towards high-quality synthetic empathy data](https://arxiv.org/pdf/2407.21669v2) | arXiv 2024 | 📝 | [Github](https://github.com/Aurora-slz/Synth-Empathy) | - |
+| [Empathy intent drives empathy detection](https://aclanthology.org/2023.emnlp-main.386.pdf) | EMNLP 2023 | 📝 | [Github](https://github.com/JiangT7/CLSN) | - |
+| [Medic: A multimodal empathy dataset in counseling](https://arxiv.org/pdf/2305.02842v1) | ACM MM 2023 | 📝📸🔊 | [Github](https://ustc-ac.github.io/datasets/medic/) | - |
+| [A taxonomy of empathetic questions in social dialogs](https://aclanthology.org/2022.acl-long.211.pdf) | ACL 2022 | 📝 | [Github](https://github.com/Sea94/EQT) | - |
+| [Empathic conversations: A multi-level dataset of contextualized conversations](https://arxiv.org/pdf/2205.12698) | arXiv 2022 | 📝 | - | - |
+| [Modeling empathy and distress in reaction to news stories](https://aclanthology.org/D18-1507.pdf) | EMNLP 2018 | 📝 | [Github](https://github.com/wwbp/empathic_reactions) | - |
 
 [<u><🎯Back to Top></u>](#head-content)
 
@@ -378,6 +378,30 @@
 
 [<u><🎯Back to Top></u>](#head-content)
 
+#### <span id="head-methods-generation-metaphor"> *Metaphor* </span>
+
+| Paper Name | Venue | Modality | Project Link | Data Link |
+| ------ | ---------- | ----- | ------- | ---------------- |
+| [CoMet: Metaphor-driven covert communication for multi-agent language games](https://aclanthology.org/2025.acl-long.389.pdf) | ACL 2025 | 📝 | [Github](https://github.com/xushuhang1122/CoMet) | - |
+| [The mind's eye: A multi-faceted reward framework for guiding visual metaphor generation](https://arxiv.org/pdf/2508.18569v1) | arXiv 2025 | 📝 | - | - |
+| [Multi-figurative language generation](https://aclanthology.org/2022.coling-1.519.pdf) | COLING 2022 | 📝 | [Github](https://github.com/laihuiyuan/mFLAG) | - |
+| [Nominal metaphor generation with multitask learning](https://aclanthology.org/2022.inlg-main.18.pdf) | INLG 2022 | 📝 | [Github](https://github.com/liyucheng09/Metaphor_Generator) | - |
+#### <span id="head-methods-generation-sarcasm"> *Sarcasm* </span>
+
+| Paper Name | Venue | Modality | Project Link | Data Link |
+| ------ | ---------- | ----- | ------- | ---------------- |
+| [Integrating Feedback Loss from Bi-modal Sarcasm Detector for Sarcastic Speech Synthesis](https://arxiv.org/pdf/2508.13028v1) | SSW 2025 | 🔊 | - | - |
+| [Making machines sound sarcastic: Llm-enhanced and retrieval-guided sarcastic speech synthesis](https://arxiv.org/pdf/2510.07096v1) | arXiv 2025 | 🔊 | - | - |
+| [Sarc7: Evaluating sarcasm detection and generation with seven types and emotion-informed techniques](https://aclanthology.org/2025.winlp-main.25.pdf) | WiNLP 2025 | 📝 | [Github](https://github.com/langlglang/sarc7) | - |
+| [Sentiment-enhanced graph-based sarcasm explanation in dialogue](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11005566) | IEEE TMM 2025 | 📝📸🔊 | [Github](https://github.com/OuyangKun10/EDGE) | - |
+| [Target-augmented shared fusion-based multimodal sarcasm explanation generation](https://aclanthology.org/2025.findings-naacl.472.pdf) | NAACL 2025 | 📝📸 | - | - |
+| [YesBut: A high-quality annotated multimodal dataset for evaluating satire comprehension capability of vision-language models](https://aclanthology.org/2024.emnlp-main.937.pdf) | EMNLP 2024 | 📝📸 | [Github](https://github.com/abhi1nandy2/yesbut_dataset) | - |
+| [Generating faithful synthetic data with large language models: A case study in computational social science](https://arxiv.org/pdf/2305.15041v1) | arXiv 2023 | 📝 | [Github](https://github.com/epfl-dlab/faithful-data-gen) | - |
+| [Multi-modal sarcasm generation: Dataset and solution](https://aclanthology.org/2023.findings-acl.346.pdf) | ACL 2023 | 📝📸 | [Github](https://github.com/github.com/lukakupolida) | - |
+| [Multi-source semantic graph-based multimodal sarcasm explanation generation](https://aclanthology.org/2023.acl-long.635.pdf) | ACL 2023 | 📝📸 | [Github](https://github.com/LiqiangJing/TEAM) | - |
+
+[<u><🎯Back to Top></u>](#head-content)
+
 #### <span id="head-methods-generation-empathy"> *Empathy* </span>
 
 | Paper Name | Venue | Modality | Project Link | Data Link |
@@ -418,37 +442,13 @@
 | [CASE: Aligning coarse-to-fine cognition and affection for empathetic response generation](https://aclanthology.org/2023.acl-long.457.pdf) | ACL 2023 | 📝 | [Github](https://github.com/jfzhouyoo/CASE) | - |
 | [Cab: Empathetic dialogue generation with cognition, affection and behavior](https://arxiv.org/pdf/2302.01935v2) | DASFAA 2023 | 📝 | [Github](https://github.com/geri-emp/CAB) | - |
 | [DiffusEmp: A diffusion model-based framework with multi-grained control for empathetic response generation](https://aclanthology.org/2023.acl-long.158.pdf) | ACL 2023 | 📝 | - | - |
-| [Don鈥檛 Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness](https://aclanthology.org/2023.findings-acl.843.pdf) | ACL 2023 | 📝 | [Github](https://github.com/circle-hit/EmpSOA) | - |
+| [Don't Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness](https://aclanthology.org/2023.findings-acl.843.pdf) | ACL 2023 | 📝 | [Github](https://github.com/circle-hit/EmpSOA) | - |
 | [Empathetic response generation via emotion cause transition graph](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095652) | ICASSP 2023 | 📝 | - | - |
 | [Seri: Sketching-reasoning-integrating progressive workflow for empathetic response generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10094672) | ICASSP 2023 | 📝 | - | - |
 | [EmpHi: Generating empathetic responses with human-like intents](https://aclanthology.org/2022.naacl-main.78.pdf) | NAACL 2022 | 📝 | [Github](https://github.com/mattc95/EmpHi) | - |
 | [Empathetic dialogue generation via sensitive emotion recognition and sensible knowledge selection](https://aclanthology.org/2022.findings-emnlp.340.pdf) | EMNLP 2022 | 📝 | [Github](https://github.com/wlr737/EMNLP2022-SEEK) | - |
 | [Empathetic persuasion: Reinforcing empathy and persuasiveness in dialogue systems](https://aclanthology.org/2022.findings-naacl.63.pdf) | NAACL 2022 | 📝 | [Github](https://www.iitp.ac.in/~ai-nlp-ml/resources.html#EMP4G) | - |
 | [Multi-party empathetic dialogue generation: A new task for dialog systems](https://aclanthology.org/2022.acl-long.24.pdf) | ACL 2022 | 📝 | - | - |
-
-[<u><🎯Back to Top></u>](#head-content)
-
-#### <span id="head-methods-generation-metaphor"> *Metaphor* </span>
-
-| Paper Name | Venue | Modality | Project Link | Data Link |
-| ------ | ---------- | ----- | ------- | ---------------- |
-| [CoMet: Metaphor-driven covert communication for multi-agent language games](https://aclanthology.org/2025.acl-long.389.pdf) | ACL 2025 | 📝 | [Github](https://github.com/xushuhang1122/CoMet) | - |
-| [The mind's eye: A multi-faceted reward framework for guiding visual metaphor generation](https://arxiv.org/pdf/2508.18569v1) | arXiv 2025 | 📝 | - | - |
-| [Multi-figurative language generation](https://aclanthology.org/2022.coling-1.519.pdf) | COLING 2022 | 📝 | [Github](https://github.com/laihuiyuan/mFLAG) | - |
-| [Nominal metaphor generation with multitask learning](https://aclanthology.org/2022.inlg-main.18.pdf) | INLG 2022 | 📝 | [Github](https://github.com/liyucheng09/Metaphor_Generator) | - |
-#### <span id="head-methods-generation-sarcasm"> *Sarcasm* </span>
-
-| Paper Name | Venue | Modality | Project Link | Data Link |
-| ------ | ---------- | ----- | ------- | ---------------- |
-| [Integrating Feedback Loss from Bi-modal Sarcasm Detector for Sarcastic Speech Synthesis](https://arxiv.org/pdf/2508.13028v1) | SSW 2025 | 🔊 | - | - |
-| [Making machines sound sarcastic: Llm-enhanced and retrieval-guided sarcastic speech synthesis](https://arxiv.org/pdf/2510.07096v1) | arXiv 2025 | 🔊 | - | - |
-| [Sarc7: Evaluating sarcasm detection and generation with seven types and emotion-informed techniques](https://aclanthology.org/2025.winlp-main.25.pdf) | WiNLP 2025 | 📝 | [Github](https://github.com/langlglang/sarc7) | - |
-| [Sentiment-enhanced graph-based sarcasm explanation in dialogue](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11005566) | IEEE TMM 2025 | 📝📸🔊 | [Github](https://github.com/OuyangKun10/EDGE) | - |
-| [Target-augmented shared fusion-based multimodal sarcasm explanation generation](https://aclanthology.org/2025.findings-naacl.472.pdf) | NAACL 2025 | 📝📸 | - | - |
-| [YesBut: A high-quality annotated multimodal dataset for evaluating satire comprehension capability of vision-language models](https://aclanthology.org/2024.emnlp-main.937.pdf) | EMNLP 2024 | 📝📸 | [Github](https://github.com/abhi1nandy2/yesbut_dataset) | - |
-| [Generating faithful synthetic data with large language models: A case study in computational social science](https://arxiv.org/pdf/2305.15041v1) | arXiv 2023 | 📝 | [Github](https://github.com/epfl-dlab/faithful-data-gen) | - |
-| [Multi-modal sarcasm generation: Dataset and solution](https://aclanthology.org/2023.findings-acl.346.pdf) | ACL 2023 | 📝📸 | [Github](https://github.com/github.com/lukakupolida) | - |
-| [Multi-source semantic graph-based multimodal sarcasm explanation generation](https://aclanthology.org/2023.acl-long.635.pdf) | ACL 2023 | 📝📸 | [Github](https://github.com/LiqiangJing/TEAM) | - |
 
 [<u><🎯Back to Top></u>](#head-content)
 
@@ -553,38 +553,6 @@
 
 [<u><🎯Back to Top></u>](#head-content)
 
-### <span id="head-datasets-empathy"> *Empathy* </span>
-
-| Paper Name | Venue | Modality | Data Link |
-| --- | --- | --- | --- |
-| [Kardia-R1: Unleashing LLMs to Reason toward Understanding and Empathy for Emotional Support via Rubric-as-Judge Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3774904.3793022?__cf_chl_f_tk=W1E4ETtWmrxsSLYuxrdqeLiMGvnbKtTosMc3JWqkNmM-1783238364-1.0.1.1-hONJ8HKi6Z_wHZPH3ok6ywWhc4KDPWGTiHi9b9NybDQ) | WWW 2026 | 📝 | - |
-| [AEQ-Bench: Measuring Empathy of Omni-Modal Large Models](https://arxiv.org/abs/2601.10513) | arXiv 2026 | 🔊 | [AEQ-Bench](https://huggingface.co/datasets/gracehuggingface/AEQ-Bench) |
-| [SENSE-7: Taxonomy and Dataset for Measuring User Perceptions of Empathy in Sustained Human-AI Conversations](https://arxiv.org/abs/2509.16437) | arXiv 2025 | 📝 | - |
-| [SYNTHEMPATHY: A Scalable Empathy Corpus Generated Using LLMs Without Any Crowdsourcing](https://arxiv.org/abs/2502.17857) | arXiv 2025 | 📝 | - |
-| [ECC: An Emotion-Cause Conversation Dataset for Empathy Response](https://aclanthology.org/2025.emnlp-main.306/) | EMNLP 2025 | 📝 | [ECC](https://github.com/Yuan-23/ECC) |
-| [Empathy from Perspectives: A Benchmark for Evaluating Perspective-taking in Empathetic Responses](https://aclanthology.org/2025.acl-long.439/) | ACL 2025 | 📝 | [EFP](https://osf.io/4szk5/overview) |
-| [The Pursuit of Empathy: Evaluating Small Language Models for PTSD Dialogue Support](https://aclanthology.org/2025.emnlp-main.1573/) | EMNLP 2025 | 📝 | [TIDE](https://huggingface.co/datasets/yenopoya/TIDE) |
-| [Empathy-R1: A Chain-of-Empathy and Reinforcement Learning Framework for Long-Form Mental Health Support](https://arxiv.org/abs/2509.14851) | arXiv 2025 | 📝 | - |
-| [Beyond Coarse Labels: Fine-Grained Problem Augmentation and Multi-Dimensional Feedback for Emotional Support Conversation](https://aclanthology.org/2025.findings-emnlp.86/) | EMNLP 2025 | 📝 | [FPEMF](https://github.com/FakerBoom/FPEMF) |
-| [TactfulToM: Do LLMs have the Theory of Mind ability to understand White Lies?](https://aclanthology.org/2025.emnlp-main.1272/) | EMNLP 2025 | 📝 | [TactfulToM](https://github.com/nii-cl/tactful-tom) |
-| [EmpathyAgent: Can Embodied Agents Conduct Empathetic Actions?](https://arxiv.org/abs/2503.16545) | arXiv 2025 | 📸 | [EmpathyAgent](https://github.com/xinyan-cxy/EmpathyAgent) |
-| [OSUM-EChat: Enhancing End-to-End Empathetic Spoken Chatbot via Understanding-Driven Spoken Dialogue](https://arxiv.org/abs/2508.09600) | arXiv 2025 | 🔊 | [OSUM-EChat](https://github.com/ASLP-lab/OSUM) |
-| [EchoMind: An Interrelated Multi-level Benchmark for Evaluating Empathetic Speech Language Models](https://arxiv.org/abs/2510.22758) | arXiv 2025 | 🔊 | [EchoMind](https://github.com/hlt-cuhksz/EchoMind) |
-| [Emotionally Numb or Empathetic? Evaluating How LLMs Feel Using EmotionBench](https://arxiv.org/abs/2308.03656) | NeurIPS 2024 | 📝 | [EmotionBench](https://github.com/CUHK-ARISE/EmotionBench) |
-| [Modeling Empathetic Alignment in Conversation](https://aclanthology.org/2024.naacl-long.172/) | NAACL 2024 | 📝 | [ALOE](https://github.com/jessicayjm/modeling_empathy_alignment) |
-| [EmotionQueen: A Benchmark for Evaluating Empathy of Large Language Models](https://aclanthology.org/2024.findings-acl.128/) | ACL 2024 | 📝 | - |
-| [HEART-felt Narratives: Tracing Empathy and Narrative Style in Personal Stories with LLMs](https://aclanthology.org/2024.emnlp-main.59/) | EMNLP 2024 | 📝 | [HEART-felt Stories](https://github.com/mitmedialab/heartfelt-narratives-emnlp) |
-| [StickerConv: Generating Multimodal Empathetic Responses from Sticker-Enhanced Conversations](https://aclanthology.org/2024.acl-long.417/) | ACL 2024 | 📝📸 | [STICKERCONV](https://github.com/ZhangYiqun018/StickerConv) |
-| [Detecting Empathy in Speech](https://www.isca-archive.org/interspeech_2024/chen24f_interspeech.html) | Interspeech 2024 | 🔊 | [Data](https://github.com/run-chen-nlp/empathy) |
-| [Generative Expressive Conversational Speech Synthesis](https://doi.org/10.1145/3664647.3681697) | ACM MM 2024 | 📝📸🔊 | [NCSSD](https://github.com/AI-S2-Lab/GPT-Talker) |
-| [EmpathicStories++: A Multimodal Dataset for Empathy Towards Personal Experiences](https://aclanthology.org/2024.findings-acl.268/) | ACL 2024 | 📝📸🔊 | [EmpathicStories++](https://mitmedialab.github.io/empathic-stories-multimodal/?utm_source=chatgpt.com) |
-| [PAL to Lend a Helping Hand: Towards Building an Emotion Adaptive Polite and Empathetic Counseling Conversational Agent](https://aclanthology.org/2023.acl-long.685/) | ACL 2023 | 📝 | [PAL](https://github.com/Mishrakshitij/PAL) |
-| [MEDIC: A Multimodal Empathy Dataset in Counseling](https://arxiv.org/abs/2305.02842) | arXiv 2023 | 📝📸🔊 | - |
-| [A Taxonomy of Empathetic Questions in Social Dialogs](https://aclanthology.org/2022.acl-long.211/) | ACL 2022 | 📝 | [EQT](https://github.com/Sea94/EQT) |
-| [Multi-Party Empathetic Dialogue Generation: A New Task for Dialog Systems](https://aclanthology.org/2022.acl-long.24/) | ACL 2022 | 📝 | - |
-
-[<u><🎯Back to Top></u>](#head-content)
-
 ### <span id="head-datasets-metaphor"> *Metaphor* </span>
 
 | Paper Name | Venue | Modality | Data Link |
@@ -651,6 +619,38 @@
 | [When did you become so smart, oh wise one?! Sarcasm Explanation in Multi-modal Multi-party Dialogues](https://aclanthology.org/2022.acl-long.411/) | ACL 2022 | 📝📸🔊 | [WITS](https://github.com/LCS2-IIITD/MAF.git) |
 | [Deciphering Implicit Hate: Evaluating Automated Detection of Multimodal Hate Speech](https://aclanthology.org/2021.findings-acl.166/) | ACL 2021 | 📝📸 | - |
 | [Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper)](https://aclanthology.org/P19-1455/) | ACL 2019 | 📝📸🔊 | [MUStARD](https://github.com/soujanyaporia/MUStARD) |
+
+[<u><🎯Back to Top></u>](#head-content)
+
+### <span id="head-datasets-empathy"> *Empathy* </span>
+
+| Paper Name | Venue | Modality | Data Link |
+| --- | --- | --- | --- |
+| [Kardia-R1: Unleashing LLMs to Reason toward Understanding and Empathy for Emotional Support via Rubric-as-Judge Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3774904.3793022?__cf_chl_f_tk=W1E4ETtWmrxsSLYuxrdqeLiMGvnbKtTosMc3JWqkNmM-1783238364-1.0.1.1-hONJ8HKi6Z_wHZPH3ok6ywWhc4KDPWGTiHi9b9NybDQ) | WWW 2026 | 📝 | - |
+| [AEQ-Bench: Measuring Empathy of Omni-Modal Large Models](https://arxiv.org/abs/2601.10513) | arXiv 2026 | 🔊 | [AEQ-Bench](https://huggingface.co/datasets/gracehuggingface/AEQ-Bench) |
+| [SENSE-7: Taxonomy and Dataset for Measuring User Perceptions of Empathy in Sustained Human-AI Conversations](https://arxiv.org/abs/2509.16437) | arXiv 2025 | 📝 | - |
+| [SYNTHEMPATHY: A Scalable Empathy Corpus Generated Using LLMs Without Any Crowdsourcing](https://arxiv.org/abs/2502.17857) | arXiv 2025 | 📝 | - |
+| [ECC: An Emotion-Cause Conversation Dataset for Empathy Response](https://aclanthology.org/2025.emnlp-main.306/) | EMNLP 2025 | 📝 | [ECC](https://github.com/Yuan-23/ECC) |
+| [Empathy from Perspectives: A Benchmark for Evaluating Perspective-taking in Empathetic Responses](https://aclanthology.org/2025.acl-long.439/) | ACL 2025 | 📝 | [EFP](https://osf.io/4szk5/overview) |
+| [The Pursuit of Empathy: Evaluating Small Language Models for PTSD Dialogue Support](https://aclanthology.org/2025.emnlp-main.1573/) | EMNLP 2025 | 📝 | [TIDE](https://huggingface.co/datasets/yenopoya/TIDE) |
+| [Empathy-R1: A Chain-of-Empathy and Reinforcement Learning Framework for Long-Form Mental Health Support](https://arxiv.org/abs/2509.14851) | arXiv 2025 | 📝 | - |
+| [Beyond Coarse Labels: Fine-Grained Problem Augmentation and Multi-Dimensional Feedback for Emotional Support Conversation](https://aclanthology.org/2025.findings-emnlp.86/) | EMNLP 2025 | 📝 | [FPEMF](https://github.com/FakerBoom/FPEMF) |
+| [TactfulToM: Do LLMs have the Theory of Mind ability to understand White Lies?](https://aclanthology.org/2025.emnlp-main.1272/) | EMNLP 2025 | 📝 | [TactfulToM](https://github.com/nii-cl/tactful-tom) |
+| [EmpathyAgent: Can Embodied Agents Conduct Empathetic Actions?](https://arxiv.org/abs/2503.16545) | arXiv 2025 | 📸 | [EmpathyAgent](https://github.com/xinyan-cxy/EmpathyAgent) |
+| [OSUM-EChat: Enhancing End-to-End Empathetic Spoken Chatbot via Understanding-Driven Spoken Dialogue](https://arxiv.org/abs/2508.09600) | arXiv 2025 | 🔊 | [OSUM-EChat](https://github.com/ASLP-lab/OSUM) |
+| [EchoMind: An Interrelated Multi-level Benchmark for Evaluating Empathetic Speech Language Models](https://arxiv.org/abs/2510.22758) | arXiv 2025 | 🔊 | [EchoMind](https://github.com/hlt-cuhksz/EchoMind) |
+| [Emotionally Numb or Empathetic? Evaluating How LLMs Feel Using EmotionBench](https://arxiv.org/abs/2308.03656) | NeurIPS 2024 | 📝 | [EmotionBench](https://github.com/CUHK-ARISE/EmotionBench) |
+| [Modeling Empathetic Alignment in Conversation](https://aclanthology.org/2024.naacl-long.172/) | NAACL 2024 | 📝 | [ALOE](https://github.com/jessicayjm/modeling_empathy_alignment) |
+| [EmotionQueen: A Benchmark for Evaluating Empathy of Large Language Models](https://aclanthology.org/2024.findings-acl.128/) | ACL 2024 | 📝 | - |
+| [HEART-felt Narratives: Tracing Empathy and Narrative Style in Personal Stories with LLMs](https://aclanthology.org/2024.emnlp-main.59/) | EMNLP 2024 | 📝 | [HEART-felt Stories](https://github.com/mitmedialab/heartfelt-narratives-emnlp) |
+| [StickerConv: Generating Multimodal Empathetic Responses from Sticker-Enhanced Conversations](https://aclanthology.org/2024.acl-long.417/) | ACL 2024 | 📝📸 | [STICKERCONV](https://github.com/ZhangYiqun018/StickerConv) |
+| [Detecting Empathy in Speech](https://www.isca-archive.org/interspeech_2024/chen24f_interspeech.html) | Interspeech 2024 | 🔊 | [Data](https://github.com/run-chen-nlp/empathy) |
+| [Generative Expressive Conversational Speech Synthesis](https://doi.org/10.1145/3664647.3681697) | ACM MM 2024 | 📝📸🔊 | [NCSSD](https://github.com/AI-S2-Lab/GPT-Talker) |
+| [EmpathicStories++: A Multimodal Dataset for Empathy Towards Personal Experiences](https://aclanthology.org/2024.findings-acl.268/) | ACL 2024 | 📝📸🔊 | [EmpathicStories++](https://mitmedialab.github.io/empathic-stories-multimodal/?utm_source=chatgpt.com) |
+| [PAL to Lend a Helping Hand: Towards Building an Emotion Adaptive Polite and Empathetic Counseling Conversational Agent](https://aclanthology.org/2023.acl-long.685/) | ACL 2023 | 📝 | [PAL](https://github.com/Mishrakshitij/PAL) |
+| [MEDIC: A Multimodal Empathy Dataset in Counseling](https://arxiv.org/abs/2305.02842) | arXiv 2023 | 📝📸🔊 | - |
+| [A Taxonomy of Empathetic Questions in Social Dialogs](https://aclanthology.org/2022.acl-long.211/) | ACL 2022 | 📝 | [EQT](https://github.com/Sea94/EQT) |
+| [Multi-Party Empathetic Dialogue Generation: A New Task for Dialog Systems](https://aclanthology.org/2022.acl-long.24/) | ACL 2022 | 📝 | - |
 
 [<u><🎯Back to Top></u>](#head-content)
 
