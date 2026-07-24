@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="160" alt="Awesome High-Level Semantics Logo">
+  <img src="figs/logo.png" width="160" alt="Awesome High-Level Semantics Logo">
 </p>
 
 # <p align=center>𝓐𝔀𝓮𝓼𝓸𝓶𝓮-𝓗𝓲𝓰𝓱-𝓛𝓮𝓿𝓮𝓵-𝓢𝓮𝓶𝓪𝓷𝓽𝓲𝓬𝓼</p>
@@ -58,15 +58,19 @@
  ## <span id="head1"> *Description* </span>
 
 <!-- * In the last few decades, the fields of ... -->
-> Def. High-Level Semantics: 
->
-> High-Level Semantics (HLS) refers to abstract meaning constructed through the integration of basic-level observations and complex cognitive reasoning. We need not only to recognize basic textual, auditory, and visual information, but also to connect these information units through cognitive reasoning in order to ultimately understand these HLS phenomena. 
-HLS encompasses a broad range of complex semantic phenomena, including context-dependent, intent-sensitive, and socially situated meanings commonly studied in computational pragmatics, while also extending to broader, holistic semantic effects that emerge across an entire discourse, interaction, or multimodal experience, such as cognitive, affective, and narrative effects.
+
+>Recent advances in AI have substantially enhanced its cognitive capabilities, revealing a clear trajectory from simple to complex semantic processing. Early AI systems primarily focused on direct and literal semantic perception or expression, whereas contemporary systems increasingly rely on sophisticated reasoning to understand and generate higher-level meanings. This trajectory also resembles the development of human cognition. We define this transition as a shift **from Basic-Level Semantic Intelligence (BLSI) to High-Level Semantic Intelligence (HLSI)**.
+**Basic-Level Semantics (BLS)** is typically literal and involves a relatively direct mapping between perceptual observations and meaning. In contrast, **High-Level Semantics (HLS)** refers to abstract, implicit, and context-dependent meanings constructed by integrating basic-level observations with complex cognitive reasoning.
+This repository curates research on HLS, covering topics such as **humor, sarcasm, metaphor, empathy, persuasion, narrative, and other HLS phenomena** to support and advance the development of HLSI.
 
 <!-- * Papers, codes, and datasets for the text-to-image task are available here. -->
 
 
 > Note: 📝: text, 📸: vision, 🔊: audio
+
+<p align="center">
+  <img src="figs/semantic_level_up.png" width="95%" alt="Semantic Level-Up across text, audio, and vision">
+</p>
 
 
 ## <span id="head-methods"> *Methodology* </span>
