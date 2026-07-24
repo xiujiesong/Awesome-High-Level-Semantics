@@ -60,7 +60,8 @@
 <!-- * In the last few decades, the fields of ... -->
 > Def. High-Level Semantics: 
 >
-> The semantics that emerge from integrating low-level observations through cognitive reasoning.
+> High-Level Semantics (HLS) refers to abstract meaning constructed through the integration of basic-level observations and complex cognitive reasoning. We need not only to recognize basic textual, auditory, and visual information, but also to connect these information units through cognitive reasoning in order to ultimately understand these HLS phenomena. 
+HLS encompasses a broad range of complex semantic phenomena, including context-dependent, intent-sensitive, and socially situated meanings commonly studied in computational pragmatics, while also extending to broader, holistic semantic effects that emerge across an entire discourse, interaction, or multimodal experience, such as cognitive, affective, and narrative effects.
 
 <!-- * Papers, codes, and datasets for the text-to-image task are available here. -->
 
