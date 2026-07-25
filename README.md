@@ -10,7 +10,7 @@
 
 𝓐 𝓬𝓸𝓵𝓵𝓮𝓬𝓽𝓲𝓸𝓷 𝓸𝓯 𝓻𝓮𝓼𝓸𝓾𝓻𝓬𝓮𝓼 𝓸𝓷 𝓗𝓲𝓰𝓱-𝓛𝓮𝓿𝓮𝓵-𝓢𝓮𝓶𝓪𝓷𝓽𝓲𝓬𝓼.
 
-<p><a href="https://www.researchgate.net/publication/410761393_Towards_High-Level_Semantic_Intelligence">📄 <strong>Paper</strong></a></p>
+<p><a href="https://www.researchgate.net/publication/410761393_Towards_High-Level_Semantic_Intelligence">📄 <strong>Paper Preprint</strong></a></p>
  
 </div>
 
