@@ -9,6 +9,8 @@
 
 
 𝓐 𝓬𝓸𝓵𝓵𝓮𝓬𝓽𝓲𝓸𝓷 𝓸𝓯 𝓻𝓮𝓼𝓸𝓾𝓻𝓬𝓮𝓼 𝓸𝓷 𝓗𝓲𝓰𝓱-𝓛𝓮𝓿𝓮𝓵-𝓢𝓮𝓶𝓪𝓷𝓽𝓲𝓬𝓼.
+
+<p><a href="https://www.researchgate.net/publication/410761393_Towards_High-Level_Semantic_Intelligence">📄 <strong>Paper</strong></a></p>
  
 </div>
 
@@ -20,6 +22,7 @@
 
 
 ## 🎑 *News*
+* [26/07/25] Our survey paper *Towards High-Level Semantic Intelligence* and repo is released.
 * [25/09/17] **Awesome-High-Level-Semantics** repo is created.
 
 
