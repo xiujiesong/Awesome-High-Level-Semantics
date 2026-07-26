@@ -86,38 +86,24 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 | Paper Name | Venue | Modality | Project Link | Data Link |
 | ------ | ---------- | ----- | ------- | ---------------- |
 | [Yes FLoReNce, i will do better next time! agentic feedback reasoning for humorous meme detection](https://arxiv.org/pdf/2601.07232v1) | arXiv 2026 | 📝📸 | - | - |
-| ["what do you call a dog that is incontrovertibly true? dogma": Testing LLM generalization through humor](https://aclanthology.org/2025.acl-long.1117.pdf) | ACL 2025 | 📝 | [Github](https://disi-unibo-nlp.github.io/Phunny/) | - |
-| [BottleHumor: Self-informed humor explanation using the information bottleneck principle](https://aclanthology.org/2025.findings-acl.1163.pdf) | ACL 2025 | 📝📸 | [Github](https://github.com/eujhwang/bottle-humor) | - |
 | [Bridging the creativity understanding gap: Small-scale human alignment enables expert-level humor ranking in LLMs](https://aclanthology.org/2025.findings-emnlp.884.pdf) | EMNLP 2025 | 📝 | - | - |
-| [Chumor 2.0: Towards better benchmarking Chinese humor understanding from (ruozhi ba)](https://aclanthology.org/2025.findings-acl.1122.pdf) | ACL 2025 | 📝 | [Github](https://huggingface.co/datasets/MichiganNLP/Chumor) | - |
 | [Commonality and individuality! integrating humor commonality with speaker individuality for humor recognition](https://aclanthology.org/2025.naacl-long.385.pdf) | NAACL 2025 | 📝 | - | - |
 | [Comparing apples to oranges: A dataset & analysis of LLM humour understanding from traditional puns to topical jokes](https://aclanthology.org/2025.findings-emnlp.505.pdf) | EMNLP 2025 | 📝 | [Github](https://github.com/tylerL404/Comparing-Apples-to-Oranges) | - |
-| [FanChuan: A multilingual and graph-structured benchmark for parody detection and analysis](https://aclanthology.org/2025.findings-acl.1131.pdf) | ACL 2025 | 📝 | [Github](https://github.com/Lisaaa1017/Fanchuan) | - |
-| [Humor in pixels: Benchmarking large multimodal models understanding of online comics](https://aclanthology.org/2025.findings-emnlp.755.pdf) | EMNLP 2025 | 📝📸 | [Github](https://github.com/Social-AI-Studio/PixelHumor) | - |
 | [HumorDB: Can AI understand graphical humor?](https://arxiv.org/pdf/2406.13564v3) | ICCV 2025 | 📝📸 | [Github](https://github.com/kreimanlab/HumorDB) | - |
-| [Mhsdb: A comprehensive benchmark for multimodal humor and sarcasm detection leveraging foundation models](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887877) | ICASSP 2025 | 📝📸🔊 | - | - |
-| [PunchBench: Benchmarking MLLMs in multimodal punchline comprehension](https://aclanthology.org/2025.acl-long.49.pdf) | ACL 2025 | 📝📸 | [Github](https://github.com/OuyangKun10/PunchBench) | - |
-| [V-hub: A visual-centric humor understanding benchmark for video llms](https://arxiv.org/pdf/2509.25773v1) | arXiv 2025 | 📝📸🔊 | - | - |
 | [When'yes'meets' but': Can large models comprehend contradictory humor through comparative reasoning?](https://arxiv.org/pdf/2503.23137v1) | arXiv 2025 | 📝📸 | [Github](https://vulab-AI.github.io/YESBUT-v2) | - |
 | [One Joke to Rule them All? On the (Im)possibility of Generalizing Humor](https://arxiv.org/abs/2508.19402) | arXiv 2025 | 📝📸 | [Github](https://github.com/morturr/HumorTransferLearning) | - |
 | [Which LLMs Get the Joke? Probing Non-STEM Reasoning Abilities with HumorBench](https://arxiv.org/abs/2507.21476) | arXiv 2025 | 📝📸 | - | - |
-| [StandUp4AI: A New Multilingual Dataset for Humor Detection in Stand-up Comedy Videos](https://aclanthology.org/2025.findings-emnlp.919/) | EMNLP 2025 | 📝📸🔊 | [Project](https://tinyurl.com/EMNLPHumourStandUpAnonym) | - |
-| [PUNMEMECN: A Benchmark to Explore Vision-Language Models’  Understanding of Chinese Pun Memes](https://aclanthology.org/2025.emnlp-main.944/) | EMNLP 2025 | 📝📸 | [Github](https://github.com/Zhijun-Xu/PunMemeCN) | - |
-| [GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art](https://aclanthology.org/2025.acl-long.583/) | ACL 2025 | 📝📸 | - | [Data](https://github.com/stan-lei/GODBench-ACL2025) |
 | [HUMMUS: A Dataset of Humorous Multimodal Metaphor Use](https://arxiv.org/abs/2504.02983) | arXiv 2025 | 📝📸 | [Github](https://github.com/xiaoyuisrain/humorous-multimodal-metaphor-use) | - |
-| [Cracking the code of juxtaposition: can ai models understand the humorous contradictions](https://arxiv.org/pdf/2405.19088v2) | NeurIPS 2024 | 📝📸 | [Github](https://vulab-ai.github.io/YESBUT_Homepage/) | - |
 | [Getting serious about humor: Crafting humor datasets with unfunny large language models](https://aclanthology.org/2024.acl-short.76.pdf) | ACL 2024 | 📝 | [Github](https://github.com/zacharyhorvitz/Getting-Serious-With-LLMs) | - |
 | [Learning multimodal contrast with cross-modal memory and reinforced contrast recognition](https://aclanthology.org/2024.findings-acl.391.pdf) | ACL 2024 | 📝📸 | [Github](https://github.com/synlp/MemRCRHMD) | - |
 | [Towards multimodal prediction of spontaneous humor: A novel dataset and first results](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10707160) | IEEE TAC 2024 | 📝📸🔊 | [Github](https://github.com/lc0197/passau-sfch) | - |
-| [When llms meet cunning texts: A fallacy understanding benchmark for large language models](https://arxiv.org/pdf/2402.11100v2) | NeurIPS 2024 | 📝 | [Github](https://github.com/THUKElab/FLUB) | - |
-| [Xmecap: Meme caption generation with sub-image adaptability](https://arxiv.org/pdf/2407.17152v4) | ACM MM 2024 | 📝📸 | - | - |
 | [The MuSe 2024 Multimodal Sentiment Analysis Challenge: Social Perception and Humor Recognition](https://arxiv.org/abs/2406.07753) | ACM MM 2024 | 📝📸🔊 | - | - |
 | [Robust Laughter Segmentation with Automatic Diverse Data Synthesis](https://www.isca-archive.org/interspeech_2024/omine24_interspeech.pdf) | Interspeech 2024 | 📝🔊 | [Github](https://github.com/omine-me/LaughterSegmentation) | - |
-| [Can language models laugh at YouTube short-form videos?](https://aclanthology.org/2023.emnlp-main.176.pdf) | EMNLP 2023 | 📝📸🔊 | [Github](https://github.com/dayoon-ko/ExFunTube) | - |
+| [Talk funny! a large-scale humor response dataset with chain-of-humor interpretation](https://ojs.aaai.org/index.php/AAAI/article/view/29736) | AAAI 2024 | 📝 | - | - |
+| [Innovative thinking, infinite humor: Humor research of large language models through structured thought leaps](https://arxiv.org/pdf/2410.10370v2) | arXiv 2024 | 📝 | - | - |
 | [Can pre-trained language models understand chinese humor?](https://arxiv.org/pdf/2407.04105v1) | WSDM 2023 | 📝 | - | - |
-| [Do LLMs understand social knowledge? evaluating the sociability of large language models with SocKET benchmark](https://aclanthology.org/2023.emnlp-main.699.pdf) | EMNLP 2023 | 📝 | [Github](https://github.com/minjechoi/SOCKET) | - |
-| [Do androids laugh at electric sheep? humor "understanding" benchmarks from the new yorker caption contest](https://aclanthology.org/2023.acl-long.41.pdf) | ACL 2023 | 📝📸 | [Github](https://github.com/nextml/caption-contest-data) | - |
 | [When to laugh and how hard? a multimodal approach to detecting humor and its intensity](https://aclanthology.org/2022.coling-1.598.pdf) | COLING 2022 | 📝📸🔊 | - | - |
+| [Distribution-based measures of surprise for creative language: Experiments with humor and metaphor](https://aclanthology.org/2022.flp-1.10.pdf) | FLP 2022 | 📝 | [Github](https://github.com/uoseremen/SurpriseCreativeLanguage) | - |
 | [Humor in Collective Discourse: Unsupervised Funniness Detection in the New Yorker Cartoon Caption Contest](https://aclanthology.org/L16-1076/) | LREC 2016 | 📝📸 | - | - |
 
 [<u><🎯Back to Top></u>](#head-content)
@@ -126,22 +112,15 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 
 | Paper Name | Venue | Modality | Project Link | Data Link |
 | ------ | ---------- | ----- | ------- | ---------------- |
-| [Metaphorstar: Image metaphor understanding and reasoning with end-to-end visual reinforcement learning](https://arxiv.org/pdf/2602.10575) | arXiv 2026 | 📝📸 | [Github](https://metaphorstar.github.io/) | - |
 | [Let androids dream of electric sheep: A human-like image implication understanding and reasoning framework](https://arxiv.org/pdf/2505.17019) | arXiv 2025 | 📝📸 | [Github](https://github.com/MING-ZCH/Let-Androids-Dream-of-Electric-Sheep) | - |
 | [Automatic extraction of metaphoric analogies from literary texts: Task formulation, dataset construction, and evaluation](https://aclanthology.org/2025.coling-main.448.pdf) | COLING 2025 | 📝 | [Github](https://github.com/Mionies/metaphoric-analogies-extraction) | - |
 | [Multimodal Pragmatic Jailbreak on Text-to-image Models](https://aclanthology.org/2025.acl-long.234/) | ACL 2025 | 📝📸 | [Github](https://multimodalpragmatic.github.io/) | - |
 | [AmpleHate: Amplifying the Attention for Versatile Implicit Hate Detection](https://aclanthology.org/2025.emnlp-main.1469/) | EMNLP 2025 | 📝 | [Github](https://github.com/leeyejin1231/AmpleHate) | - |
 | [from Benign import Toxic: Jailbreaking the Language Model via Adversarial Metaphors](https://aclanthology.org/2025.acl-long.238/) | ACL 2025 | 📝 | - | - |
-| [BANMIME : Misogyny detection with metaphor explanation on Bangla memes](https://aclanthology.org/2025.emnlp-main.900.pdf) | EMNLP2025 | 📝📸 | [Github](https://github.com/Ayon128/BANMIME) | - |
 | [Can audio language models listen between the lines? a study on metaphorical reasoning via unspoken](https://dl.acm.org/doi/abs/10.1145/3746027.3758173) | ACM MM 2025 | 🔊 | [Github](https://github.com/Hongru0306/UNSPOKEN) | - |
 | [Comparative study of multilingual idioms and similes in large language models](https://aclanthology.org/2025.coling-main.580.pdf) | COLING 2025 | 📝 | [Github](https://github.com/namazifard/Multilingual-Idioms-Similes) | - |
-| [Cultural bias matters: A cross-cultural benchmark dataset and sentiment-enriched model for understanding multimodal metaphors](https://aclanthology.org/2025.acl-long.1275.pdf) | ACL 2025 | 📝📸 | [Github](https://github.com/DUTIR-YSQ/MultiMM) | - |
 | [DRT: Deep reasoning translation via long chain-of-thought](https://aclanthology.org/2025.findings-acl.351.pdf) | ACL 2025 | 📝 | [Github](https://github.com/krystalan/DRT) | - |
-| [Emometa: A multimodal dataset for fine-grained emotion classification in chinese metaphors](https://arxiv.org/pdf/2505.13483v1) | WWW 2025 | 📝📸 | - | [Data](https://github.com/DUTIR-YSQ/EmoMeta) |
-| [Enhancing information extraction with metorie: A metaphor and trap-based dataset for cross-domain fine-tuning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890213) | ICASSP 2025 | 📝 | - | [Data](https://github.com/zhengyuan123/METORIE) |
-| [Fann or flop: A multigenre, multera benchmark for Arabic poetry understanding in LLMs](https://aclanthology.org/2025.emnlp-main.1023.pdf) | EMNLP 2025 | 📝 | [Github](https://mbzuai-oryx.github.io/FannOrFlop/) | - |
 | [ImaRA: An imaginative frame augmented method for low-resource multimodal metaphor detection and explanation](https://aclanthology.org/2025.findings-naacl.220.pdf) | NAACL 2025 | 📝📸 | [Github](https://github.com/TIAN-viola/ImaRA) | - |
-| [Infochartqa: A benchmark for multimodal question answering on infographic charts](https://arxiv.org/pdf/2505.19028v4) | arXiv 2025 | 📝📸 | - | [Data](https://github.com/thu-vis/InfoChartQA) |
 | [Investigating the impact of conceptual metaphors on llm-based nli through shapley interactions](https://aclanthology.org/2025.findings-emnlp.942.pdf) | EMNLP 2025 | 📝 | [Github](https://github.com/emnlp25-shapley-interactions/data) | - |
 | [Looking beyond the pixels: Evaluating visual metaphor understanding in vlms](https://aclanthology.org/2025.findings-emnlp.1257.pdf) | EMNLP 2025 | 📝📸 | [Github](https://github.com/manishitIITB/Visual_Metaphor_ImageMet_EMNLP2025) | - |
 | [Metaphor and large language models: When surface features matter more than deep understanding](https://aclanthology.org/2025.findings-acl.898.pdf) | ACL 2025 | 📝 | [Github](https://github.com/elisanchez-beep/metaphorLLM) | - |
@@ -154,8 +133,6 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 | [Exploring chain-of-thought for multi-modal metaphor detection](https://aclanthology.org/2024.acl-long.6.pdf) | ACL 2024 | 📝📸 | [Github](https://github.com/xyz189411yt/C4MMD) | - |
 | [GOME: Grounding-based metaphor binding with conceptual elaboration for figurative language illustration](https://aclanthology.org/2024.emnlp-main.1028.pdf) | EMNLP 2024 | 📝📸 | [Github](https://github.com/EMNLP-2024-Submission/GOME.git) | - |
 | [MMTE: Corpus and metrics for evaluating machine translation quality of metaphorical language](https://aclanthology.org/2024.emnlp-main.634.pdf) | EMNLP 2024 | 📝 | - | - |
-| [Merely judging metaphor is not enough: Research on reasonable metaphor detection](https://aclanthology.org/2024.findings-emnlp.336.pdf) | EMNLP 2024 | 📝 | [Github](https://github.com/yc-cy/Metaphorical-Reasoning) | - |
-| [MetaPro 2.0: Computational metaphor processing on the effectiveness of anomalous language modeling](https://aclanthology.org/2024.findings-acl.590.pdf) | ACL 2024 | 📝 | [Github](https://github.com/RuiMao1988/ALM) | [Data](https://github.com/RuiMao1988/VMC-P) |
 | [Metaphor detection with context enhancement and curriculum learning](https://aclanthology.org/2024.naacl-long.149.pdf) | NAACL 2024 | 📝 | [Github](https://github.com/Evilxya/MiceCL) | - |
 | [Metaphor understanding challenge dataset for LLMs](https://aclanthology.org/2024.acl-long.193.pdf) | ACL 2024 | 📝 | - | [Data](https://github.com/xiaoyuisrain/metaphor-understanding-challenge) |
 | [Mitigating idiom inconsistency: A multi-semantic contrastive learning method for chinese idiom reading comprehension](https://ojs.aaai.org/index.php/AAAI/article/view/29893) | AAAI 2024 | 📝 | - | - |
@@ -164,20 +141,14 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 | [Chinese idiom paraphrasing](https://aclanthology.org/2023.tacl-1.43.pdf) | TACL 2023 | 📝 | - | - |
 | [Chinese metaphorical relation extraction](https://aclanthology.org/2023.findings-emnlp.609/) | ACL 2023 | 📝 | - | [Data](https://github.com/cnunlp/CMRE) |
 | [Clcl: Non-compositional expression detection with contrastive learning and curriculum learning](https://aclanthology.org/2023.acl-long.43.pdf) | ACL 2023 | 📝 | [Github](https://github.com/zhjjn/CLCL) | - |
-| [I spy a metaphor: Large language models and diffusion models co-create visual metaphors](https://aclanthology.org/2023.findings-acl.465.pdf) | ACL 2023 | 📝📸 | - | - |
-| [MemeCap: A dataset for captioning and interpreting memes](https://aclanthology.org/2023.emnlp-main.89.pdf) | EMNLP2023 | 📝📸 | [Github](https://github.com/eujhwang/meme-cap) | - |
 | [Metaphor detection via explicit basic meanings modelling](https://aclanthology.org/2023.acl-short.9.pdf) | ACL 2023 | 📝 | [Github](https://github.com/liyucheng09/BasicBERT) | - |
 | [Modeling conceptual attribute likeness and domain inconsistency for metaphor detection](https://aclanthology.org/2023.emnlp-main.480.pdf) | EMNLP 2023 | 📝 | - | - |
 | [Modeling highlighting of metaphors in multitask contrastive learning paradigms](https://aclanthology.org/2023.findings-emnlp.308.pdf) | EMNLP 2023 | 📝 | [Github](https://github.com/webis-de/EMNLP-23) | [Data](https://figshare.com/articles/dataset/A_Corpus_of_Rich_Metaphor_Annotation/6179210) |
 | [Multi-lingual and multi-cultural figurative language understanding](https://aclanthology.org/2023.findings-acl.525.pdf) | ACL 2023 | 📝 | [Github](https://anonymous.4open.science/r/Multilingual-Fig-QA-7B03/) | - |
-| [MultiCMET: A novel Chinese benchmark for understanding multimodal metaphor](https://aclanthology.org/2023.findings-emnlp.409.pdf) | EMNLP2023 | 📝📸 | [Github](https://github.com/PedaloJSY/MultiCMET) | - |
-| [NewsMet : A 'do it all' dataset of contemporary metaphors in news headlines](https://aclanthology.org/2023.findings-acl.641.pdf) | ACL 2023 | 📝 | - | [Data](https://github.com/AxleBlaze3/NewsMet_Metaphor_Dataset) |
 | [FLUTE: Figurative language understanding through textual explanations](https://aclanthology.org/2022.emnlp-main.481.pdf) | EMNLP 2022 | 📝 | [Github](https://github.com/tuhinjubcse/model-in-the-loop-fig-lang) | [Data](https://github.com/ColumbiaNLP/FLUTE) |
 | [It's better to teach fishing than giving a fish: An auto-augmented structure-aware generative model for metaphor detection](https://aclanthology.org/2022.findings-emnlp.46.pdf) | EMNLP 2022 | 📝 | - | - |
-| [Leveraging a new Spanish corpus for multilingual and cross-lingual metaphor detection](https://aclanthology.org/2022.conll-1.16.pdf) | CoNLL 2022 | 📝 | [Github](https://ixa-ehu.github.io/cometa/) | - |
 | [Metaphor detection via linguistics enhanced siamese network](https://aclanthology.org/2022.coling-1.364.pdf) | COLING 2022 | 📝 | [Github](https://github.com/SilasTHU/MisNet) | - |
 | [Metaphors in pre-trained language models: Probing and generalization across datasets and languages](https://aclanthology.org/2022.acl-long.144.pdf) | ACL 2022 | 📝 | [Github](https://github.com/EhsanAghazadeh/Metaphors_in_PLMs) | - |
-| [Testing the ability of language models to interpret figurative language](https://aclanthology.org/2022.naacl-main.330.pdf) | NAACL 2022 | 📝 | [Github](https://github.com/nightingal3/Fig-QA) | - |
 
 [<u><🎯Back to Top></u>](#head-content)
 
@@ -190,7 +161,6 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 | [Interarm: Interpretable affective reasoning model for multimodal sarcasm detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11347599) | IEEE TAC 2026 | 📝📸 | - | - |
 | [Msme: A multi-stage multi-expert framework for zero-shot stance detection](https://arxiv.org/pdf/2512.04492v1) | AAAI 2026 | 📝 | [Github](https://github.com/zy-shuo/MSME) | - |
 | [Satiredecoder: Visual cascaded decoupling for enhancing satirical image comprehension](https://arxiv.org/pdf/2512.00582v1) | AAAI 2026 | 📝📸 | - | - |
-| [A Multimodal Chinese Dataset for Cross-lingual Sarcasm Detection](https://www.isca-archive.org/interspeech_2025/gao25f_interspeech.html) | Interspeech 2025 | 📝📸 | [Github](https://github.com/sarcasm-detection-research/MCSD/wiki) | - |
 | [Ambiguity-aware multi-level incongruity fusion network for multi-modal sarcasm detection](https://aclanthology.org/2025.coling-main.26.pdf) | COLING 2025 | 📝📸 | - | - |
 | [Commander-GPT: Dividing and routing for multimodal sarcasm detection](https://arxiv.org/pdf/2506.19420v1) | arXiv 2025 | 📝📸 | - | - |
 | [Elevating knowledge-enhanced entity and relationship understanding for sarcasm detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10908891) | IEEE TKDE 2025 | 📝 | - | - |
@@ -199,8 +169,6 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 | [Incongruity-aware tension field network for multi-modal sarcasm detection](https://aclanthology.org/2025.acl-long.705.pdf) | ACL 2025 | 📝📸 | - | - |
 | [Is sarcasm detection a step-by-step reasoning process in large language models?](https://arxiv.org/pdf/2407.12725v2) | AAAI 2025 | 📝 | [Github](https://github.com/qiuchili/llm_sarcasm_detection) | - |
 | [Just KIDDIN': Knowledge Infusion and Distillation for Detection of INdecent Memes](https://aclanthology.org/2025.findings-acl.1184.pdf) | ACL 2025 | 📝📸 | [Github](https://github.com/SWAN-AI/) | - |
-| [Leveraging large language models for sarcastic speech annotation in sarcasm detection](https://arxiv.org/pdf/2506.00955v1) | arXiv 2025 | 🔊 | - | - |
-| [Mmsd3.0: A multi-image benchmark for real-world multimodal sarcasm detection](https://arxiv.org/pdf/2510.23299v1) | arXiv 2025 | 📝📸 | - | - |
 | [Mv-debate: Multi-view agent debate with dynamic reflection gating for multi-modal harmful content detection in social media](https://arxiv.org/pdf/2508.05557v3) | arXiv 2025 | 📝📸 | - | - |
 | [Pragmatic metacognitive prompting improves LLM performance on sarcasm detection](https://aclanthology.org/2025.chum-1.7.pdf) | CHum 2025 | 📝 | [Github](https://github.com/wyatt-fong/Pragmatic-Metacognitive-Prompting-Improves-LLM-Performance-on-Sarcasm-Detection) | - |
 | [Rhetorical device-aware sarcasm detection with counterfactual data augmentation](https://aclanthology.org/2025.findings-acl.607.pdf) | ACL 2025 | 📝 | - | [Data](https://github.com/qqHong73/RedSD) |
@@ -208,22 +176,16 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 | [Sarcasm-R1: Enhancing sarcasm detection through focused reasoning](https://aclanthology.org/2025.findings-emnlp.570.pdf) | EMNLP 2025 | 📝 | [Github](https://github.com/yangqi1725/Sarcasm-R1) | - |
 | [Sarcasmbench: Towards evaluating large language models on sarcasm understanding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11146812) | IEEE TAC 2025 | 📝 | - | [Data](https://github.com/zouchunwang/AMSD) |
 | [Think twice before you judge: Mixture of dual reasoning experts for multimodal sarcasm detection](https://arxiv.org/pdf/2507.04458v2) | arXiv 2025 | 📝📸 | - | - |
-| [Toxictone: A mandarin audio dataset annotated for toxicity and toxic utterance tonality](https://arxiv.org/pdf/2505.15773v1) | arXiv 2025 | 🔊 | [Github](https://github.com/YuXiangLo/ToxicTone) | - |
 | [Evaluating Open-Source Vision-Language Models for Multimodal Sarcasm Detection](https://arxiv.org/abs/2510.11852) | ICDMW 2025 | 📝📸 | - | [Data](https://github.com/pvsnp9/sarcasm_bench) |
-| [MUStReason: A Benchmark for Diagnosing Pragmatic Reasoning in Video-LMs for Multimodal Sarcasm Detection](https://arxiv.org/abs/2510.23727) | arXiv 2025 | 📝📸🔊 | - | - |
 | [MuSaG: A Multimodal German Sarcasm Dataset with Full-Modal Annotations](https://arxiv.org/pdf/2510.24178) | arXiv 2025 | 📝📸🔊 | - | [Data](https://huggingface.co/datasets/sc0ttypee/MuSaG) |
-| [BESSTIE: A Benchmark for Sentiment and Sarcasm Classification for Varieties of English](https://arxiv.org/pdf/2412.04726) | ACL 2025 | 📝 | - | [Data](https://huggingface.co/datasets/unswnlporg/BESSTIE) |
-| [Benchmarking Large Language Models for Sarcasm Detection in Hindi Romanized Texts](https://hal.science/hal-05068205/) | arXiv 2025 | 📝 | - | - |
 | [Evaluating Multimodal Large Language Models on Spoken Sarcasm Understanding](https://www.arxiv.org/abs/2509.15476) | arXiv 2025 | 📝📸🔊 | - | - |
 | [Irony Detection, Reasoning and Understanding in Zero-shot Learning](https://ieeexplore.ieee.org/abstract/document/11036129) | IEEE TAI 2025 | 📝 | [Github](https://github.com/yipeiling/Irony) | - |
 | [SemIRNet: A Semantic Irony Recognition Network for Multimodal Sarcasm Detection](https://ieeexplore.ieee.org/abstract/document/11030873) | IEEE ICINT 2025 | 📝📸 | - | - |
 | [A multimodal framework to detect target aware aggression in memes](https://aclanthology.org/2024.eacl-long.153.pdf) | EACL 2024 | 📝📸 | [Github](https://github.com/shawlyahsan/Bengali-Aggression-Memes) | - |
-| [Docmsu: A comprehensive benchmark for document-level multimodal sarcasm understanding](https://arxiv.org/pdf/2312.16023v1) | AAAI 2024 | 📝📸 | - | - |
 | [Generalizable sarcasm detection is just around the corner, of course!](https://aclanthology.org/2024.naacl-long.238.pdf) | NAACL 2024 | 📝 | - | [Data](https://github.com/CoPsyN/CSC) |
 | [MMoE: Enhancing multimodal models with mixtures of multimodal interaction experts](https://aclanthology.org/2024.emnlp-main.558.pdf) | EMNLP 2024 | 📝📸 | [Github](https://github.com/lwaekfjlk/mmoe) | - |
 | [MultiPICo: Multilingual perspectivist irony corpus](https://aclanthology.org/2024.acl-long.849.pdf) | ACL 2024 | 📝 | - | [Data](https://github.com/Multilingual-Perspectivist-NLU/MultiPICo) |
 | [SarcNet: A multilingual multimodal sarcasm detection dataset](https://aclanthology.org/2024.lrec-main.1248.pdf) | LREC-COLING 2024 | 📝📸 | - | [Data](https://github.com/yuetanbupt/SarcNet) |
-| [Towards probing speech-specific risks in large multimodal models: A taxonomy, benchmark, and insights](https://aclanthology.org/2024.emnlp-main.614.pdf) | EMNLP 2024 | 🔊 | [Github](https://github.com/YangHao97/speech_specific_risk) | - |
 | [Breakthrough from Nuance and Inconsistency: Enhancing Multimodal Sarcasm Detection with Context-Aware Self-Attention Fusion and Word Weight Calculation.](https://aclanthology.org/2024.lrec-main.224/) | LREC-COLING 2024 | 📝📸🔊 | - | - |
 | [A Functional Trade-off between Prosodic and Semantic Cues in Conveying Sarcasm](https://arxiv.org/abs/2408.14892) | Interspeech 2024 | 📝🔊 | - | - |
 | [Dip: Dual incongruity perceiving network for sarcasm detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10205020) | CVPR 2023 | 📝📸 | [Github](https://github.com/downdric/MSD) | - |
@@ -231,7 +193,6 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 | [Learning multitask commonness and uniqueness for multimodal sarcasm detection and sentiment analysis in conversation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10192323) | IEEE TAI 2023 | 📝📸 | [Github](https://github.com/annoymity2022/MIL) | - |
 | [Sarcasm in Sight and Sound: Benchmarking and Expansion to Improve Multimodal Sarcasm Detection](https://arxiv.org/abs/2310.01430) | arXiv 2023 | 📝📸 | - | - |
 | [SemEval-2022 task 6: iSarcasmEval, intended sarcasm detection in English and Arabic](https://aclanthology.org/2022.semeval-1.111.pdf) | SemEval 2022 | 📝 | - | [Data](https://github.com/iabufarha/iSarcasmEval) |
-| [When did you become so smart, oh wise one?! sarcasm explanation in multi-modal multi-party dialogues](https://aclanthology.org/2022.acl-long.411.pdf) | ACL 2022 | 📝📸 | - | - |
 | [Nice perfume. How long did you marinate in it? Multimodal Sarcasm Explanation](https://arxiv.org/abs/2112.04873) | AAAI 2022 | 📝📸 | - | - |
 | [A Multimodal Corpus for Emotion Recognition in Sarcasm](https://aclanthology.org/2022.lrec-1.756/) | LREC 2022 | 📝📸🔊 | [Github](https://github.com/apoorva-nunna/MUStARD_Plus_Plus) | - |
 | [Sarcasm Detection Using an Ensemble Approach](https://aclanthology.org/2020.figlang-1.36/) | FigLang 2020 | 📝 | - | - |
@@ -244,23 +205,17 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 | ------ | ---------- | ----- | ------- | ---------------- |
 | [Sense-7: Taxonomy and dataset for measuring user perceptions of empathy in sustained human-ai conversations](https://arxiv.org/pdf/2509.16437v1) | IEEE TAC 2026 | 📝 | [Github](https://github.com/microsoft/sense-7) | - |
 | [Sentient agent as a judge: Evaluating higher-order social cognition in large language models](https://aclanthology.org/2026.findings-acl.1905/) | ACL 2026 | 📝 | [Github](https://github.com/Tencent/DigitalHuman/tree/main/SAGE) | - |
-| [Echomind: An interrelated multi-level benchmark for evaluating empathetic speech language models](https://arxiv.org/pdf/2510.22758v1) | arXiv 2025 | 🔊 | [Github](https://hlt-cuhksz.github.io/EchoMind/) | - |
 | [Empathy prediction from diverse perspectives](https://aclanthology.org/2025.acl-long.439.pdf) | ACL 2025 | 📝 | [Github](https://osf.io/4szk5/overview) | - |
 | [Hatred stems from ignorance! distillation of the persuasion modes in countering conversational hate speech](https://arxiv.org/pdf/2403.15449v3) | ICWSM 2025 | 📝 | [Github](https://github.com/AbeerAldayel/counterspeech-persuasion-modes) | - |
 | [Prefpalette: Personalized preference modeling with latent attributes](https://arxiv.org/pdf/2507.13541v1) | arXiv 2025 | 📝 | [Github](https://github.com/stellalisy/PrefPalette) | - |
-| [SYNTHEMPATHY: A scalable empathy corpus generated using LLMs without any crowdsourcing](https://arxiv.org/pdf/2502.17857v1) | arXiv 2025 | 📝 | - | - |
-| [TactfulToM: Do LLMs have the theory of mind ability to understand white lies?](https://aclanthology.org/2025.emnlp-main.1272.pdf) | EMNLP 2025 | 📝 | [Github](https://github.com/nii-cl/tactful-tom) | - |
 | [Uplme: Uncertainty-aware probabilistic language modelling for robust empathy regression](https://arxiv.org/pdf/2508.03520v2) | arXiv 2025 | 📝 | [Github](https://github.com/hasan-rakibul/UPLME) | - |
-| [V-ALPHASOCIAL: Benchmark and self-reflective chain-of-thought generation for visual social commonsense reasoning](https://aclanthology.org/2025.findings-acl.975/) | ACL 2025 | 📝📸 | - | [Data](https://github.com/Rafa-zy/VALPHASOCIAL) |
 | [Mixed Signals: Understanding Model Disagreement in Multimodal Empathy Detection](https://arxiv.org/abs/2505.13979) | arXiv 2025 | 📝📸🔊 | [Github](https://github.com/mayasrikm/multimodal-empathy-disagreement) | - |
+| [Psyche-r1: Towards reliable psychological LLMs through unified empathy, expertise, and reasoning](https://arxiv.org/pdf/2508.10848v2) | ACL 2025 | 📝 | [Github](https://github.com/MindIntLab-HFUT/Psyche-R1) | - |
 | [Detecting empathy in speech](https://www.cs.columbia.edu/speech/PaperFiles/2024/interspeech24_empathy_paper.pdf) | Interspeech 2024 | 🔊 | [Github](https://github.com/run-chen-nlp/empathy) | - |
-| [EmpathicStories++: A multimodal dataset for empathy towards personal experiences](https://aclanthology.org/2024.findings-acl.268.pdf) | ACL 2024 | 📝📸🔊 | [Github](https://mitmedialab.github.io/empathic-stories-multimodal/) | - |
-| [HEART-felt narratives: Tracing empathy and narrative style in personal stories with LLMs](https://aclanthology.org/2024.emnlp-main.59.pdf) | EMNLP 2024 | 📝 | [Github](https://github.com/mitmedialab/heartfelt-narratives-emnlp) | - |
+| [Multi-dimensional evaluation of empathetic dialogue responses](https://aclanthology.org/2024.findings-emnlp.113.pdf) | EMNLP 2024 | 📝 | - | - |
 | [LLM-GEm: Large Language Model-Guided Prediction of People's Empathy Levels towards Newspaper Article](https://aclanthology.org/2024.findings-eacl.147.pdf) | EACL 2024 | 📝 | [Github](https://github.com/hasan-rakibul/LLM-GEm) | - |
-| [Synth-empathy: Towards high-quality synthetic empathy data](https://arxiv.org/pdf/2407.21669v2) | arXiv 2024 | 📝 | [Github](https://github.com/Aurora-slz/Synth-Empathy) | - |
 | [Empathy intent drives empathy detection](https://aclanthology.org/2023.emnlp-main.386.pdf) | EMNLP 2023 | 📝 | [Github](https://github.com/JiangT7/CLSN) | - |
 | [Medic: A multimodal empathy dataset in counseling](https://arxiv.org/pdf/2305.02842v1) | ACM MM 2023 | 📝📸🔊 | [Github](https://ustc-ac.github.io/datasets/medic/) | - |
-| [A taxonomy of empathetic questions in social dialogs](https://aclanthology.org/2022.acl-long.211.pdf) | ACL 2022 | 📝 | [Github](https://github.com/Sea94/EQT) | - |
 | [Empathic conversations: A multi-level dataset of contextualized conversations](https://arxiv.org/pdf/2205.12698) | arXiv 2022 | 📝 | - | - |
 | [Modeling empathy and distress in reaction to news stories](https://aclanthology.org/D18-1507.pdf) | EMNLP 2018 | 📝 | [Github](https://github.com/wwbp/empathic_reactions) | - |
 
@@ -271,13 +226,9 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 | Paper Name | Venue | Modality | Project Link | Data Link |
 | ------ | ---------- | ----- | ------- | ---------------- |
 | [Nomiclaw: Emergent trust and strategic argumentation in llms during collaborative law-making](https://ojs.aaai.org/index.php/AIES/article/view/36629) | AIES 2025 | 📝 | [Github](https://github.com/asutosh7hota/NomicLaw) | - |
-| [Enhancing LLM-based persuasion simulations with cultural and speaker-specific information](https://aclanthology.org/2025.findings-emnlp.808.pdf) | EMNLP 2025 | 📝 | [Github](https://github.com/HF-heaven/Cross-Cultural-Persuasion-Simulations) | - |
 | [PVP: An image dataset for personalized visual persuasion with persuasion strategies, viewer characteristics, and persuasiveness ratings](https://aclanthology.org/2025.acl-long.942.pdf) | ACL 2025 | 📝📸 | [Github](https://github.com/holi-lab/PVP_Personalized_Visual_Persuasion) | - |
 | [SafePersuasion: A dataset, taxonomy, and baselines for analysis of rational persuasion and manipulation](https://aclanthology.org/2025.findings-ijcnlp.65.pdf) | IJCNLP 2025 | 📝 | [Github](https://github.com/haeinkong/SafePersuasion) | - |
-| [Ai vs. human voices: How delivery source and narrative format influence the effectiveness of persuasion messages](https://www.tandfonline.com/doi/full/10.1080/10447318.2023.2288734) | IJHCI 2024 | 🔊 | - | - |
-| [The persuasive power of large language models](https://ojs.aaai.org/index.php/ICWSM/article/view/31304) | ICWSM 2024 | 📝 | [Github](https://github.com/github.com/AndersGiovanni/persuasive-llms) | - |
 | [A fairness-driven method for learning human-compatible negotiation strategies](https://aclanthology.org/2024.findings-emnlp.308.pdf) | EMNLP 2024 | 📝 | - | - |
-| [Ai-driven mediation strategies for audience depolarisation in online debates](https://3613904.3642322) | CHI 2024 | 📝 | - | - |
 | [Multimodal propaganda detection via anti-persuasion prompt enhanced contrastive learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10096771&tag=1) | ICASSP 2023 | 📝📸 | - | - |
 | [M2p2: Multimodal persuasion prediction using adaptive fusion](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9645309) | IEEE TMM 2021 | 📝📸🔊 | [Github](https://www.intelligencesquaredus.org) | - |
 
@@ -292,7 +243,6 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 | [Bridging Visual Dynamics and Narrative Reasoning: MultimodalLarge Language Models for Short Drama Quality Assessment](https://dl.acm.org/doi/abs/10.1145/3774904.3792827) | WWW 2026 | 📝📸 | - | [Data](https://github.com/HGsupport/Short-Drama-Quality-Assessment) |
 | [Is your image a good storyteller?](https://ojs.aaai.org/index.php/AAAI/article/view/34702) | AAAI 2025 | 📝📸 | [Github](https://github.com/xiujiesong/ISA) | - |
 | [Where Do People Tell Stories Online? Story Detection Across Online Communities](https://aclanthology.org/2024.acl-long.383v2.pdf) | ACL 2024 | 📝 | [Github](https://github.com/maria-antoniak/storyseeker) | - |
-| [Finding flawed fictions: Evaluating complex reasoning in language models via plot hole detection](https://arxiv.org/pdf/2504.11900v3) | arXiv 2025 | 📝 | [Github](https://github.com/kabirahuja2431/FlawedFictions) | - |
 
 [<u><🎯Back to Top></u>](#head-content)
 
@@ -303,61 +253,43 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 | [Semantic-aware logical reasoning via a semiotic framework](https://aclanthology.org/2026.acl-long.835.pdf) | ACL 2026 | Complexity | 📝 | [Github](https://github.com/AI4SS/Logic-Agent) | - |
 | [Towards Faithful Reasoning in Comics for Small MLLMs](https://arxiv.org/pdf/2601.02991) | arXiv 2026 | Image/Video Semantics | 📝📸 | - | - |
 | [(RSA)²: A rhetorical-strategy-aware rational speech act framework for figurative language understanding](https://aclanthology.org/2025.acl-long.1019.pdf) | ACL 2025 | Implicit | 📝 | [Github](https://github.com/liyucheng09/BasicBERT) | - |
-| [A causality-aware paradigm for evaluating creativity of multimodal large language models](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10876763) | TPAMI 2025 | Creativity | 📝📸 | [Github](https://lotbench.github.io/) | - |
 | [Analyzing offensive language dataset insights from training dynamics and human agreement level](https://aclanthology.org/2025.coling-main.653.pdf) | COLING 2025 | Implicit | 📝 | [Github](https://github.com/kdkcode/CONELA) | - |
-| [Beyond context to cognitive appraisal: Emotion reasoning as a theory of mind benchmark for large language models](https://aclanthology.org/2025.findings-acl.1359.pdf) | ACL 2025 | Emotion | 📝 | [Github](https://github.com/GerardYeo/ToMEmoReason) | - |
 | [Beyond silent letters: Amplifying LLMs in emotion recognition with vocal nuances](https://aclanthology.org/2025.findings-naacl.117.pdf) | NAACL 2025 | Emotion | 📝🔊 | [Github](https://github.com/zehuiwu/SpeechCueLLM) | - |
 | [Beyond single frames: Can lmms comprehend implicit narratives in comic strip?](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.342.pdf) | EMNLP 2025 | Implicit | 📝📸 | - | - |
 | [Boss: Beyond-semantic speech](https://arxiv.org/pdf/2507.17563v1) | arXiv 2025 | Emotion | 🔊 | - | - |
 | [Contrastive learning for task-independent SpeechLLM-pretraining](https://aclanthology.org/2025.findings-acl.445.pdf) | ACL 2025 | Spoken | 📝🔊 | [Github](https://github.com/MaikeZuefle/contr-pretraining) | - |
 | [Cracking the code: Enhancing implicit hate speech detection through coding classification](https://aclanthology.org/2025.trustnlp-main.9.pdf) | TrustNLP 2025 | Implicit | 📝 | - | - |
-| [Creating a lens of Chinese culture: A multimodal dataset for Chinese pun rebus art understanding](https://aclanthology.org/2025.findings-acl.1155.pdf) | ACL 2025 | Pun | 📝📸 | [Github](https://github.com/zhang-tuo-pdf/Pun-Rebus-Art-Benchmark) | - |
 | [Do expressions change decisions? exploring the impact of ai's explanation tone on decision-making](https://arxiv.org/pdf/2502.19730v1) | CHI 2025 | Emotion | 📝 | - | - |
 | [Emotion-o1: Adaptive long reasoning for emotion understanding in llms](https://arxiv.org/pdf/2505.22548v2) | arXiv 2025 | Emotion | 📝 | - | - |
-| [Fluid qa: A multilingual benchmark for figurative language usage in dialogue across english, chinese, and korean](https://aclanthology.org/2025.emnlp-main.1540.pdf) | EMNLP 2025 | Emotion | 📝 | - | [Data](https://github.com/beammeup1229/FLUID_QA) |
-| [Genesis: A large-scale benchmark for multimodal large language model in emotional causality analysis](https://dl.acm.org/doi/abs/10.1145/3746027.3758202) | ACM MM 2025 | Emotion | 📝📸 | [Github](https://github.com/zRzRzRzRzRzRzR/Genesis/) | - |
 | [HVGuard: Utilizing multimodal large language models for hateful video detection](https://aclanthology.org/2025.emnlp-main.456.pdf) | EMNLP 2025 | Implicit | 📝📸🔊 | [Github](https://github.com/yihengjingWHU/HVGuard) | - |
 | [How deep is love in llms' hearts? exploring semantic size in human-like cognition](https://arxiv.org/pdf/2503.00330v1) | arXiv 2025 | Implicit | 📝 | [Github](https://github.com/Zoeyyao27/LLM-Semantic-Size-Understanding) | - |
-| [Impact of stickers on multimodal sentiment and intent in social media: A new task, dataset and baseline](https://dl.acm.org/doi/abs/10.1145/3746027.3755272) | ACM MM 2025 | Emotion | 📝📸 | [Github](https://github.com/FakerBoom/MSAIRS-Dataset) | - |
-| [Insightvision: A comprehensive, multi-level chinese-based benchmark for evaluating implicit visual semantics in large vision language models](https://arxiv.org/pdf/2502.15812v1) | arXiv 2025 | Implicit | 📝📸 | - | - |
 | [Large language models as theory of mind aware generative agents with counterfactual reflection](https://arxiv.org/pdf/2501.15355v1) | arXiv 2025 | Theory of Mind | 📝 | - | - |
 | [Learn from failure: Causality-guided contrastive learning for generalizable implicit hate speech detection](https://aclanthology.org/2025.coling-main.593.pdf) | COLING 2025 | Implicit | 📝 | - | - |
-| [MoMentS: A comprehensive multimodal benchmark for theory of mind](https://aclanthology.org/2025.findings-emnlp.1230.pdf) | EMNLP 2025 | Theory of Mind | 📝📸🔊 | [Github](https://github.com/villacu/MoMentS) | - |
 | [Pragmatic inference chain (PIC) improving LLMs' reasoning of authentic implicit toxic language](https://aclanthology.org/2025.emnlp-main.296.pdf) | EMNLP 2025 | Implicit | 📝 | - | [Data](https://github.com/xchenresearch/PIC_3097_data) |
-| [Proverbs run in pairs: Evaluating proverb translation capability of large language model](https://aclanthology.org/2025.findings-acl.83/) | ACL 2025 | Implicit | 📝 | [Github](https://github.com/yuriak/LLMProverbMT) | - |
 | [R^3-VQA: "Read the Room" by Video Social Reasoning](https://arxiv.org/pdf/2505.04147v1) | arXiv 2025 | Theory of Mind | 📝📸🔊 | - | - |
 | [Sheep's skin, wolf's deeds: Are LLMs ready for metaphorical implicit hate speech?](https://aclanthology.org/2025.acl-long.814.pdf) | ACL 2025 | Implicit | 📝 | - | - |
-| [Visionarena: 230k real world user-vlm conversations with preference labels](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11094422) | CVPR 2025 | Preference | 📝📸 | [Github](https://huggingface.co/lmarena-ai) | - |
 | [Towards Dynamic Theory of Mind: Evaluating LLM Adaptation to Temporal Evolution of Human States.](https://aclanthology.org/2025.acl-long.1171/) | ACL 2025 | Theory of Mind | 📝 | - | [Data](https://github.com/GAIR-NLP/DynToM) |
 | [ComicScene154: A Scene Dataset for Comic Analysis](https://aclanthology.org/2025.emnlp-main.1608/) | EMNLP 2025 | Image/Video Semantics | 📝📸 | [Github](https://github.com/Knorrsche/ComicScene154) | - |
 | [Towards Multimodal Sentiment Analysis via Hierarchical Correlation Modeling with Semantic Distribution Constraints](https://ojs.aaai.org/index.php/AAAI/article/view/35484) | AAAI 2025 | Image/Video Semantics | 📝📸🔊 | - | - |
-| [A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models](https://aclanthology.org/2025.naacl-long.324/) | NAACL 2025 | Image/Video Semantics | 📝📸 | - | [Data](https://github.com/X-LANCE/CogBench) |
 | [Can Large Language Models Understand Internet Buzzwords Through User-Generated Content](https://aclanthology.org/2025.acl-long.632/) | ACL 2025 | Language Semantics | 📝 | [Github](https://github.com/SCUNLP/Buzzword) | - |
+| [Tomap: Training opponent-aware llm persuaders with theory of mind](https://arxiv.org/pdf/2505.22961v2) | arXiv 2025 | Theory of Mind | 📝 | [Github](https://github.com/ulab-uiuc/ToMAP) | - |
+| [Measuring psychological depth in language models](https://aclanthology.org/2024.emnlp-main.953.pdf) | EMNLP 2024 | Emotion | 📝 | [Github](https://github.com/PlusLabNLP/psychdepth) | - |
 | [Deciphering hate: Identifying hateful memes and their targets](https://aclanthology.org/2024.acl-long.454.pdf) | ACL 2024 | Hateful | 📝📸 | [Github](https://github.com/eftekhar-hossain/Bengali-Hateful-Memes) | - |
-| [Integrating stickers into multimodal dialogue summarization: A novel dataset and approach for enhancing social media interaction](https://dl.acm.org/doi/abs/10.1145/3664647.3680978) | ACM MM 2024 | Summarization | 📝📸 | [Github](https://github.com/FakerBoom/MCDSCS) | - |
 | [Paralinguistics-enhanced large language modeling of spoken dialogue](https://arxiv.org/pdf/2312.15316) | ICASSP 2024 | Emotion | 📝🔊 | - | - |
 | [Propaganda to hate: A multimodal analysis of arabic memes with multi-agent llms](https://arxiv.org/pdf/2409.07246v2) | WISE 2024 | Hateful | 📝📸 | [Github](https://github.com/firojalam/propaganda-and-hateful-memes) | - |
 | [RoQLlama: A lightweight Romanian adapted language model](https://aclanthology.org/2024.findings-emnlp.261/) | EMNLP 2024 | Multilingual | 📝 | [Github](https://github.com/andreidima/Llama-2-7b-Romanian-qlora) | [Data](https://github.com/craciuncg/RoMedQA_v1) |
-| [SMILE: Multimodal dataset for understanding laughter in video with language models](https://aclanthology.org/2024.findings-naacl.73.pdf) | NAACL 2024 | Emotion | 📝📸🔊 | [Github](https://github.com/kaist-ami/SMILE-Dataset) | - |
-| [SoMeLVLM: A large vision language model for social media processing](https://aclanthology.org/2024.findings-acl.140/) | ACL 2024 | Implicit | 📝📸 | [Github](https://somelvlm.github.io/) | - |
-| [“A good pun is its own reword”: Can Large Language Models Understand Puns?](https://aclanthology.org/2024.emnlp-main.657.pdf) | EMNLP 2024 | Pun | 📝 | [Github](https://github.com/Zhijun-Xu/PunEval) | - |
 | [MMToM-QA: Multimodal Theory of Mind Question Answering.](https://aclanthology.org/2024.acl-long.851/) | ACL 2024 | Theory of Mind | 📝📸 | [Project](https://chuanyangjin.com/mmtom-qa) | - |
 | [MindDial: Enhancing Conversational Agents with Theory-of-Mind for Common Ground Alignment and Negotiation](https://aclanthology.org/2024.sigdial-1.63/) | SIGDIAL 2024 | Theory of Mind | 📝 | - | - |
 | [LLMs achieve adult human performance on higher-order theory of mind tasks](https://arxiv.org/abs/2405.18870) | arXiv 2024 | Theory of Mind | 📝 | - | - |
-| [II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/52764eb83bf0a0bd32766ce5c01612e5-Abstract-Datasets_and_Benchmarks_Track.html) | NIPS 2024 D&B Track | Image/Video Semantics | 📝📸 | [Github](https://ii-bench.github.io/) | [Data](https://huggingface.co/datasets/m-a-p/II-Bench) |
 | [Can Large Multimodal Models Uncover Deep Semantics Behind Images?](https://aclanthology.org/2024.findings-acl.113/) | ACL 2024 | Image/Video Semantics | 📝📸 | [Github](https://github.com/AnnaYang2020/DeepEval) | - |
-| [Ic9600: A benchmark dataset for automatic image complexity assessment](https://ieeexplore.ieee.org/abstract/document/9999482) | IEEE TPAMI 2023 | Complexity | 📝📸 | [Github](https://github.com/tinglyfeng/IC9600) | - |
-| [ANALOGICAL - a novel benchmark for long text analogy evaluation in large language models](https://aclanthology.org/2023.findings-acl.218.pdf) | ACL 2023 | Implicit | 📝 | - | - |
 | [CoSyn: Detecting implicit hate speech in online conversations using a context synergized hyperbolic network](https://aclanthology.org/2023.emnlp-main.377.pdf) | EMNLP 2023 | Implicit | 📝 | [Github](https://github.com/Sreyan88/CoSyn) | - |
 | [Cross-attention is not enough: Incongruity-aware dynamic hierarchical fusion for multimodal affect recognition](https://arxiv.org/pdf/2305.13583v4) | arXiv 2023 | Emotion | 📝📸 | - | - |
 | [Discrimination of the different intents carried by the same text through integrating multimodal information](https://www.isca-archive.org/interspeech_2023/li23ia_interspeech.pdf) | ACL 2023 | Implicit | 🔊 | - | - |
 | [Multilingual multi-figurative language detection](https://aclanthology.org/2023.findings-acl.589.pdf) | ACL 2023 | Implicit | 📝 | [Github](https://github.com/laihuiyuan/MMFLD) | - |
 | [Pro-Cap: Leveraging a frozen vision-language model for hateful meme detection](https://dl.acm.org/doi/abs/10.1145/3581783.3612498) | ACM MM 2023 | Implicit | 📝📸 | [Github](https://github.com/Social-AI-Studio/Pro-Cap) | - |
 | [ExPUNations: Augmenting puns with keywords and explanations](https://aclanthology.org/2022.emnlp-main.304.pdf) | EMNLP 2022 | Pun | 📝 | [Github](https://github.com/amazon-science/expunations) | - |
-| [FigMemes: A dataset for figurative language identification in politically-opinionated memes](https://aclanthology.org/2022.emnlp-main.476.pdf) | EMNLP 2022 | Implicit | 📝📸 | [Github](https://github.com/UKPLab/emnlp2022-figmemes) | - |
 | [Potential idiomatic expression (PIE)-English: Corpus for classes of idioms](https://aclanthology.org/2022.lrec-1.72.pdf) | LREC 2022 | Implicit | 📝 | - | [Data](https://github.com/tosingithub/idesk) |
 | [What can size tell us about abstract conceptual processing?](https://www.sciencedirect.com/science/article/pii/S0749596X22000560) | Journal of Memory and Language 2022 | Language Semantics | 📝 | - | - |
-| [SASICM: A Multi-Task Benchmark For Subtext Recognition](https://arxiv.org/abs/2106.06944) | arXiv 2021 | Subtext | 📝 | - | - |
 | [Semantic complexity in end-to-end spoken language understanding](https://arxiv.org/pdf/2008.02858) | INTERSPEECH 2020 | Complexity | 📝🔊 | - | - |
 | [The glasgow norms: Ratings of 5,500 words on nine scales](https://link.springer.com/content/pdf/10.3758/s13428-018-1099-3.pdf) | Behavior research methods 2019 | Complexity | 📝 | - | - |
 
@@ -374,7 +306,9 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 | [Cfunmodel: A" funny" language model capable of chinese humor generation and processing](https://arxiv.org/pdf/2503.20417v1) | arXiv 2025 | 📝 | [Github](https://huggingface.co/datasets/ZhenghanYU/CFunSet) | [Data](https://github.com/ZhenghanYU/CFunModel) |
 | [Humorchain: Theory-guided multi-stage reasoning for interpretable multimodal humor generation](https://arxiv.org/pdf/2511.21732v1) | arXiv 2025 | 📝📸 | - | - |
 | [AI Humor Generation: Cognitive, Social and Creative Skills for Effective Humor](https://arxiv.org/abs/2502.07981) | arXiv 2025 | 📝📸 | - | - |
-| [GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art](https://aclanthology.org/2025.acl-long.583/) | ACL 2025 | 📝📸 | - | [Data](https://github.com/stan-lei/GODBench-ACL2025) |
+| [BottleHumor: Self-informed humor explanation using the information bottleneck principle](https://aclanthology.org/2025.findings-acl.1163.pdf) | ACL 2025 | 📝📸 | [Github](https://github.com/eujhwang/bottle-humor) | - |
+| [Cracking the code of juxtaposition: can ai models understand the humorous contradictions](https://arxiv.org/pdf/2405.19088v2) | NeurIPS 2024 | 📝📸 | [Github](https://vulab-ai.github.io/YESBUT_Homepage/) | - |
+| [Xmecap: Meme caption generation with sub-image adaptability](https://arxiv.org/pdf/2407.17152v4) | ACM MM 2024 | 📝📸 | - | - |
 | [Content-specific humorous image captioning using incongruity resolution chain-of-thought](https://aclanthology.org/2024.findings-naacl.152.pdf) | NAACL 2024 | 📝📸 | [Github](https://kohtaro246.github.io/publication/IRCoT) | - |
 | [Innovative thinking, infinite humor: Humor research of large language models through structured thought leaps](https://arxiv.org/pdf/2410.10370v2) | arXiv 2024 | 📝 | - | - |
 | [Small but funny: A feedback-driven approach to humor distillation](https://aclanthology.org/2024.acl-long.706.pdf) | ACL 2024 | 📝 | - | - |
@@ -382,7 +316,8 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 | [HOTVCOM: Generating Buzzworthy Comments for Videos](https://aclanthology.org/2024.findings-acl.130/) | ACL 2024 | 📝📸🔊 | - | - |
 | [Humor Mechanics: Advancing Humor Generation with Multistep Reasoning](https://arxiv.org/abs/2405.07280) | arXiv 2024 | 📝 | [Github](https://github.com/altsoph/humor-mechanics) | - |
 | [Can language models make fun? a case study in Chinese comical crosstalk](https://aclanthology.org/2023.acl-long.419.pdf) | ACL 2023 | 📝 | [Github](https://github.com/anonNo2/crosstalk-generation) | - |
-| [Distribution-based measures of surprise for creative language: Experiments with humor and metaphor](https://aclanthology.org/2022.flp-1.10.pdf) | FLP 2022 | 📝 | [Github](https://github.com/uoseremen/SurpriseCreativeLanguage) | - |
+| [Can language models laugh at YouTube short-form videos?](https://aclanthology.org/2023.emnlp-main.176.pdf) | EMNLP 2023 | 📝📸🔊 | [Github](https://github.com/dayoon-ko/ExFunTube) | - |
+| [When to laugh and how hard? a multimodal approach to detecting humor and its intensity](https://aclanthology.org/2022.coling-1.598.pdf) | COLING 2022 | 📝📸🔊 | - | - |
 
 [<u><🎯Back to Top></u>](#head-content)
 
@@ -390,9 +325,17 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 
 | Paper Name | Venue | Modality | Project Link | Data Link |
 | ------ | ---------- | ----- | ------- | ---------------- |
+| [Metaphorstar: Image metaphor understanding and reasoning with end-to-end visual reinforcement learning](https://arxiv.org/pdf/2602.10575) | arXiv 2026 | 📝📸 | [Github](https://metaphorstar.github.io/) | - |
+| [Looking beyond the pixels: Evaluating visual metaphor understanding in vlms](https://aclanthology.org/2025.findings-emnlp.1257.pdf) | EMNLP 2025 | 📝📸 | [Github](https://github.com/manishitIITB/Visual_Metaphor_ImageMet_EMNLP2025) | - |
 | [CoMet: Metaphor-driven covert communication for multi-agent language games](https://aclanthology.org/2025.acl-long.389.pdf) | ACL 2025 | 📝 | [Github](https://github.com/xushuhang1122/CoMet) | - |
 | [The mind's eye: A multi-faceted reward framework for guiding visual metaphor generation](https://arxiv.org/pdf/2508.18569v1) | arXiv 2025 | 📝 | - | - |
+| [GOME: Grounding-based metaphor binding with conceptual elaboration for figurative language illustration](https://aclanthology.org/2024.emnlp-main.1028.pdf) | EMNLP 2024 | 📝📸 | [Github](https://github.com/EMNLP-2024-Submission/GOME.git) | - |
+| [Merely judging metaphor is not enough: Research on reasonable metaphor detection](https://aclanthology.org/2024.findings-emnlp.336.pdf) | EMNLP 2024 | 📝 | [Github](https://github.com/yc-cy/Metaphorical-Reasoning) | - |
+| [MetaPro 2.0: Computational metaphor processing on the effectiveness of anomalous language modeling](https://aclanthology.org/2024.findings-acl.590.pdf) | ACL 2024 | 📝 | [Github](https://github.com/RuiMao1988/ALM) | [Data](https://github.com/RuiMao1988/VMC-P) |
+| [I spy a metaphor: Large language models and diffusion models co-create visual metaphors](https://aclanthology.org/2023.findings-acl.465.pdf) | ACL 2023 | 📝📸 | - | - |
+| [MemeCap: A dataset for captioning and interpreting memes](https://aclanthology.org/2023.emnlp-main.89.pdf) | EMNLP2023 | 📝📸 | [Github](https://github.com/eujhwang/meme-cap) | - |
 | [Multi-figurative language generation](https://aclanthology.org/2022.coling-1.519.pdf) | COLING 2022 | 📝 | [Github](https://github.com/laihuiyuan/mFLAG) | - |
+| [FLUTE: Figurative language understanding through textual explanations](https://aclanthology.org/2022.emnlp-main.481.pdf) | EMNLP 2022 | 📝 | [Github](https://github.com/tuhinjubcse/model-in-the-loop-fig-lang) | [Data](https://github.com/ColumbiaNLP/FLUTE) |
 | [Nominal metaphor generation with multitask learning](https://aclanthology.org/2022.inlg-main.18.pdf) | INLG 2022 | 📝 | [Github](https://github.com/liyucheng09/Metaphor_Generator) | - |
 #### <span id="head-methods-generation-sarcasm"> *Sarcasm* </span>
 
@@ -407,6 +350,7 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 | [Generating faithful synthetic data with large language models: A case study in computational social science](https://arxiv.org/pdf/2305.15041v1) | arXiv 2023 | 📝 | [Github](https://github.com/epfl-dlab/faithful-data-gen) | - |
 | [Multi-modal sarcasm generation: Dataset and solution](https://aclanthology.org/2023.findings-acl.346.pdf) | ACL 2023 | 📝📸 | [Github](https://github.com/github.com/lukakupolida) | - |
 | [Multi-source semantic graph-based multimodal sarcasm explanation generation](https://aclanthology.org/2023.acl-long.635.pdf) | ACL 2023 | 📝📸 | [Github](https://github.com/LiqiangJing/TEAM) | - |
+| [When did you become so smart, oh wise one?! sarcasm explanation in multi-modal multi-party dialogues](https://aclanthology.org/2022.acl-long.411.pdf) | ACL 2022 | 📝📸 | - | - |
 
 [<u><🎯Back to Top></u>](#head-content)
 
@@ -414,12 +358,10 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 
 | Paper Name | Venue | Modality | Project Link | Data Link |
 | ------ | ---------- | ----- | ------- | ---------------- |
-| [Aeq-bench: Measuring empathy of omni-modal large models](https://aclanthology.org/2026.findings-acl.1813.pdf) | ACL 2026 | 🔊 | - | - |
 | [Perm: Psychology-grounded empathetic reward modeling for large language models](https://arxiv.org/pdf/2601.10532v1) | arXiv 2026 | 📝 | [Github](https://github.com/ZhengWwwq/PERM) | - |
 | [Beyond coarse labels: Fine-grained problem augmentation and multi-dimensional feedback for emotional support conversation](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.86.pdf) | EMNLP 2025 | 📝 | [Github](https://github.com/FakerBoom/FPEMF) | - |
 | [Chain-talker: Chain understanding and rendering for empathetic conversational speech synthesis](https://aclanthology.org/2025.findings-acl.101.pdf) | ACL 2025 | 🔊 | [Github](https://github.com/AI-S2-Lab/Chain-Talker) | - |
 | [E3rg: Building explicit emotion-driven empathetic response generation system with multimodal large language model](https://arxiv.org/pdf/2508.12854v1) | ACM MM 2025 | 📝📸🔊 | [Github](https://github.com/RH-Lin/E3RG) | - |
-| [Ecc: An emotion-cause conversation dataset for empathy response](https://aclanthology.org/2025.emnlp-main.306.pdf) | EMNLP 2025 | 📝 | [Github](https://github.com/Yuan-23/ECC) | - |
 | [Empathetic response generation through multi-modality](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11129652) | IEEE TAC 2025 | 📝📸🔊 | [Github](https://github.com/EmpatheticResponse/ERGM) | - |
 | [Empathy level alignment via reinforcement learning for empathetic response generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10899840) | IEEE TAC 2025 | 📝 | [Github](https://github.com/butterfliesss/EmpRL) | - |
 | [Empathy omni: Enabling empathetic speech response generation through large language models](https://arxiv.org/pdf/2508.18655v3) | arXiv 2025 | 🔊 | [Github](https://w311411.github.io/omni_demo/) | - |
@@ -434,13 +376,14 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 | [The pursuit of empathy: Evaluating small language models for ptsd dialogue support](https://aclanthology.org/2025.emnlp-main.1573.pdf) | EMNLP 2025 | 📝 | [Github](https://huggingface.co/datasets/yenopoya/TIDE) | - |
 | [MPE-TTS: Customized Emotion Zero-Shot Text-To-Speech Using Multi-Modal Prompt](https://arxiv.org/abs/2505.18453) | arXiv 2025 | 📝📸🔊 | [Github](https://mpetts-demo.github.io/mpetts_demo/) | - |
 | [Empathy-R1: A Chain-of-Empathy and Reinforcement Learning Framework for Long-Form Mental Health Support.](https://arxiv.org/abs/2509.14851) | arXiv 2025 | 📝 | - | - |
+| [SYNTHEMPATHY: A scalable empathy corpus generated using LLMs without any crowdsourcing](https://arxiv.org/pdf/2502.17857v1) | arXiv 2025 | 📝 | - | - |
+| [HEART-felt narratives: Tracing empathy and narrative style in personal stories with LLMs](https://aclanthology.org/2024.emnlp-main.59.pdf) | EMNLP 2024 | 📝 | [Github](https://github.com/mitmedialab/heartfelt-narratives-emnlp) | - |
+| [Synth-empathy: Towards high-quality synthetic empathy data](https://arxiv.org/pdf/2407.21669v2) | arXiv 2024 | 📝 | [Github](https://github.com/Aurora-slz/Synth-Empathy) | - |
 | [Aptness: Incorporating appraisal theory and emotion support strategies for empathetic response generation](https://arxiv.org/pdf/2407.21048v1) | CIKM 2024 | 📝 | [Github](https://github.com/CAS-SIAT-XinHai/APTNESS) | - |
 | [Beyond persuasion: Towards conversational recommender system with credible explanations](https://arxiv.org/pdf/2409.10527v1) | EMNLP 2024 | 📝 | - | - |
-| [EmotionQueen: A benchmark for evaluating empathy of large language models](https://aclanthology.org/2024.findings-acl.128.pdf) | ACL 2024 | 📝 | - | - |
 | [Generating persona-aware empathetic responses with retrieval-augmented prompt learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447417) | ICASSP 2024 | 📝 | - | - |
 | [Generative expressive conversational speech synthesis](https://arxiv.org/pdf/2407.21491v2) | ACM MM 2024 | 🔊 | [Github](https://github.com/AI-S2-Lab/GPT-Talker) | - |
 | [HealMe: Harnessing cognitive reframing in large language models for psychotherapy](https://aclanthology.org/2024.acl-long.93.pdf) | ACL 2024 | 📝 | [Github](https://github.com/elsa66666/HealMe) | - |
-| [Multi-dimensional evaluation of empathetic dialogue responses](https://aclanthology.org/2024.findings-emnlp.113.pdf) | EMNLP 2024 | 📝 | - | - |
 | [Pecer: Empathetic response generation via dynamic personality extraction and contextual emotional reasoning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10446914) | ICASSP 2024 | 📝 | - | - |
 | [STICKERCONV: Generating multimodal empathetic responses from scratch](https://aclanthology.org/2024.acl-long.417.pdf) | ACL 2024 | 📝📸 | [Github](https://github.com/ZhangYiqun018/StickerConv) | - |
 | [Think before you speak: Cultivating communication skills of large language models via inner monologue](https://aclanthology.org/2024.findings-naacl.248.pdf) | NAACL 2024 | 📝 | [Github](https://github.com/934865517zjk/CSIM) | - |
@@ -456,7 +399,6 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 | [EmpHi: Generating empathetic responses with human-like intents](https://aclanthology.org/2022.naacl-main.78.pdf) | NAACL 2022 | 📝 | [Github](https://github.com/mattc95/EmpHi) | - |
 | [Empathetic dialogue generation via sensitive emotion recognition and sensible knowledge selection](https://aclanthology.org/2022.findings-emnlp.340.pdf) | EMNLP 2022 | 📝 | [Github](https://github.com/wlr737/EMNLP2022-SEEK) | - |
 | [Empathetic persuasion: Reinforcing empathy and persuasiveness in dialogue systems](https://aclanthology.org/2022.findings-naacl.63.pdf) | NAACL 2022 | 📝 | [Github](https://www.iitp.ac.in/~ai-nlp-ml/resources.html#EMP4G) | - |
-| [Multi-party empathetic dialogue generation: A new task for dialog systems](https://aclanthology.org/2022.acl-long.24.pdf) | ACL 2022 | 📝 | - | - |
 
 [<u><🎯Back to Top></u>](#head-content)
 
@@ -474,6 +416,7 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 | [PVP: An image dataset for personalized visual persuasion with persuasion strategies, viewer characteristics, and persuasiveness ratings](https://aclanthology.org/2025.acl-long.942.pdf) | ACL 2025 | 📝📸 | [Github](https://github.com/holi-lab/PVP_Personalized_Visual_Persuasion) | - |
 | [We argue to agree: Towards personality-driven argumentation-based negotiation dialogue systems for tourism](https://aclanthology.org/2025.findings-emnlp.1390.pdf) | EMNLP 2025 | 📝 | [Github](https://github.com/priyanshu-profile/PACT) | - |
 | ['why didn't you allocate this task to them?' negotiation-aware task allocation and contrastive explanation generation](https://ojs.aaai.org/index.php/AAAI/article/view/28890) | AAAI 2024 | 📝 | - | - |
+| [Ai vs. human voices: How delivery source and narrative format influence the effectiveness of persuasion messages](https://www.tandfonline.com/doi/full/10.1080/10447318.2023.2288734) | IJHCI 2024 | 🔊 | - | - |
 | [Please donate to save a life: Inducing politeness to handle resistance in persuasive dialogue agents](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10439244) | TASLP 2024 | 📝 | - | - |
 | [The persuasive power of large language models](https://ojs.aaai.org/index.php/ICWSM/article/view/31304) | ICWSM 2024 | 📝 | [Github](https://github.com/github.com/AndersGiovanni/persuasive-llms) | - |
 | [Would you like to make a donation? a dialogue system to persuade you to donate](https://aclanthology.org/2024.lrec-main.1540.pdf) | LREC-COLING 2024 | 📝 | [Github](https://github.com/QbethQ/PersuasiveDialogue) | - |
@@ -509,9 +452,15 @@ This repository curates research on HLS, covering topics such as **humor, sarcas
 | [Get the punchline: Headline-centric multi-view learning for personalized headline generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10898157) | TASLPRO 2025 | Customization | 📝 | [Github](https://github.com/yushenglong1/Headline-centric-Multi-view-Learning-for-Personalized-Headline-Generation) | - |
 | [Open character training: Shaping the persona of ai assistants through constitutional ai](https://arxiv.org/pdf/2511.01689v1) | arXiv 2025 | Emotion | 📝 | [Github](https://github.com/maiush/OpenCharacterTraining) | - |
 | [Persuasion should be double-blind: A multi-domain dialogue dataset with faith-fulness based on causal theory of mind](https://arxiv.org/pdf/2502.21297v1) | arXiv 2025 | Theory of Mind | 📝 | - | [Data](https://github.com/DingyiZhang/ToMMA-CToMPersu) |
+| [Large language models as theory of mind aware generative agents with counterfactual reflection](https://arxiv.org/pdf/2501.15355v1) | arXiv 2025 | Theory of Mind | 📝 | - | - |
 | [RoLargeSum: A large dialect-aware Romanian news dataset for summary, headline, and keyword generation](https://aclanthology.org/2025.coling-main.140/) | COLING 2025 | Summarization | 📝 | - | [Data](https://github.com/avramandrei/rolargesum) |
 | [Tomap: Training opponent-aware llm persuaders with theory of mind](https://arxiv.org/pdf/2505.22961v2) | arXiv 2025 | Theory of Mind | 📝 | [Github](https://github.com/ulab-uiuc/ToMAP) | - |
-| [MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind.](https://arxiv.org/abs/2504.18039) | ACMMM 2025 | Theory of Mind | 📝📸🔊 | [Github](https://github.com/CjangCjengh/onuw) | - |
+| [MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind.](https://arxiv.org/abs/2504.18039) | ACM MM 2025 | Theory of Mind | 📝📸🔊 | [Github](https://github.com/CjangCjengh/onuw) | - |
+| [Proverbs run in pairs: Evaluating proverb translation capability of large language model](https://aclanthology.org/2025.findings-acl.83/) | ACL 2025 | Implicit | 📝 | [Github](https://github.com/yuriak/LLMProverbMT) | - |
+| [Integrating stickers into multimodal dialogue summarization: A novel dataset and approach for enhancing social media interaction](https://dl.acm.org/doi/abs/10.1145/3664647.3680978) | ACM MM 2024 | Summarization | 📝📸 | [Github](https://github.com/FakerBoom/MCDSCS) | - |
+| [SMILE: Multimodal dataset for understanding laughter in video with language models](https://aclanthology.org/2024.findings-naacl.73.pdf) | NAACL 2024 | Emotion | 📝📸🔊 | [Github](https://github.com/kaist-ami/SMILE-Dataset) | - |
+| [SoMeLVLM: A large vision language model for social media processing](https://aclanthology.org/2024.findings-acl.140/) | ACL 2024 | Implicit | 📝📸 | [Github](https://somelvlm.github.io/) | - |
+| [“A good pun is its own reword”: Can Large Language Models Understand Puns?](https://aclanthology.org/2024.emnlp-main.657.pdf) | EMNLP 2024 | Pun | 📝 | [Github](https://github.com/Zhijun-Xu/PunEval) | - |
 | [Are U a joke master? pun generation via multi-stage curriculum learning towards a humor LLM](https://aclanthology.org/2024.findings-acl.51.pdf) | ACL 2024 | Pun | 📝 | [Github](https://github.com/cubenlp/PGCL) | - |
 | [Do llms exhibit human-like reasoning? evaluating theory of mind in llms for open-ended responses](https://arxiv.org/pdf/2406.05659v1) | arXiv 2024 | Theory of Mind | 📝 | - | - |
 | [Measuring psychological depth in language models](https://aclanthology.org/2024.emnlp-main.953.pdf) | EMNLP 2024 | Emotion | 📝 | [Github](https://github.com/PlusLabNLP/psychdepth) | - |
