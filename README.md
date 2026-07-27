@@ -703,8 +703,11 @@ If you find this paper and repo helpful for your research, please cite it below:
 ```bibtex
 
 @misc{song_towards_hlsi,
-  title  = {Towards High-Level Semantic Intelligence},
-  author = {Song, Xiujie and Yang, Gefei and You, Yining and Gan, Jiahui and Jia, Qi and Watanabe, Shota and Wan, Tianxi and Wu, Mengyue and Yu, Kai}
+author = {Song, Xiujie and Yang, Gefei and You, Yining and Gan, Jiahui and Jia, Qi and Watanabe, Shota and Wan, Tianxi and Wu, Mengyue and Yu, Kai},
+year = {2026},
+month = {07},
+pages = {},
+title = {Towards High-Level Semantic Intelligence}
 }
 
 ```
