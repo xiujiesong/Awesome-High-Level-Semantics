@@ -22,7 +22,7 @@
 
 
 ## 🎑 *News*
-* [26/07/25] Our survey paper *Towards High-Level Semantic Intelligence* and repo is released.
+* [26/07/25] 🔥🔥🔥 Our survey paper ***Towards High-Level Semantic Intelligence*** and repository are now available! Check it out on [ResearchGate](https://www.researchgate.net/publication/410761393_Towards_High-Level_Semantic_Intelligence) or [GitHub](https://github.com/xiujiesong/Awesome-High-Level-Semantics/blob/main/Survey_Towards_High-Level_Semantic_Intelligence.pdf).
 * [25/09/17] **Awesome-High-Level-Semantics** repo is created.
 
 
@@ -703,11 +703,10 @@ If you find this paper and repo helpful for your research, please cite it below:
 ```bibtex
 
 @misc{song_towards_hlsi,
+title = {Towards High-Level Semantic Intelligence},
 author = {Song, Xiujie and Yang, Gefei and You, Yining and Gan, Jiahui and Jia, Qi and Watanabe, Shota and Wan, Tianxi and Wu, Mengyue and Yu, Kai},
 year = {2026},
-month = {07},
-pages = {},
-title = {Towards High-Level Semantic Intelligence}
+month = {07}
 }
 
 ```
