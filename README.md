@@ -10,7 +10,7 @@
 
 𝓐 𝓬𝓸𝓵𝓵𝓮𝓬𝓽𝓲𝓸𝓷 𝓸𝓯 𝓻𝓮𝓼𝓸𝓾𝓻𝓬𝓮𝓼 𝓸𝓷 𝓗𝓲𝓰𝓱-𝓛𝓮𝓿𝓮𝓵-𝓢𝓮𝓶𝓪𝓷𝓽𝓲𝓬𝓼.
 
-<p><a href="https://www.researchgate.net/publication/410761393_Towards_High-Level_Semantic_Intelligence">📄 <strong>Paper Preprint</strong></a></p>
+<p><a href="https://arxiv.org/abs/2607.24082">📄 <strong>Arxiv</strong></a></p>
  
 </div>
 
@@ -22,7 +22,7 @@
 
 
 ## 🎑 *News*
-* [26/07/25] 🔥🔥🔥 Our survey paper ***Towards High-Level Semantic Intelligence*** and repository are now available! Check it out on [ResearchGate](https://www.researchgate.net/publication/410761393_Towards_High-Level_Semantic_Intelligence) or [GitHub](https://github.com/xiujiesong/Awesome-High-Level-Semantics/blob/main/Survey_Towards_High-Level_Semantic_Intelligence.pdf).
+* [26/07/25] 🔥🔥🔥 Our survey paper ***Towards High-Level Semantic Intelligence*** and repository are now available! Check it out on [Arxiv](https://arxiv.org/pdf/2607.24082).
 * [25/09/17] **Awesome-High-Level-Semantics** repo is created.
 
 
@@ -702,11 +702,14 @@ If you find this paper and repo helpful for your research, please cite it below:
 
 ```bibtex
 
-@misc{song_towards_hlsi,
-title = {Towards High-Level Semantic Intelligence},
-author = {Song, Xiujie and Yang, Gefei and You, Yining and Gan, Jiahui and Jia, Qi and Watanabe, Shota and Wan, Tianxi and Wu, Mengyue and Yu, Kai},
-year = {2026},
-month = {07}
+@misc{song2026highlevelsemanticintelligence,
+      title={Towards High-Level Semantic Intelligence}, 
+      author={Xiujie Song and Gefei Yang and Yining You and Jiahui Gan and Qi Jia and Shota Watanabe and Tianxi Wan and Mengyue Wu and Kai Yu},
+      year={2026},
+      eprint={2607.24082},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2607.24082}, 
 }
 
 ```
